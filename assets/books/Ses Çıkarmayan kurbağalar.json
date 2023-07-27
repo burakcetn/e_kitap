@@ -1,0 +1,926 @@
+[
+    {
+        "start": 0,
+        "end": 3000,
+        "part": " Ses çıkarmayan kurbağalar.\r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "ses"
+            },
+            {
+                "word": "çıkarmayan"
+            },
+            {
+                "word": "kurbağalar"
+            }
+        ]
+    },
+    {
+        "start": 3000,
+        "end": 11500,
+        "part": " Kır şehire veya eski söylenişiyle Kır şehrine bu adın verildiğine bakıp da onun Kır olduğunu sanmayınız.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "kır"
+            },
+            {
+                "word": "şehire"
+            },
+            {
+                "word": "veya"
+            },
+            {
+                "word": "eski"
+            },
+            {
+                "word": "söylenişiyle"
+            },
+            {
+                "word": "kır"
+            },
+            {
+                "word": "şehrine"
+            },
+            {
+                "word": "bu"
+            },
+            {
+                "word": "adın"
+            },
+            {
+                "word": "verildiğine"
+            },
+            {
+                "word": "bakıp"
+            },
+            {
+                "word": "da"
+            },
+            {
+                "word": "onun"
+            },
+            {
+                "word": "kır"
+            },
+            {
+                "word": "olduğunu"
+            },
+            {
+                "word": "sanmayınız"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 11500,
+        "end": 14500,
+        "part": " O tarihimizin gül şehridir.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "o"
+            },
+            {
+                "word": "tarihimizin"
+            },
+            {
+                "word": "gül"
+            },
+            {
+                "word": "şehridir"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 14500,
+        "end": 19500,
+        "part": " Yaylaları ile, kavak ağaçları ile bağlık bahçeliktir Kır şehir.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "yaylaları"
+            },
+            {
+                "word": "ile"
+            },
+            {
+                "word": "kavak"
+            },
+            {
+                "word": "ağaçları"
+            },
+            {
+                "word": "ile"
+            },
+            {
+                "word": "bağlık"
+            },
+            {
+                "word": "bahçeliktir"
+            },
+            {
+                "word": "kır"
+            },
+            {
+                "word": "şehir"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 19500,
+        "end": 31000,
+        "part": " Onun asıl şöhretini sağlayan tarafı Horasan'dan kalkıp buraya yerleştikten sonra Ahilik Teşkilatı'nı kuran Ahi Evran'ı bağrında saklamasıdır.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "onun"
+            },
+            {
+                "word": "asıl"
+            },
+            {
+                "word": "şöhretini"
+            },
+            {
+                "word": "sağlayan"
+            },
+            {
+                "word": "tarafı"
+            },
+            {
+                "word": "horasan'dan"
+            },
+            {
+                "word": "kalkıp"
+            },
+            {
+                "word": "buraya"
+            },
+            {
+                "word": "yerleştikten"
+            },
+            {
+                "word": "sonra"
+            },
+            {
+                "word": "ahilik"
+            },
+            {
+                "word": "teşkilatı'nı"
+            },
+            {
+                "word": "kuran"
+            },
+            {
+                "word": "ahi"
+            },
+            {
+                "word": "evran'ı"
+            },
+            {
+                "word": "bağrında"
+            },
+            {
+                "word": "saklamasıdır"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 31000,
+        "end": 40000,
+        "part": " 19. yüzyıldan kalan cami ve türbesi ile Ahi Evran, Kır şehir ilimiz için ayrıca bir cazibe kaynağıdır.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "19"
+            },
+            {
+                "word": "yüzyıldan"
+            },
+            {
+                "word": "kalan"
+            },
+            {
+                "word": "cami"
+            },
+            {
+                "word": "ve"
+            },
+            {
+                "word": "türbesi"
+            },
+            {
+                "word": "ile"
+            },
+            {
+                "word": "ahi"
+            },
+            {
+                "word": "evran"
+            },
+            {
+                "word": "kır"
+            },
+            {
+                "word": "şehir"
+            },
+            {
+                "word": "ilimiz"
+            },
+            {
+                "word": "için"
+            },
+            {
+                "word": "ayrıca"
+            },
+            {
+                "word": "bir"
+            },
+            {
+                "word": "cazibe"
+            },
+            {
+                "word": "kaynağıdır"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 40000,
+        "end": 49000,
+        "part": " Her yıl onun adına tertip edilen toplantılar bu ulu kişiyi ve kurduğu teşkilatı binlerce kişiye anlatmaktadır.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "her"
+            },
+            {
+                "word": "yıl"
+            },
+            {
+                "word": "onun"
+            },
+            {
+                "word": "adına"
+            },
+            {
+                "word": "tertip"
+            },
+            {
+                "word": "edilen"
+            },
+            {
+                "word": "toplantılar"
+            },
+            {
+                "word": "bu"
+            },
+            {
+                "word": "ulu"
+            },
+            {
+                "word": "kişiyi"
+            },
+            {
+                "word": "ve"
+            },
+            {
+                "word": "kurduğu"
+            },
+            {
+                "word": "teşkilatı"
+            },
+            {
+                "word": "binlerce"
+            },
+            {
+                "word": "kişiye"
+            },
+            {
+                "word": "anlatmaktadır"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 49000,
+        "end": 53500,
+        "part": " Ahi Evran, Horasan'dan gelen pek çokları gibi veli bir zattır.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "ahi"
+            },
+            {
+                "word": "evran"
+            },
+            {
+                "word": "horasan'dan"
+            },
+            {
+                "word": "gelen"
+            },
+            {
+                "word": "pek"
+            },
+            {
+                "word": "çokları"
+            },
+            {
+                "word": "gibi"
+            },
+            {
+                "word": "veli"
+            },
+            {
+                "word": "bir"
+            },
+            {
+                "word": "zattır"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 53500,
+        "end": 61500,
+        "part": " Onun da etrafında kendisi gibi veli olan dostları, uzaktan ziyaretine gelen ahbapları vardır.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "onun"
+            },
+            {
+                "word": "da"
+            },
+            {
+                "word": "etrafında"
+            },
+            {
+                "word": "kendisi"
+            },
+            {
+                "word": "gibi"
+            },
+            {
+                "word": "veli"
+            },
+            {
+                "word": "olan"
+            },
+            {
+                "word": "dostları"
+            },
+            {
+                "word": "uzaktan"
+            },
+            {
+                "word": "ziyaretine"
+            },
+            {
+                "word": "gelen"
+            },
+            {
+                "word": "ahbapları"
+            },
+            {
+                "word": "vardır"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 61500,
+        "end": 68000,
+        "part": " Böylece gül şehri velilerin zaman zaman bir araya gelip görüştükleri bir yerdir.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "böylece"
+            },
+            {
+                "word": "gül"
+            },
+            {
+                "word": "şehri"
+            },
+            {
+                "word": "velilerin"
+            },
+            {
+                "word": "zaman"
+            },
+            {
+                "word": "zaman"
+            },
+            {
+                "word": "bir"
+            },
+            {
+                "word": "araya"
+            },
+            {
+                "word": "gelip"
+            },
+            {
+                "word": "görüştükleri"
+            },
+            {
+                "word": "bir"
+            },
+            {
+                "word": "yerdir"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 68000,
+        "end": 74000,
+        "part": " Bir gün Ahi Evran bir dere kenarında velilerden biri ile sohbet etmektedir.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "bir"
+            },
+            {
+                "word": "gün"
+            },
+            {
+                "word": "ahi"
+            },
+            {
+                "word": "evran"
+            },
+            {
+                "word": "bir"
+            },
+            {
+                "word": "dere"
+            },
+            {
+                "word": "kenarında"
+            },
+            {
+                "word": "velilerden"
+            },
+            {
+                "word": "biri"
+            },
+            {
+                "word": "ile"
+            },
+            {
+                "word": "sohbet"
+            },
+            {
+                "word": "etmektedir"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 74000,
+        "end": 83000,
+        "part": " Fakat dereden de durmadan kurbağa sesleri etrafa yayılmakta ve bu ses konuşulanları anlamakta güçlü kubuşturmaktadır.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "fakat"
+            },
+            {
+                "word": "dereden"
+            },
+            {
+                "word": "de"
+            },
+            {
+                "word": "durmadan"
+            },
+            {
+                "word": "kurbağa"
+            },
+            {
+                "word": "sesleri"
+            },
+            {
+                "word": "etrafa"
+            },
+            {
+                "word": "yayılmakta"
+            },
+            {
+                "word": "ve"
+            },
+            {
+                "word": "bu"
+            },
+            {
+                "word": "ses"
+            },
+            {
+                "word": "konuşulanları"
+            },
+            {
+                "word": "anlamakta"
+            },
+            {
+                "word": "güçlü"
+            },
+            {
+                "word": "kubuşturmaktadır"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 83000,
+        "end": 90000,
+        "part": " Bu seslerden rahatsız olan Ahi Evran bir ara dereye döner ve kurbağalara hitaben der ki;\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "bu"
+            },
+            {
+                "word": "seslerden"
+            },
+            {
+                "word": "rahatsız"
+            },
+            {
+                "word": "olan"
+            },
+            {
+                "word": "ahi"
+            },
+            {
+                "word": "evran"
+            },
+            {
+                "word": "bir"
+            },
+            {
+                "word": "ara"
+            },
+            {
+                "word": "dereye"
+            },
+            {
+                "word": "döner"
+            },
+            {
+                "word": "ve"
+            },
+            {
+                "word": "kurbağalara"
+            },
+            {
+                "word": "hitaben"
+            },
+            {
+                "word": "der"
+            },
+            {
+                "word": "ki"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 90000,
+        "end": 97000,
+        "part": " \"Ya siz ötmenizi kesin biz konuşalım veya biz konuşmamızı keselim siz ötün.\"\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "ya"
+            },
+            {
+                "word": "siz"
+            },
+            {
+                "word": "ötmenizi"
+            },
+            {
+                "word": "kesin"
+            },
+            {
+                "word": "biz"
+            },
+            {
+                "word": "konuşalım"
+            },
+            {
+                "word": "veya"
+            },
+            {
+                "word": "biz"
+            },
+            {
+                "word": "konuşmamızı"
+            },
+            {
+                "word": "keselim"
+            },
+            {
+                "word": "siz"
+            },
+            {
+                "word": "ötün"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 97000,
+        "end": 102000,
+        "part": " Tabii konuşma kesilmez ve dostlar arasında uzun müddet devam eder.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "tabii"
+            },
+            {
+                "word": "konuşma"
+            },
+            {
+                "word": "kesilmez"
+            },
+            {
+                "word": "ve"
+            },
+            {
+                "word": "dostlar"
+            },
+            {
+                "word": "arasında"
+            },
+            {
+                "word": "uzun"
+            },
+            {
+                "word": "müddet"
+            },
+            {
+                "word": "devam"
+            },
+            {
+                "word": "eder"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 102000,
+        "end": 105000,
+        "part": " Ya kurbağaların ötmesi derseniz?\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "ya"
+            },
+            {
+                "word": "kurbağaların"
+            },
+            {
+                "word": "ötmesi"
+            },
+            {
+                "word": "derseniz"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 105000,
+        "end": 108000,
+        "part": " Kır şehirliler şu cevabı verirler;\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "kır"
+            },
+            {
+                "word": "şehirliler"
+            },
+            {
+                "word": "şu"
+            },
+            {
+                "word": "cevabı"
+            },
+            {
+                "word": "verirler"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 108000,
+        "end": 112000,
+        "part": " \"O günden sonra o dere de bir daha kurbağa sesi duyulmamıştır.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "o"
+            },
+            {
+                "word": "günden"
+            },
+            {
+                "word": "sonra"
+            },
+            {
+                "word": "o"
+            },
+            {
+                "word": "dere"
+            },
+            {
+                "word": "de"
+            },
+            {
+                "word": "bir"
+            },
+            {
+                "word": "daha"
+            },
+            {
+                "word": "kurbağa"
+            },
+            {
+                "word": "sesi"
+            },
+            {
+                "word": "duyulmamıştır"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 112000,
+        "end": 118000,
+        "part": " Yolunuz bir gün kır şehire düşerse siz meseleyi daha yakından araştıracaksınız.\"\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "yolunuz"
+            },
+            {
+                "word": "bir"
+            },
+            {
+                "word": "gün"
+            },
+            {
+                "word": "kır"
+            },
+            {
+                "word": "şehire"
+            },
+            {
+                "word": "düşerse"
+            },
+            {
+                "word": "siz"
+            },
+            {
+                "word": "meseleyi"
+            },
+            {
+                "word": "daha"
+            },
+            {
+                "word": "yakından"
+            },
+            {
+                "word": "araştıracaksınız"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 118000,
+        "end": 121000,
+        "part": " Bize anlatılanlar böyle söylüyor.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "bize"
+            },
+            {
+                "word": "anlatılanlar"
+            },
+            {
+                "word": "böyle"
+            },
+            {
+                "word": "söylüyor"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 121000,
+        "end": 124000,
+        "part": " Altyazı M.K.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "altyazı"
+            },
+            {
+                "word": "mk"
+            },
+            {
+                "word": ""
+            }
+        ]
+    }
+]

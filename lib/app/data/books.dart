@@ -1,0 +1,22 @@
+final booksAll = [
+  {"path": "Akdamar Kilisesi"},
+  {"path": "Akçakoca Denizkızı Efsanesi"},
+  {"path": "Arap Baba"},
+  {"path": "Ayakbastı Mevki"},
+  {"path": "Aynalı Magara"},
+  {"path": "Agri_dagi_efsanesi"},
+  {"path": "Balıklı Göl ve İğde Ağacı"},
+  {"path": "Cumalıkızık Cin Aralığı"},
+  {"path": "Görmeli Köprüsü"},
+  {"path": "Kıztaşı"},
+  {"path": "Munzur Baba"},
+  {"path": "Pamukkale Efsanesi"},
+  {"path": "Sarıkız Efsanesi"},
+  {"path": "Ses Çıkarmayan kurbağalar"},
+  {"path": "Söylemez Baba"},
+  {"path": "Ulu Burnu"},
+  {"path": "Yusufçuk Kuşu"},
+  {"path": "Çeç Daği"},
+  {"path": "Çifte Minareli Medrese"},
+  {"path": "Şahmeran"}
+];

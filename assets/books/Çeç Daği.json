@@ -1,0 +1,930 @@
+[
+    {
+        "start": 0,
+        "end": 2000,
+        "part": " Çeç Dağı\r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "çeç"
+            },
+            {
+                "word": "dağı"
+            }
+        ]
+    },
+    {
+        "start": 2000,
+        "end": 6400,
+        "part": " Çeç kelimesinin ne manaya geldiğini belki hepimiz bilmeyiz ama,\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "çeç"
+            },
+            {
+                "word": "kelimesinin"
+            },
+            {
+                "word": "ne"
+            },
+            {
+                "word": "manaya"
+            },
+            {
+                "word": "geldiğini"
+            },
+            {
+                "word": "belki"
+            },
+            {
+                "word": "hepimiz"
+            },
+            {
+                "word": "bilmeyiz"
+            },
+            {
+                "word": "ama"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 6400,
+        "end": 12640,
+        "part": " Arpa Buğday Çeç olur, Güzeller Güneç olur, Türküsünü dinlemeyenimiz yok gibidir.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "arpa"
+            },
+            {
+                "word": "buğday"
+            },
+            {
+                "word": "çeç"
+            },
+            {
+                "word": "olur"
+            },
+            {
+                "word": "güzeller"
+            },
+            {
+                "word": "güneç"
+            },
+            {
+                "word": "olur"
+            },
+            {
+                "word": "türküsünü"
+            },
+            {
+                "word": "dinlemeyenimiz"
+            },
+            {
+                "word": "yok"
+            },
+            {
+                "word": "gibidir"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 12640,
+        "end": 18400,
+        "part": " Çeç kelimesinin en güzel manası, ona en yakışanı şu olabilir.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "çeç"
+            },
+            {
+                "word": "kelimesinin"
+            },
+            {
+                "word": "en"
+            },
+            {
+                "word": "güzel"
+            },
+            {
+                "word": "manası"
+            },
+            {
+                "word": "ona"
+            },
+            {
+                "word": "en"
+            },
+            {
+                "word": "yakışanı"
+            },
+            {
+                "word": "şu"
+            },
+            {
+                "word": "olabilir"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 18400,
+        "end": 24640,
+        "part": " Çiftçinin kavurucu yaz güneşinin altında, alnından damlayan tertaneleri.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "çiftçinin"
+            },
+            {
+                "word": "kavurucu"
+            },
+            {
+                "word": "yaz"
+            },
+            {
+                "word": "güneşinin"
+            },
+            {
+                "word": "altında"
+            },
+            {
+                "word": "alnından"
+            },
+            {
+                "word": "damlayan"
+            },
+            {
+                "word": "tertaneleri"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 24640,
+        "end": 30800,
+        "part": " Nevşehir'in Avanos ilçesinde, Halkın Çeç Dağı adını verdiği bir tepe vardır.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "nevşehir'in"
+            },
+            {
+                "word": "avanos"
+            },
+            {
+                "word": "ilçesinde"
+            },
+            {
+                "word": "halkın"
+            },
+            {
+                "word": "çeç"
+            },
+            {
+                "word": "dağı"
+            },
+            {
+                "word": "adını"
+            },
+            {
+                "word": "verdiği"
+            },
+            {
+                "word": "bir"
+            },
+            {
+                "word": "tepe"
+            },
+            {
+                "word": "vardır"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 30800,
+        "end": 36160,
+        "part": " Bu tepenin üzeri, anlattıklarına göre, bir masa üzeri kadar düzdür.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "bu"
+            },
+            {
+                "word": "tepenin"
+            },
+            {
+                "word": "üzeri"
+            },
+            {
+                "word": "anlattıklarına"
+            },
+            {
+                "word": "göre"
+            },
+            {
+                "word": "bir"
+            },
+            {
+                "word": "masa"
+            },
+            {
+                "word": "üzeri"
+            },
+            {
+                "word": "kadar"
+            },
+            {
+                "word": "düzdür"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 36160,
+        "end": 41520,
+        "part": " Hiç üzeri düz olan dağ olur muymuş? Demeyiniz, elbette olur.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "hiç"
+            },
+            {
+                "word": "üzeri"
+            },
+            {
+                "word": "düz"
+            },
+            {
+                "word": "olan"
+            },
+            {
+                "word": "dağ"
+            },
+            {
+                "word": "olur"
+            },
+            {
+                "word": "muymuş"
+            },
+            {
+                "word": "demeyiniz"
+            },
+            {
+                "word": "elbette"
+            },
+            {
+                "word": "olur"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 41520,
+        "end": 45040,
+        "part": " Hem hikayesi bu oluşu ne güzel anlatıyor.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "hem"
+            },
+            {
+                "word": "hikayesi"
+            },
+            {
+                "word": "bu"
+            },
+            {
+                "word": "oluşu"
+            },
+            {
+                "word": "ne"
+            },
+            {
+                "word": "güzel"
+            },
+            {
+                "word": "anlatıyor"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 45040,
+        "end": 49280,
+        "part": " Vaktiyle çiftçinin biri ekinlerini harmanladıktan sonra,\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "vaktiyle"
+            },
+            {
+                "word": "çiftçinin"
+            },
+            {
+                "word": "biri"
+            },
+            {
+                "word": "ekinlerini"
+            },
+            {
+                "word": "harmanladıktan"
+            },
+            {
+                "word": "sonra"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 49280,
+        "end": 54960,
+        "part": " Kurttan, kuştan, hırsızlardan kurmak için büyük bir yığın haline getirir.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "kurttan"
+            },
+            {
+                "word": "kuştan"
+            },
+            {
+                "word": "hırsızlardan"
+            },
+            {
+                "word": "kurmak"
+            },
+            {
+                "word": "için"
+            },
+            {
+                "word": "büyük"
+            },
+            {
+                "word": "bir"
+            },
+            {
+                "word": "yığın"
+            },
+            {
+                "word": "haline"
+            },
+            {
+                "word": "getirir"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 54960,
+        "end": 60320,
+        "part": " Kendisi de başında beklemeye başlar. Mal bu, canın yongası demişler.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "kendisi"
+            },
+            {
+                "word": "de"
+            },
+            {
+                "word": "başında"
+            },
+            {
+                "word": "beklemeye"
+            },
+            {
+                "word": "başlar"
+            },
+            {
+                "word": "mal"
+            },
+            {
+                "word": "bu"
+            },
+            {
+                "word": "canın"
+            },
+            {
+                "word": "yongası"
+            },
+            {
+                "word": "demişler"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 60320,
+        "end": 66400,
+        "part": " Ama herkesin öyle çok malı yok ki saklasın. Fakiri var, zengini var.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "ama"
+            },
+            {
+                "word": "herkesin"
+            },
+            {
+                "word": "öyle"
+            },
+            {
+                "word": "çok"
+            },
+            {
+                "word": "malı"
+            },
+            {
+                "word": "yok"
+            },
+            {
+                "word": "ki"
+            },
+            {
+                "word": "saklasın"
+            },
+            {
+                "word": "fakiri"
+            },
+            {
+                "word": "var"
+            },
+            {
+                "word": "zengini"
+            },
+            {
+                "word": "var"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 66400,
+        "end": 70240,
+        "part": " Bir gün biri çıkar gelir çiftçinin karşısına.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "bir"
+            },
+            {
+                "word": "gün"
+            },
+            {
+                "word": "biri"
+            },
+            {
+                "word": "çıkar"
+            },
+            {
+                "word": "gelir"
+            },
+            {
+                "word": "çiftçinin"
+            },
+            {
+                "word": "karşısına"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 70240,
+        "end": 72640,
+        "part": " Biraz buğday ister çiftçiden.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "biraz"
+            },
+            {
+                "word": "buğday"
+            },
+            {
+                "word": "ister"
+            },
+            {
+                "word": "çiftçiden"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 72640,
+        "end": 78320,
+        "part": " Belki o koca yığından alındığı belli olmayacak kadar az bir buğday.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "belki"
+            },
+            {
+                "word": "o"
+            },
+            {
+                "word": "koca"
+            },
+            {
+                "word": "yığından"
+            },
+            {
+                "word": "alındığı"
+            },
+            {
+                "word": "belli"
+            },
+            {
+                "word": "olmayacak"
+            },
+            {
+                "word": "kadar"
+            },
+            {
+                "word": "az"
+            },
+            {
+                "word": "bir"
+            },
+            {
+                "word": "buğday"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 78320,
+        "end": 80400,
+        "part": " Ama çiftçi hiç oralı olmaz.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "ama"
+            },
+            {
+                "word": "çiftçi"
+            },
+            {
+                "word": "hiç"
+            },
+            {
+                "word": "oralı"
+            },
+            {
+                "word": "olmaz"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 80400,
+        "end": 85440,
+        "part": " Üstelik fakir köylüsünü bir güzelce de azarlar. Sonra da kovar.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "üstelik"
+            },
+            {
+                "word": "fakir"
+            },
+            {
+                "word": "köylüsünü"
+            },
+            {
+                "word": "bir"
+            },
+            {
+                "word": "güzelce"
+            },
+            {
+                "word": "de"
+            },
+            {
+                "word": "azarlar"
+            },
+            {
+                "word": "sonra"
+            },
+            {
+                "word": "da"
+            },
+            {
+                "word": "kovar"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 85440,
+        "end": 88160,
+        "part": " Fakirin dili yok ki bir şeyler söylesin.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "fakirin"
+            },
+            {
+                "word": "dili"
+            },
+            {
+                "word": "yok"
+            },
+            {
+                "word": "ki"
+            },
+            {
+                "word": "bir"
+            },
+            {
+                "word": "şeyler"
+            },
+            {
+                "word": "söylesin"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 88160,
+        "end": 91200,
+        "part": " Taş yürekli kalbi yok ki kötü laflar etsin.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "taş"
+            },
+            {
+                "word": "yürekli"
+            },
+            {
+                "word": "kalbi"
+            },
+            {
+                "word": "yok"
+            },
+            {
+                "word": "ki"
+            },
+            {
+                "word": "kötü"
+            },
+            {
+                "word": "laflar"
+            },
+            {
+                "word": "etsin"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 91200,
+        "end": 96080,
+        "part": " Dediği sadece Allah seni de buğdayını da taş yapsın.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "dediği"
+            },
+            {
+                "word": "sadece"
+            },
+            {
+                "word": "allah"
+            },
+            {
+                "word": "seni"
+            },
+            {
+                "word": "de"
+            },
+            {
+                "word": "buğdayını"
+            },
+            {
+                "word": "da"
+            },
+            {
+                "word": "taş"
+            },
+            {
+                "word": "yapsın"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 96080,
+        "end": 98800,
+        "part": " Bugün Çeç Dağı adı verilen burada,\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "bugün"
+            },
+            {
+                "word": "çeç"
+            },
+            {
+                "word": "dağı"
+            },
+            {
+                "word": "adı"
+            },
+            {
+                "word": "verilen"
+            },
+            {
+                "word": "burada"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 98800,
+        "end": 107120,
+        "part": " Dikkatlice bakılırsa ayrıca insana, orağa, yabaya benzer taş parçalarının olduğu görülür.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "dikkatlice"
+            },
+            {
+                "word": "bakılırsa"
+            },
+            {
+                "word": "ayrıca"
+            },
+            {
+                "word": "insana"
+            },
+            {
+                "word": "orağa"
+            },
+            {
+                "word": "yabaya"
+            },
+            {
+                "word": "benzer"
+            },
+            {
+                "word": "taş"
+            },
+            {
+                "word": "parçalarının"
+            },
+            {
+                "word": "olduğu"
+            },
+            {
+                "word": "görülür"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 107120,
+        "end": 112080,
+        "part": " Merhametsiz çiftçi bütün varlığı ile taş olmuştur.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "merhametsiz"
+            },
+            {
+                "word": "çiftçi"
+            },
+            {
+                "word": "bütün"
+            },
+            {
+                "word": "varlığı"
+            },
+            {
+                "word": "ile"
+            },
+            {
+                "word": "taş"
+            },
+            {
+                "word": "olmuştur"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 113040,
+        "end": 115040,
+        "part": " [Sessizlik]\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "sessizlik"
+            },
+            {
+                "word": ""
+            }
+        ]
+    }
+]
