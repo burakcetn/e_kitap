@@ -15,7 +15,10 @@ class BooklistenPage extends GetView<BooklistenController> {
     return GetBuilder<BooklistenController>(
       builder: (_) {
         return Scaffold(
-          appBar: AppBar(title: const Text("")),
+          appBar: AppBar(
+              title: IconButton(
+                  onPressed: () => controller.showQuizDialogPamukkale(),
+                  icon: Icon(Icons.question_mark_outlined))),
           body: SafeArea(
             child: Padding(
               padding: const EdgeInsets.symmetric(horizontal: 15),
