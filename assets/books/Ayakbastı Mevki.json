@@ -1,0 +1,818 @@
+[
+    {
+        "start": 0,
+        "end": 2000,
+        "part": " Ayak Bastı Mevkiyi.\r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "ayak"
+            },
+            {
+                "word": "bastı"
+            },
+            {
+                "word": "mevkiyi"
+            }
+        ]
+    },
+    {
+        "start": 2000,
+        "end": 9000,
+        "part": " Tokat'ın Erbağ ilçesinin Kozlo bucağına bağlı Keçici köyünün doğusunda,\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "tokat'ın"
+            },
+            {
+                "word": "erbağ"
+            },
+            {
+                "word": "ilçesinin"
+            },
+            {
+                "word": "kozlo"
+            },
+            {
+                "word": "bucağına"
+            },
+            {
+                "word": "bağlı"
+            },
+            {
+                "word": "keçici"
+            },
+            {
+                "word": "köyünün"
+            },
+            {
+                "word": "doğusunda"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 9000,
+        "end": 16000,
+        "part": " 45 dakikalık bir mesafede köylülerin ayak bastı taşı adını verdikleri bir kaya parçası vardır.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "45"
+            },
+            {
+                "word": "dakikalık"
+            },
+            {
+                "word": "bir"
+            },
+            {
+                "word": "mesafede"
+            },
+            {
+                "word": "köylülerin"
+            },
+            {
+                "word": "ayak"
+            },
+            {
+                "word": "bastı"
+            },
+            {
+                "word": "taşı"
+            },
+            {
+                "word": "adını"
+            },
+            {
+                "word": "verdikleri"
+            },
+            {
+                "word": "bir"
+            },
+            {
+                "word": "kaya"
+            },
+            {
+                "word": "parçası"
+            },
+            {
+                "word": "vardır"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 16000,
+        "end": 23000,
+        "part": " Çevre halkı yürüyemeyen çocuklarını buraya getirip taşın üzerine bastırırlar.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "çevre"
+            },
+            {
+                "word": "halkı"
+            },
+            {
+                "word": "yürüyemeyen"
+            },
+            {
+                "word": "çocuklarını"
+            },
+            {
+                "word": "buraya"
+            },
+            {
+                "word": "getirip"
+            },
+            {
+                "word": "taşın"
+            },
+            {
+                "word": "üzerine"
+            },
+            {
+                "word": "bastırırlar"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 23000,
+        "end": 27000,
+        "part": " İnanışa göre çocuklar daha sonra yürümeye başlarlarmış.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "i̇nanışa"
+            },
+            {
+                "word": "göre"
+            },
+            {
+                "word": "çocuklar"
+            },
+            {
+                "word": "daha"
+            },
+            {
+                "word": "sonra"
+            },
+            {
+                "word": "yürümeye"
+            },
+            {
+                "word": "başlarlarmış"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 27000,
+        "end": 32000,
+        "part": " Bu taş ve bulunduğu yerle ilgili olarak şu hikaye anlatılmaktadır.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "bu"
+            },
+            {
+                "word": "taş"
+            },
+            {
+                "word": "ve"
+            },
+            {
+                "word": "bulunduğu"
+            },
+            {
+                "word": "yerle"
+            },
+            {
+                "word": "ilgili"
+            },
+            {
+                "word": "olarak"
+            },
+            {
+                "word": "şu"
+            },
+            {
+                "word": "hikaye"
+            },
+            {
+                "word": "anlatılmaktadır"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 32000,
+        "end": 35000,
+        "part": " Horasan erlerinden Keçici baba,\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "horasan"
+            },
+            {
+                "word": "erlerinden"
+            },
+            {
+                "word": "keçici"
+            },
+            {
+                "word": "baba"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 35000,
+        "end": 41000,
+        "part": " mekan tutacağı yeri bulmak için attığı sopasının peşinden Anadolu'ya gelir.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "mekan"
+            },
+            {
+                "word": "tutacağı"
+            },
+            {
+                "word": "yeri"
+            },
+            {
+                "word": "bulmak"
+            },
+            {
+                "word": "için"
+            },
+            {
+                "word": "attığı"
+            },
+            {
+                "word": "sopasının"
+            },
+            {
+                "word": "peşinden"
+            },
+            {
+                "word": "anadolu'ya"
+            },
+            {
+                "word": "gelir"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 41000,
+        "end": 45000,
+        "part": " Sopası bugün Keçici köyünün bulunduğu yere düşmüştür.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "sopası"
+            },
+            {
+                "word": "bugün"
+            },
+            {
+                "word": "keçici"
+            },
+            {
+                "word": "köyünün"
+            },
+            {
+                "word": "bulunduğu"
+            },
+            {
+                "word": "yere"
+            },
+            {
+                "word": "düşmüştür"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 45000,
+        "end": 48000,
+        "part": " Buraya yaklaşınca bir Ermeni köyüne uğrar.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "buraya"
+            },
+            {
+                "word": "yaklaşınca"
+            },
+            {
+                "word": "bir"
+            },
+            {
+                "word": "ermeni"
+            },
+            {
+                "word": "köyüne"
+            },
+            {
+                "word": "uğrar"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 48000,
+        "end": 53000,
+        "part": " Ermeni kadınların birinden abdest almak için su ister.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "ermeni"
+            },
+            {
+                "word": "kadınların"
+            },
+            {
+                "word": "birinden"
+            },
+            {
+                "word": "abdest"
+            },
+            {
+                "word": "almak"
+            },
+            {
+                "word": "için"
+            },
+            {
+                "word": "su"
+            },
+            {
+                "word": "ister"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 53000,
+        "end": 61000,
+        "part": " Yakınlarındaki Irmağı gösteren kadın kızgın bir Eda ile \"Gözün kör mü? İşte su!\" der.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "yakınlarındaki"
+            },
+            {
+                "word": "irmağı"
+            },
+            {
+                "word": "gösteren"
+            },
+            {
+                "word": "kadın"
+            },
+            {
+                "word": "kızgın"
+            },
+            {
+                "word": "bir"
+            },
+            {
+                "word": "eda"
+            },
+            {
+                "word": "ile"
+            },
+            {
+                "word": "gözün"
+            },
+            {
+                "word": "kör"
+            },
+            {
+                "word": "mü"
+            },
+            {
+                "word": "i̇şte"
+            },
+            {
+                "word": "su"
+            },
+            {
+                "word": "der"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 61000,
+        "end": 70000,
+        "part": " Kadına bir şey söyleyemeyen Keçici baba, elindeki asasını yere saplar, hemen oradan su fışkırmaya başlar.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "kadına"
+            },
+            {
+                "word": "bir"
+            },
+            {
+                "word": "şey"
+            },
+            {
+                "word": "söyleyemeyen"
+            },
+            {
+                "word": "keçici"
+            },
+            {
+                "word": "baba"
+            },
+            {
+                "word": "elindeki"
+            },
+            {
+                "word": "asasını"
+            },
+            {
+                "word": "yere"
+            },
+            {
+                "word": "saplar"
+            },
+            {
+                "word": "hemen"
+            },
+            {
+                "word": "oradan"
+            },
+            {
+                "word": "su"
+            },
+            {
+                "word": "fışkırmaya"
+            },
+            {
+                "word": "başlar"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 70000,
+        "end": 76000,
+        "part": " Abdestini alır, büyükçe bir taş parçasının üzerine çıkıp ezan okur.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "abdestini"
+            },
+            {
+                "word": "alır"
+            },
+            {
+                "word": "büyükçe"
+            },
+            {
+                "word": "bir"
+            },
+            {
+                "word": "taş"
+            },
+            {
+                "word": "parçasının"
+            },
+            {
+                "word": "üzerine"
+            },
+            {
+                "word": "çıkıp"
+            },
+            {
+                "word": "ezan"
+            },
+            {
+                "word": "okur"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 76000,
+        "end": 80000,
+        "part": " Namazını kıldıktan sonra Allah'a dua eder.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "namazını"
+            },
+            {
+                "word": "kıldıktan"
+            },
+            {
+                "word": "sonra"
+            },
+            {
+                "word": "allah'a"
+            },
+            {
+                "word": "dua"
+            },
+            {
+                "word": "eder"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 80000,
+        "end": 86000,
+        "part": " \"Ya Rabbi, bu köyü yerle bir et, kaybolup gitsin!\"\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "ya"
+            },
+            {
+                "word": "rabbi"
+            },
+            {
+                "word": "bu"
+            },
+            {
+                "word": "köyü"
+            },
+            {
+                "word": "yerle"
+            },
+            {
+                "word": "bir"
+            },
+            {
+                "word": "et"
+            },
+            {
+                "word": "kaybolup"
+            },
+            {
+                "word": "gitsin"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 86000,
+        "end": 92000,
+        "part": " Bugün Keçici babanın abdest alıp namaz kıldığı köy mevcut değildir.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "bugün"
+            },
+            {
+                "word": "keçici"
+            },
+            {
+                "word": "babanın"
+            },
+            {
+                "word": "abdest"
+            },
+            {
+                "word": "alıp"
+            },
+            {
+                "word": "namaz"
+            },
+            {
+                "word": "kıldığı"
+            },
+            {
+                "word": "köy"
+            },
+            {
+                "word": "mevcut"
+            },
+            {
+                "word": "değildir"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 92000,
+        "end": 95000,
+        "part": " Onun yeri baştan başa mezarlıktır.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "onun"
+            },
+            {
+                "word": "yeri"
+            },
+            {
+                "word": "baştan"
+            },
+            {
+                "word": "başa"
+            },
+            {
+                "word": "mezarlıktır"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 95000,
+        "end": 102000,
+        "part": " Horasan erinin üzerine çıkıp ezan okuduğu taşın üst tarafında ayak izleri vardır.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "horasan"
+            },
+            {
+                "word": "erinin"
+            },
+            {
+                "word": "üzerine"
+            },
+            {
+                "word": "çıkıp"
+            },
+            {
+                "word": "ezan"
+            },
+            {
+                "word": "okuduğu"
+            },
+            {
+                "word": "taşın"
+            },
+            {
+                "word": "üst"
+            },
+            {
+                "word": "tarafında"
+            },
+            {
+                "word": "ayak"
+            },
+            {
+                "word": "izleri"
+            },
+            {
+                "word": "vardır"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 102000,
+        "end": 109000,
+        "part": " Oraya ayağını bastığı için de o bölgeye \"Ayak Bastı Mevki\" adı verilmiştir.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "oraya"
+            },
+            {
+                "word": "ayağını"
+            },
+            {
+                "word": "bastığı"
+            },
+            {
+                "word": "için"
+            },
+            {
+                "word": "de"
+            },
+            {
+                "word": "o"
+            },
+            {
+                "word": "bölgeye"
+            },
+            {
+                "word": "ayak"
+            },
+            {
+                "word": "bastı"
+            },
+            {
+                "word": "mevki"
+            },
+            {
+                "word": "adı"
+            },
+            {
+                "word": "verilmiştir"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 109000,
+        "end": 111000,
+        "part": " Altyazı M.K.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "altyazı"
+            },
+            {
+                "word": "mk"
+            },
+            {
+                "word": ""
+            }
+        ]
+    }
+]

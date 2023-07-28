@@ -1,0 +1,543 @@
+[
+    {
+        "start": 0,
+        "end": 2000,
+        "part": " Görmeli Köprüsü.\r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "görmeli"
+            },
+            {
+                "word": "köprüsü"
+            }
+        ]
+    },
+    {
+        "start": 2000,
+        "end": 10500,
+        "part": " Bir Usta ile Kalfası Mersin'in Mut ilçesi yakınlarında coşkun bir ırmak üzerinde köprü yaparlar.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "bir"
+            },
+            {
+                "word": "usta"
+            },
+            {
+                "word": "ile"
+            },
+            {
+                "word": "kalfası"
+            },
+            {
+                "word": "mersin'in"
+            },
+            {
+                "word": "mut"
+            },
+            {
+                "word": "ilçesi"
+            },
+            {
+                "word": "yakınlarında"
+            },
+            {
+                "word": "coşkun"
+            },
+            {
+                "word": "bir"
+            },
+            {
+                "word": "ırmak"
+            },
+            {
+                "word": "üzerinde"
+            },
+            {
+                "word": "köprü"
+            },
+            {
+                "word": "yaparlar"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 10500,
+        "end": 14200,
+        "part": " Bu köprü bugün \"Gezmeli Köprüsü\" diye bilinir.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "bu"
+            },
+            {
+                "word": "köprü"
+            },
+            {
+                "word": "bugün"
+            },
+            {
+                "word": "gezmeli"
+            },
+            {
+                "word": "köprüsü"
+            },
+            {
+                "word": "diye"
+            },
+            {
+                "word": "bilinir"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 14200,
+        "end": 22500,
+        "part": " Bu köprünün yapılmasına büyük emek veren Kalfa Süleyman, ustasına bir sebepten dolayı darılır, yanından ayrılır.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "bu"
+            },
+            {
+                "word": "köprünün"
+            },
+            {
+                "word": "yapılmasına"
+            },
+            {
+                "word": "büyük"
+            },
+            {
+                "word": "emek"
+            },
+            {
+                "word": "veren"
+            },
+            {
+                "word": "kalfa"
+            },
+            {
+                "word": "süleyman"
+            },
+            {
+                "word": "ustasına"
+            },
+            {
+                "word": "bir"
+            },
+            {
+                "word": "sebepten"
+            },
+            {
+                "word": "dolayı"
+            },
+            {
+                "word": "darılır"
+            },
+            {
+                "word": "yanından"
+            },
+            {
+                "word": "ayrılır"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 22500,
+        "end": 28700,
+        "part": " Süleyman aynı ırmağın başka bir coşkun yerine gidip köprü yapmaya karar verir.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "süleyman"
+            },
+            {
+                "word": "aynı"
+            },
+            {
+                "word": "ırmağın"
+            },
+            {
+                "word": "başka"
+            },
+            {
+                "word": "bir"
+            },
+            {
+                "word": "coşkun"
+            },
+            {
+                "word": "yerine"
+            },
+            {
+                "word": "gidip"
+            },
+            {
+                "word": "köprü"
+            },
+            {
+                "word": "yapmaya"
+            },
+            {
+                "word": "karar"
+            },
+            {
+                "word": "verir"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 28700,
+        "end": 31000,
+        "part": " Başlar köprü yapmaya.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "başlar"
+            },
+            {
+                "word": "köprü"
+            },
+            {
+                "word": "yapmaya"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 31000,
+        "end": 40300,
+        "part": " Gel zaman, git zaman, Kalfanın köprüsü de biter, Süleyman eserini görmesi için ustasına haberciler gönderir.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "gel"
+            },
+            {
+                "word": "zaman"
+            },
+            {
+                "word": "git"
+            },
+            {
+                "word": "zaman"
+            },
+            {
+                "word": "kalfanın"
+            },
+            {
+                "word": "köprüsü"
+            },
+            {
+                "word": "de"
+            },
+            {
+                "word": "biter"
+            },
+            {
+                "word": "süleyman"
+            },
+            {
+                "word": "eserini"
+            },
+            {
+                "word": "görmesi"
+            },
+            {
+                "word": "için"
+            },
+            {
+                "word": "ustasına"
+            },
+            {
+                "word": "haberciler"
+            },
+            {
+                "word": "gönderir"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 40300,
+        "end": 50800,
+        "part": " Hakiki bir Usta olan diğeri, ne Kalfasının kendisini çağırmasına, ne de yanından ayrılmasına kızmayarak yeni köprüyi görmeye gelir.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "hakiki"
+            },
+            {
+                "word": "bir"
+            },
+            {
+                "word": "usta"
+            },
+            {
+                "word": "olan"
+            },
+            {
+                "word": "diğeri"
+            },
+            {
+                "word": "ne"
+            },
+            {
+                "word": "kalfasının"
+            },
+            {
+                "word": "kendisini"
+            },
+            {
+                "word": "çağırmasına"
+            },
+            {
+                "word": "ne"
+            },
+            {
+                "word": "de"
+            },
+            {
+                "word": "yanından"
+            },
+            {
+                "word": "ayrılmasına"
+            },
+            {
+                "word": "kızmayarak"
+            },
+            {
+                "word": "yeni"
+            },
+            {
+                "word": "köprüyi"
+            },
+            {
+                "word": "görmeye"
+            },
+            {
+                "word": "gelir"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 50800,
+        "end": 55500,
+        "part": " Kalfasının eserini gördükten sonra beğendiğini belirtir.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "kalfasının"
+            },
+            {
+                "word": "eserini"
+            },
+            {
+                "word": "gördükten"
+            },
+            {
+                "word": "sonra"
+            },
+            {
+                "word": "beğendiğini"
+            },
+            {
+                "word": "belirtir"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 55500,
+        "end": 58800,
+        "part": " Herkesin de bu köprüyü görmesini ister.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "herkesin"
+            },
+            {
+                "word": "de"
+            },
+            {
+                "word": "bu"
+            },
+            {
+                "word": "köprüyü"
+            },
+            {
+                "word": "görmesini"
+            },
+            {
+                "word": "ister"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 58800,
+        "end": 71400,
+        "part": " Kalfasına der ki \"Güzel yapmışsın, eline sağlık. Bu köprüyü, güzelliğini herkes görmeli. Bunun adı Görmeli Köprüsü olsun.\" der.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "kalfasına"
+            },
+            {
+                "word": "der"
+            },
+            {
+                "word": "ki"
+            },
+            {
+                "word": "güzel"
+            },
+            {
+                "word": "yapmışsın"
+            },
+            {
+                "word": "eline"
+            },
+            {
+                "word": "sağlık"
+            },
+            {
+                "word": "bu"
+            },
+            {
+                "word": "köprüyü"
+            },
+            {
+                "word": "güzelliğini"
+            },
+            {
+                "word": "herkes"
+            },
+            {
+                "word": "görmeli"
+            },
+            {
+                "word": "bunun"
+            },
+            {
+                "word": "adı"
+            },
+            {
+                "word": "görmeli"
+            },
+            {
+                "word": "köprüsü"
+            },
+            {
+                "word": "olsun"
+            },
+            {
+                "word": "der"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 71400,
+        "end": 75800,
+        "part": " Bu görüşmeden sonra köprüye Görmeli adı verilir.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "bu"
+            },
+            {
+                "word": "görüşmeden"
+            },
+            {
+                "word": "sonra"
+            },
+            {
+                "word": "köprüye"
+            },
+            {
+                "word": "görmeli"
+            },
+            {
+                "word": "adı"
+            },
+            {
+                "word": "verilir"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 75800,
+        "end": 77800,
+        "part": " Altyazı M.K.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "altyazı"
+            },
+            {
+                "word": "mk"
+            },
+            {
+                "word": ""
+            }
+        ]
+    }
+]

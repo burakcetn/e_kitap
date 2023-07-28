@@ -8,8 +8,10 @@ import 'package:getx_skeleton/app/data/models/e_book.dart';
 import 'package:flutter/services.dart' show rootBundle;
 import 'package:getx_skeleton/app/modules/BookListen/constants.dart';
 import 'package:logger/logger.dart';
+import '../../data/books.dart';
 import 'index.dart';
 import 'package:audioplayers/audioplayers.dart';
+import 'package:flutter_dialogs/flutter_dialogs.dart';
 
 class BooklistenController extends GetxController {
   RxList<InlineSpan> words = RxList.empty();
@@ -51,7 +53,12 @@ class BooklistenController extends GetxController {
     }
   }
 
+  RxString textall = RxString("");
+  RxString text = RxString("");
   void wordWrap() async {
+    var before = "";
+    textall.value += "\n";
+    if (!isPlaying.value) return;
     for (int i = 0; i < current!.words!.length; i++) {
       var element = current!.words![i];
       words.add(TextSpan(
@@ -115,7 +122,9 @@ class BooklistenController extends GetxController {
 
   void playOrPaue() {
     if (isPlaying.value) {
-      audioPlayer.pause();
+      textall.value = "";
+      text.value = "";
+      audioPlayer.stop();
     } else {
       play(currentBook, Get.context);
     }

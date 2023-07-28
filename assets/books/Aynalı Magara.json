@@ -1,0 +1,975 @@
+[
+    {
+        "start": 0,
+        "end": 3000,
+        "part": " Aynalı Mağara Efsanesi\r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "aynalı"
+            },
+            {
+                "word": "mağara"
+            },
+            {
+                "word": "efsanesi"
+            }
+        ]
+    },
+    {
+        "start": 3000,
+        "end": 8000,
+        "part": " Güzelce kız bir kral kızıdır. Dünyalar güzelidir.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "güzelce"
+            },
+            {
+                "word": "kız"
+            },
+            {
+                "word": "bir"
+            },
+            {
+                "word": "kral"
+            },
+            {
+                "word": "kızıdır"
+            },
+            {
+                "word": "dünyalar"
+            },
+            {
+                "word": "güzelidir"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 8000,
+        "end": 14000,
+        "part": " O kadar güzeldir ki, görenler dayanamaz, yıldırım düşmüş gibi kendilerinden geçerler.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "o"
+            },
+            {
+                "word": "kadar"
+            },
+            {
+                "word": "güzeldir"
+            },
+            {
+                "word": "ki"
+            },
+            {
+                "word": "görenler"
+            },
+            {
+                "word": "dayanamaz"
+            },
+            {
+                "word": "yıldırım"
+            },
+            {
+                "word": "düşmüş"
+            },
+            {
+                "word": "gibi"
+            },
+            {
+                "word": "kendilerinden"
+            },
+            {
+                "word": "geçerler"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 14000,
+        "end": 20000,
+        "part": " Bu yüzden genç kız hep peçeli gezer, güzel yüzünü kimseye göstermez.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "bu"
+            },
+            {
+                "word": "yüzden"
+            },
+            {
+                "word": "genç"
+            },
+            {
+                "word": "kız"
+            },
+            {
+                "word": "hep"
+            },
+            {
+                "word": "peçeli"
+            },
+            {
+                "word": "gezer"
+            },
+            {
+                "word": "güzel"
+            },
+            {
+                "word": "yüzünü"
+            },
+            {
+                "word": "kimseye"
+            },
+            {
+                "word": "göstermez"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 20000,
+        "end": 26000,
+        "part": " Artık zamanı gelmiştir diye düşünen babası dört bir yana haberciler çıkarır.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "artık"
+            },
+            {
+                "word": "zamanı"
+            },
+            {
+                "word": "gelmiştir"
+            },
+            {
+                "word": "diye"
+            },
+            {
+                "word": "düşünen"
+            },
+            {
+                "word": "babası"
+            },
+            {
+                "word": "dört"
+            },
+            {
+                "word": "bir"
+            },
+            {
+                "word": "yana"
+            },
+            {
+                "word": "haberciler"
+            },
+            {
+                "word": "çıkarır"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 26000,
+        "end": 32000,
+        "part": " Kızını evlendirecektir. Ama kim kızının peçesini açıp güzelliğine dayanır?\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "kızını"
+            },
+            {
+                "word": "evlendirecektir"
+            },
+            {
+                "word": "ama"
+            },
+            {
+                "word": "kim"
+            },
+            {
+                "word": "kızının"
+            },
+            {
+                "word": "peçesini"
+            },
+            {
+                "word": "açıp"
+            },
+            {
+                "word": "güzelliğine"
+            },
+            {
+                "word": "dayanır"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 32000,
+        "end": 37000,
+        "part": " Onu dünya gözüyle seyredebilirse, kızını ona verecektir.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "onu"
+            },
+            {
+                "word": "dünya"
+            },
+            {
+                "word": "gözüyle"
+            },
+            {
+                "word": "seyredebilirse"
+            },
+            {
+                "word": "kızını"
+            },
+            {
+                "word": "ona"
+            },
+            {
+                "word": "verecektir"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 37000,
+        "end": 46000,
+        "part": " Bu çağrıya yedi ikilim dört bucaktan şehzadeler, vezir çocukları, dünya zenginleri, yiğitler, bilginler,\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "bu"
+            },
+            {
+                "word": "çağrıya"
+            },
+            {
+                "word": "yedi"
+            },
+            {
+                "word": "ikilim"
+            },
+            {
+                "word": "dört"
+            },
+            {
+                "word": "bucaktan"
+            },
+            {
+                "word": "şehzadeler"
+            },
+            {
+                "word": "vezir"
+            },
+            {
+                "word": "çocukları"
+            },
+            {
+                "word": "dünya"
+            },
+            {
+                "word": "zenginleri"
+            },
+            {
+                "word": "yiğitler"
+            },
+            {
+                "word": "bilginler"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 46000,
+        "end": 52000,
+        "part": " kısacası gençliğine bilek gücüne güvenenler dört nala Amasya'ya gelirler.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "kısacası"
+            },
+            {
+                "word": "gençliğine"
+            },
+            {
+                "word": "bilek"
+            },
+            {
+                "word": "gücüne"
+            },
+            {
+                "word": "güvenenler"
+            },
+            {
+                "word": "dört"
+            },
+            {
+                "word": "nala"
+            },
+            {
+                "word": "amasya'ya"
+            },
+            {
+                "word": "gelirler"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 52000,
+        "end": 58000,
+        "part": " Amasya meydanında kurulan özel bölümde bulunan güzelce kız bekleye dursun.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "amasya"
+            },
+            {
+                "word": "meydanında"
+            },
+            {
+                "word": "kurulan"
+            },
+            {
+                "word": "özel"
+            },
+            {
+                "word": "bölümde"
+            },
+            {
+                "word": "bulunan"
+            },
+            {
+                "word": "güzelce"
+            },
+            {
+                "word": "kız"
+            },
+            {
+                "word": "bekleye"
+            },
+            {
+                "word": "dursun"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 58000,
+        "end": 62000,
+        "part": " Kendine güvenen delikanlılar cesaretlerini toplayamaz.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "kendine"
+            },
+            {
+                "word": "güvenen"
+            },
+            {
+                "word": "delikanlılar"
+            },
+            {
+                "word": "cesaretlerini"
+            },
+            {
+                "word": "toplayamaz"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 62000,
+        "end": 69000,
+        "part": " Yanına yaklaşan ise peçesini kaldırmak istediğinde eli titrer, dizlerinin bağı çözülür.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "yanına"
+            },
+            {
+                "word": "yaklaşan"
+            },
+            {
+                "word": "ise"
+            },
+            {
+                "word": "peçesini"
+            },
+            {
+                "word": "kaldırmak"
+            },
+            {
+                "word": "istediğinde"
+            },
+            {
+                "word": "eli"
+            },
+            {
+                "word": "titrer"
+            },
+            {
+                "word": "dizlerinin"
+            },
+            {
+                "word": "bağı"
+            },
+            {
+                "word": "çözülür"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 69000,
+        "end": 75000,
+        "part": " Bu sahneler günlerce devam eder. Bir gün fakir mi fakir ama yiğit mi yiğit,\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "bu"
+            },
+            {
+                "word": "sahneler"
+            },
+            {
+                "word": "günlerce"
+            },
+            {
+                "word": "devam"
+            },
+            {
+                "word": "eder"
+            },
+            {
+                "word": "bir"
+            },
+            {
+                "word": "gün"
+            },
+            {
+                "word": "fakir"
+            },
+            {
+                "word": "mi"
+            },
+            {
+                "word": "fakir"
+            },
+            {
+                "word": "ama"
+            },
+            {
+                "word": "yiğit"
+            },
+            {
+                "word": "mi"
+            },
+            {
+                "word": "yiğit"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 75000,
+        "end": 84000,
+        "part": " gerçekten güzel, alınlı bir delikanlı, ben de şansımı denemek istiyorum diye destur alıp tahtın yanına yaklaşır.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "gerçekten"
+            },
+            {
+                "word": "güzel"
+            },
+            {
+                "word": "alınlı"
+            },
+            {
+                "word": "bir"
+            },
+            {
+                "word": "delikanlı"
+            },
+            {
+                "word": "ben"
+            },
+            {
+                "word": "de"
+            },
+            {
+                "word": "şansımı"
+            },
+            {
+                "word": "denemek"
+            },
+            {
+                "word": "istiyorum"
+            },
+            {
+                "word": "diye"
+            },
+            {
+                "word": "destur"
+            },
+            {
+                "word": "alıp"
+            },
+            {
+                "word": "tahtın"
+            },
+            {
+                "word": "yanına"
+            },
+            {
+                "word": "yaklaşır"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 84000,
+        "end": 92000,
+        "part": " Herkesini şaşkın bakışları arasında hiç vakit geçirmeden güzelce kızın peçesini kaldırır.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "herkesini"
+            },
+            {
+                "word": "şaşkın"
+            },
+            {
+                "word": "bakışları"
+            },
+            {
+                "word": "arasında"
+            },
+            {
+                "word": "hiç"
+            },
+            {
+                "word": "vakit"
+            },
+            {
+                "word": "geçirmeden"
+            },
+            {
+                "word": "güzelce"
+            },
+            {
+                "word": "kızın"
+            },
+            {
+                "word": "peçesini"
+            },
+            {
+                "word": "kaldırır"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 92000,
+        "end": 100000,
+        "part": " O an öyle bir elektriklenme olur ki bir aydınlanma, bir alev, bir ateş sarar etrafı.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "o"
+            },
+            {
+                "word": "an"
+            },
+            {
+                "word": "öyle"
+            },
+            {
+                "word": "bir"
+            },
+            {
+                "word": "elektriklenme"
+            },
+            {
+                "word": "olur"
+            },
+            {
+                "word": "ki"
+            },
+            {
+                "word": "bir"
+            },
+            {
+                "word": "aydınlanma"
+            },
+            {
+                "word": "bir"
+            },
+            {
+                "word": "alev"
+            },
+            {
+                "word": "bir"
+            },
+            {
+                "word": "ateş"
+            },
+            {
+                "word": "sarar"
+            },
+            {
+                "word": "etrafı"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 100000,
+        "end": 106000,
+        "part": " Kimse ne olduğunu anlayamaz. Meydanda bulunanlar korkudan yerlere kapanır.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "kimse"
+            },
+            {
+                "word": "ne"
+            },
+            {
+                "word": "olduğunu"
+            },
+            {
+                "word": "anlayamaz"
+            },
+            {
+                "word": "meydanda"
+            },
+            {
+                "word": "bulunanlar"
+            },
+            {
+                "word": "korkudan"
+            },
+            {
+                "word": "yerlere"
+            },
+            {
+                "word": "kapanır"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 106000,
+        "end": 113000,
+        "part": " Sonra sonsuz bir sessizlik içinde kömür kesilir iki genç yan yana uzanmış şekilde.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "sonra"
+            },
+            {
+                "word": "sonsuz"
+            },
+            {
+                "word": "bir"
+            },
+            {
+                "word": "sessizlik"
+            },
+            {
+                "word": "içinde"
+            },
+            {
+                "word": "kömür"
+            },
+            {
+                "word": "kesilir"
+            },
+            {
+                "word": "iki"
+            },
+            {
+                "word": "genç"
+            },
+            {
+                "word": "yan"
+            },
+            {
+                "word": "yana"
+            },
+            {
+                "word": "uzanmış"
+            },
+            {
+                "word": "şekilde"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 113000,
+        "end": 123000,
+        "part": " İki gencin cesedi şehre yakın yerdeki bağ ve bahçelikler yanında bulunan kaya mezar içinde iki ayrı odaya gömülür.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "i̇ki"
+            },
+            {
+                "word": "gencin"
+            },
+            {
+                "word": "cesedi"
+            },
+            {
+                "word": "şehre"
+            },
+            {
+                "word": "yakın"
+            },
+            {
+                "word": "yerdeki"
+            },
+            {
+                "word": "bağ"
+            },
+            {
+                "word": "ve"
+            },
+            {
+                "word": "bahçelikler"
+            },
+            {
+                "word": "yanında"
+            },
+            {
+                "word": "bulunan"
+            },
+            {
+                "word": "kaya"
+            },
+            {
+                "word": "mezar"
+            },
+            {
+                "word": "içinde"
+            },
+            {
+                "word": "iki"
+            },
+            {
+                "word": "ayrı"
+            },
+            {
+                "word": "odaya"
+            },
+            {
+                "word": "gömülür"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 123000,
+        "end": 130000,
+        "part": " Bu kaya mezarının dışı güneşle birlikte güzelce kızın yüzü gibi parlamaya başlar.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "bu"
+            },
+            {
+                "word": "kaya"
+            },
+            {
+                "word": "mezarının"
+            },
+            {
+                "word": "dışı"
+            },
+            {
+                "word": "güneşle"
+            },
+            {
+                "word": "birlikte"
+            },
+            {
+                "word": "güzelce"
+            },
+            {
+                "word": "kızın"
+            },
+            {
+                "word": "yüzü"
+            },
+            {
+                "word": "gibi"
+            },
+            {
+                "word": "parlamaya"
+            },
+            {
+                "word": "başlar"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 130000,
+        "end": 137000,
+        "part": " Bu parlaklığından dolayı da daha sonra kaya mezarının adı Aynalı Mağara diye ünlenir.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "bu"
+            },
+            {
+                "word": "parlaklığından"
+            },
+            {
+                "word": "dolayı"
+            },
+            {
+                "word": "da"
+            },
+            {
+                "word": "daha"
+            },
+            {
+                "word": "sonra"
+            },
+            {
+                "word": "kaya"
+            },
+            {
+                "word": "mezarının"
+            },
+            {
+                "word": "adı"
+            },
+            {
+                "word": "aynalı"
+            },
+            {
+                "word": "mağara"
+            },
+            {
+                "word": "diye"
+            },
+            {
+                "word": "ünlenir"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 137000,
+        "end": 139000,
+        "part": " Bu kadar.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "bu"
+            },
+            {
+                "word": "kadar"
+            },
+            {
+                "word": ""
+            }
+        ]
+    }
+]

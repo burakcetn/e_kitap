@@ -1,0 +1,951 @@
+[
+    {
+        "start": 0,
+        "end": 2000,
+        "part": " Kız taşı.\r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "kız"
+            },
+            {
+                "word": "taşı"
+            }
+        ]
+    },
+    {
+        "start": 2000,
+        "end": 6640,
+        "part": " Van'ın 50 km kuzeyinde küçük bir köy vardır.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "van'ın"
+            },
+            {
+                "word": "50"
+            },
+            {
+                "word": "km"
+            },
+            {
+                "word": "kuzeyinde"
+            },
+            {
+                "word": "küçük"
+            },
+            {
+                "word": "bir"
+            },
+            {
+                "word": "köy"
+            },
+            {
+                "word": "vardır"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 6640,
+        "end": 7640,
+        "part": " Amik.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "amik"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 7640,
+        "end": 19000,
+        "part": " Bugün dinlenme yeri olarak çok rabet gören bu küçücük köyümüzde Van Gölü'nün harikulade görünüşlerini adeta şaşkınlıkla seyredersiniz.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "bugün"
+            },
+            {
+                "word": "dinlenme"
+            },
+            {
+                "word": "yeri"
+            },
+            {
+                "word": "olarak"
+            },
+            {
+                "word": "çok"
+            },
+            {
+                "word": "rabet"
+            },
+            {
+                "word": "gören"
+            },
+            {
+                "word": "bu"
+            },
+            {
+                "word": "küçücük"
+            },
+            {
+                "word": "köyümüzde"
+            },
+            {
+                "word": "van"
+            },
+            {
+                "word": "gölü'nün"
+            },
+            {
+                "word": "harikulade"
+            },
+            {
+                "word": "görünüşlerini"
+            },
+            {
+                "word": "adeta"
+            },
+            {
+                "word": "şaşkınlıkla"
+            },
+            {
+                "word": "seyredersiniz"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 19000,
+        "end": 31000,
+        "part": " Bu güzelliğe, bir de gölün karşı yakasında heybetli duruşu ile Süphan Dağı'nı eklerseniz seyrine doyum olmaz bir manzara ile karşı karşıya kalırsınız.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "bu"
+            },
+            {
+                "word": "güzelliğe"
+            },
+            {
+                "word": "bir"
+            },
+            {
+                "word": "de"
+            },
+            {
+                "word": "gölün"
+            },
+            {
+                "word": "karşı"
+            },
+            {
+                "word": "yakasında"
+            },
+            {
+                "word": "heybetli"
+            },
+            {
+                "word": "duruşu"
+            },
+            {
+                "word": "ile"
+            },
+            {
+                "word": "süphan"
+            },
+            {
+                "word": "dağı'nı"
+            },
+            {
+                "word": "eklerseniz"
+            },
+            {
+                "word": "seyrine"
+            },
+            {
+                "word": "doyum"
+            },
+            {
+                "word": "olmaz"
+            },
+            {
+                "word": "bir"
+            },
+            {
+                "word": "manzara"
+            },
+            {
+                "word": "ile"
+            },
+            {
+                "word": "karşı"
+            },
+            {
+                "word": "karşıya"
+            },
+            {
+                "word": "kalırsınız"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 31000,
+        "end": 54000,
+        "part": " Süphan Dağı'nın güney etekleri ile Van Gölü'nün kuzeyi arasında yer alan, bugün daha çok arkeolojik kazıları ile ün yapan Adilcevaz ilçesi ile Amik Köyünü sonsuz bir aşk bağı ile birleştiren şu hikaye Van çevresinde herkesin bildiği, söylediği bir efsane olarak anlatılmaktadır.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "süphan"
+            },
+            {
+                "word": "dağı'nın"
+            },
+            {
+                "word": "güney"
+            },
+            {
+                "word": "etekleri"
+            },
+            {
+                "word": "ile"
+            },
+            {
+                "word": "van"
+            },
+            {
+                "word": "gölü'nün"
+            },
+            {
+                "word": "kuzeyi"
+            },
+            {
+                "word": "arasında"
+            },
+            {
+                "word": "yer"
+            },
+            {
+                "word": "alan"
+            },
+            {
+                "word": "bugün"
+            },
+            {
+                "word": "daha"
+            },
+            {
+                "word": "çok"
+            },
+            {
+                "word": "arkeolojik"
+            },
+            {
+                "word": "kazıları"
+            },
+            {
+                "word": "ile"
+            },
+            {
+                "word": "ün"
+            },
+            {
+                "word": "yapan"
+            },
+            {
+                "word": "adilcevaz"
+            },
+            {
+                "word": "ilçesi"
+            },
+            {
+                "word": "ile"
+            },
+            {
+                "word": "amik"
+            },
+            {
+                "word": "köyünü"
+            },
+            {
+                "word": "sonsuz"
+            },
+            {
+                "word": "bir"
+            },
+            {
+                "word": "aşk"
+            },
+            {
+                "word": "bağı"
+            },
+            {
+                "word": "ile"
+            },
+            {
+                "word": "birleştiren"
+            },
+            {
+                "word": "şu"
+            },
+            {
+                "word": "hikaye"
+            },
+            {
+                "word": "van"
+            },
+            {
+                "word": "çevresinde"
+            },
+            {
+                "word": "herkesin"
+            },
+            {
+                "word": "bildiği"
+            },
+            {
+                "word": "söylediği"
+            },
+            {
+                "word": "bir"
+            },
+            {
+                "word": "efsane"
+            },
+            {
+                "word": "olarak"
+            },
+            {
+                "word": "anlatılmaktadır"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 54000,
+        "end": 62000,
+        "part": " Vakti ile Amik Köyü'nden delikanlının biri Adilcevaz dizdarının güzel kızına aşık olur.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "vakti"
+            },
+            {
+                "word": "ile"
+            },
+            {
+                "word": "amik"
+            },
+            {
+                "word": "köyü'nden"
+            },
+            {
+                "word": "delikanlının"
+            },
+            {
+                "word": "biri"
+            },
+            {
+                "word": "adilcevaz"
+            },
+            {
+                "word": "dizdarının"
+            },
+            {
+                "word": "güzel"
+            },
+            {
+                "word": "kızına"
+            },
+            {
+                "word": "aşık"
+            },
+            {
+                "word": "olur"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 62000,
+        "end": 69000,
+        "part": " Delikanlı her gece koskoca gölü yüzeye yüzeye karşıya geçer. Sevdiği ile görüşürmüş.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "delikanlı"
+            },
+            {
+                "word": "her"
+            },
+            {
+                "word": "gece"
+            },
+            {
+                "word": "koskoca"
+            },
+            {
+                "word": "gölü"
+            },
+            {
+                "word": "yüzeye"
+            },
+            {
+                "word": "yüzeye"
+            },
+            {
+                "word": "karşıya"
+            },
+            {
+                "word": "geçer"
+            },
+            {
+                "word": "sevdiği"
+            },
+            {
+                "word": "ile"
+            },
+            {
+                "word": "görüşürmüş"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 69000,
+        "end": 84000,
+        "part": " Dizdarın kızı da sevgilisi kendisini kolayca bulabilsin diye kıyıdaki yüksekçe bir taşın göle bakan cephesinde ışık yakarmış. Bu iki sevgili böyle uzun bir müddet buluşmaya devam ederler.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "dizdarın"
+            },
+            {
+                "word": "kızı"
+            },
+            {
+                "word": "da"
+            },
+            {
+                "word": "sevgilisi"
+            },
+            {
+                "word": "kendisini"
+            },
+            {
+                "word": "kolayca"
+            },
+            {
+                "word": "bulabilsin"
+            },
+            {
+                "word": "diye"
+            },
+            {
+                "word": "kıyıdaki"
+            },
+            {
+                "word": "yüksekçe"
+            },
+            {
+                "word": "bir"
+            },
+            {
+                "word": "taşın"
+            },
+            {
+                "word": "göle"
+            },
+            {
+                "word": "bakan"
+            },
+            {
+                "word": "cephesinde"
+            },
+            {
+                "word": "ışık"
+            },
+            {
+                "word": "yakarmış"
+            },
+            {
+                "word": "bu"
+            },
+            {
+                "word": "iki"
+            },
+            {
+                "word": "sevgili"
+            },
+            {
+                "word": "böyle"
+            },
+            {
+                "word": "uzun"
+            },
+            {
+                "word": "bir"
+            },
+            {
+                "word": "müddet"
+            },
+            {
+                "word": "buluşmaya"
+            },
+            {
+                "word": "devam"
+            },
+            {
+                "word": "ederler"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 84000,
+        "end": 96000,
+        "part": " Delikanlı her gece gölü yüzerek geçer. Sevgilisi de kıyıda ışığı yakarmış. Ne delikanlı gölün dalgalarından korkar ne de dizdarın kızı babasından.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "delikanlı"
+            },
+            {
+                "word": "her"
+            },
+            {
+                "word": "gece"
+            },
+            {
+                "word": "gölü"
+            },
+            {
+                "word": "yüzerek"
+            },
+            {
+                "word": "geçer"
+            },
+            {
+                "word": "sevgilisi"
+            },
+            {
+                "word": "de"
+            },
+            {
+                "word": "kıyıda"
+            },
+            {
+                "word": "ışığı"
+            },
+            {
+                "word": "yakarmış"
+            },
+            {
+                "word": "ne"
+            },
+            {
+                "word": "delikanlı"
+            },
+            {
+                "word": "gölün"
+            },
+            {
+                "word": "dalgalarından"
+            },
+            {
+                "word": "korkar"
+            },
+            {
+                "word": "ne"
+            },
+            {
+                "word": "de"
+            },
+            {
+                "word": "dizdarın"
+            },
+            {
+                "word": "kızı"
+            },
+            {
+                "word": "babasından"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 96000,
+        "end": 108000,
+        "part": " Bir gece kuvvetli fırtına ışığı söndürür. Bütün aramalarına rağmen ışığı göremeyen delikanlı azgın dalgalarla boğuşa boğuşa perişan olur.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "bir"
+            },
+            {
+                "word": "gece"
+            },
+            {
+                "word": "kuvvetli"
+            },
+            {
+                "word": "fırtına"
+            },
+            {
+                "word": "ışığı"
+            },
+            {
+                "word": "söndürür"
+            },
+            {
+                "word": "bütün"
+            },
+            {
+                "word": "aramalarına"
+            },
+            {
+                "word": "rağmen"
+            },
+            {
+                "word": "ışığı"
+            },
+            {
+                "word": "göremeyen"
+            },
+            {
+                "word": "delikanlı"
+            },
+            {
+                "word": "azgın"
+            },
+            {
+                "word": "dalgalarla"
+            },
+            {
+                "word": "boğuşa"
+            },
+            {
+                "word": "boğuşa"
+            },
+            {
+                "word": "perişan"
+            },
+            {
+                "word": "olur"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 108000,
+        "end": 118000,
+        "part": " Sonunda kaybolup gider. Sevdiği gencin gelmediğini gören genç kız sabaha kadar bekler. Sonunda Allah'a yalvarmaktan başka çare bulamaz.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "sonunda"
+            },
+            {
+                "word": "kaybolup"
+            },
+            {
+                "word": "gider"
+            },
+            {
+                "word": "sevdiği"
+            },
+            {
+                "word": "gencin"
+            },
+            {
+                "word": "gelmediğini"
+            },
+            {
+                "word": "gören"
+            },
+            {
+                "word": "genç"
+            },
+            {
+                "word": "kız"
+            },
+            {
+                "word": "sabaha"
+            },
+            {
+                "word": "kadar"
+            },
+            {
+                "word": "bekler"
+            },
+            {
+                "word": "sonunda"
+            },
+            {
+                "word": "allah'a"
+            },
+            {
+                "word": "yalvarmaktan"
+            },
+            {
+                "word": "başka"
+            },
+            {
+                "word": "çare"
+            },
+            {
+                "word": "bulamaz"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 118000,
+        "end": 129000,
+        "part": " Allah'ım ya benim de canımı al veya beni taş yap. Kıyamete kadar sevgilimin başucunda kalayım der. Duası kabul olan kız taş olur.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "allah'ım"
+            },
+            {
+                "word": "ya"
+            },
+            {
+                "word": "benim"
+            },
+            {
+                "word": "de"
+            },
+            {
+                "word": "canımı"
+            },
+            {
+                "word": "al"
+            },
+            {
+                "word": "veya"
+            },
+            {
+                "word": "beni"
+            },
+            {
+                "word": "taş"
+            },
+            {
+                "word": "yap"
+            },
+            {
+                "word": "kıyamete"
+            },
+            {
+                "word": "kadar"
+            },
+            {
+                "word": "sevgilimin"
+            },
+            {
+                "word": "başucunda"
+            },
+            {
+                "word": "kalayım"
+            },
+            {
+                "word": "der"
+            },
+            {
+                "word": "duası"
+            },
+            {
+                "word": "kabul"
+            },
+            {
+                "word": "olan"
+            },
+            {
+                "word": "kız"
+            },
+            {
+                "word": "taş"
+            },
+            {
+                "word": "olur"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 129000,
+        "end": 143000,
+        "part": " Bugün Adil Cevaz'da gölün kıyısında bir taş vardır. Adını kız taşı derler ve ilave ederler. Bu gölün dalgaları arasında kaybolan sevgilisini bekleyen dizdarın kızıdır.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "bugün"
+            },
+            {
+                "word": "adil"
+            },
+            {
+                "word": "cevaz'da"
+            },
+            {
+                "word": "gölün"
+            },
+            {
+                "word": "kıyısında"
+            },
+            {
+                "word": "bir"
+            },
+            {
+                "word": "taş"
+            },
+            {
+                "word": "vardır"
+            },
+            {
+                "word": "adını"
+            },
+            {
+                "word": "kız"
+            },
+            {
+                "word": "taşı"
+            },
+            {
+                "word": "derler"
+            },
+            {
+                "word": "ve"
+            },
+            {
+                "word": "ilave"
+            },
+            {
+                "word": "ederler"
+            },
+            {
+                "word": "bu"
+            },
+            {
+                "word": "gölün"
+            },
+            {
+                "word": "dalgaları"
+            },
+            {
+                "word": "arasında"
+            },
+            {
+                "word": "kaybolan"
+            },
+            {
+                "word": "sevgilisini"
+            },
+            {
+                "word": "bekleyen"
+            },
+            {
+                "word": "dizdarın"
+            },
+            {
+                "word": "kızıdır"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 143000,
+        "end": 145000,
+        "part": " Görüşürüz.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "görüşürüz"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 145000,
+        "end": 147000,
+        "part": " Altyazı M.K.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "altyazı"
+            },
+            {
+                "word": "mk"
+            },
+            {
+                "word": ""
+            }
+        ]
+    }
+]

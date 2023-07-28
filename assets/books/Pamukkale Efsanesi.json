@@ -1,0 +1,579 @@
+[
+    {
+        "start": 0,
+        "end": 3000,
+        "part": " Pamukkale Efsanesi.\r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "pamukkale"
+            },
+            {
+                "word": "efsanesi"
+            }
+        ]
+    },
+    {
+        "start": 3000,
+        "end": 8500,
+        "part": " Oduncu Güzelinin öyküsünü yüzlerce yıldır insanlar anlatırmış.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "oduncu"
+            },
+            {
+                "word": "güzelinin"
+            },
+            {
+                "word": "öyküsünü"
+            },
+            {
+                "word": "yüzlerce"
+            },
+            {
+                "word": "yıldır"
+            },
+            {
+                "word": "insanlar"
+            },
+            {
+                "word": "anlatırmış"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 8500,
+        "end": 10500,
+        "part": " Ben de geleneği bozmayayım.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "ben"
+            },
+            {
+                "word": "de"
+            },
+            {
+                "word": "geleneği"
+            },
+            {
+                "word": "bozmayayım"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 10500,
+        "end": 17500,
+        "part": " Çok çok eskiden Çökelez Dağı eteklerinde yaşayan fakir Oduncu bir aile varmış.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "çok"
+            },
+            {
+                "word": "çok"
+            },
+            {
+                "word": "eskiden"
+            },
+            {
+                "word": "çökelez"
+            },
+            {
+                "word": "dağı"
+            },
+            {
+                "word": "eteklerinde"
+            },
+            {
+                "word": "yaşayan"
+            },
+            {
+                "word": "fakir"
+            },
+            {
+                "word": "oduncu"
+            },
+            {
+                "word": "bir"
+            },
+            {
+                "word": "aile"
+            },
+            {
+                "word": "varmış"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 17500,
+        "end": 25000,
+        "part": " Bu ailenin kızı o kadar çirkinmiş ki, erkek çocuk anneleri onu görünce yollarını değiştiriyormuş.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "bu"
+            },
+            {
+                "word": "ailenin"
+            },
+            {
+                "word": "kızı"
+            },
+            {
+                "word": "o"
+            },
+            {
+                "word": "kadar"
+            },
+            {
+                "word": "çirkinmiş"
+            },
+            {
+                "word": "ki"
+            },
+            {
+                "word": "erkek"
+            },
+            {
+                "word": "çocuk"
+            },
+            {
+                "word": "anneleri"
+            },
+            {
+                "word": "onu"
+            },
+            {
+                "word": "görünce"
+            },
+            {
+                "word": "yollarını"
+            },
+            {
+                "word": "değiştiriyormuş"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 25000,
+        "end": 32000,
+        "part": " Fakirliği genç kızın umurunda bile değilmiş ama çirkinliği canına tak etmiş.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "fakirliği"
+            },
+            {
+                "word": "genç"
+            },
+            {
+                "word": "kızın"
+            },
+            {
+                "word": "umurunda"
+            },
+            {
+                "word": "bile"
+            },
+            {
+                "word": "değilmiş"
+            },
+            {
+                "word": "ama"
+            },
+            {
+                "word": "çirkinliği"
+            },
+            {
+                "word": "canına"
+            },
+            {
+                "word": "tak"
+            },
+            {
+                "word": "etmiş"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 32000,
+        "end": 36500,
+        "part": " Çökelez Dağı'nın eteklerinden kendini boşluğa bırakmış.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "çökelez"
+            },
+            {
+                "word": "dağı'nın"
+            },
+            {
+                "word": "eteklerinden"
+            },
+            {
+                "word": "kendini"
+            },
+            {
+                "word": "boşluğa"
+            },
+            {
+                "word": "bırakmış"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 36500,
+        "end": 40000,
+        "part": " Su ve tortu dolu havuza hızla düşmüş.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "su"
+            },
+            {
+                "word": "ve"
+            },
+            {
+                "word": "tortu"
+            },
+            {
+                "word": "dolu"
+            },
+            {
+                "word": "havuza"
+            },
+            {
+                "word": "hızla"
+            },
+            {
+                "word": "düşmüş"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 40000,
+        "end": 44500,
+        "part": " Burada uzun süre suların içinde baygın kalmış.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "burada"
+            },
+            {
+                "word": "uzun"
+            },
+            {
+                "word": "süre"
+            },
+            {
+                "word": "suların"
+            },
+            {
+                "word": "içinde"
+            },
+            {
+                "word": "baygın"
+            },
+            {
+                "word": "kalmış"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 44500,
+        "end": 48500,
+        "part": " O esnada bu su o çirkin kızı güzelliğe boğmuş.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "o"
+            },
+            {
+                "word": "esnada"
+            },
+            {
+                "word": "bu"
+            },
+            {
+                "word": "su"
+            },
+            {
+                "word": "o"
+            },
+            {
+                "word": "çirkin"
+            },
+            {
+                "word": "kızı"
+            },
+            {
+                "word": "güzelliğe"
+            },
+            {
+                "word": "boğmuş"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 48500,
+        "end": 54500,
+        "part": " Oradan geçmekte olan Denizlebey'in oğlu kanlar içinde güzel kızı görmüş.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "oradan"
+            },
+            {
+                "word": "geçmekte"
+            },
+            {
+                "word": "olan"
+            },
+            {
+                "word": "denizlebey'in"
+            },
+            {
+                "word": "oğlu"
+            },
+            {
+                "word": "kanlar"
+            },
+            {
+                "word": "içinde"
+            },
+            {
+                "word": "güzel"
+            },
+            {
+                "word": "kızı"
+            },
+            {
+                "word": "görmüş"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 54500,
+        "end": 58000,
+        "part": " Atına Oduncu kızı alıp evine götürmüş.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "atına"
+            },
+            {
+                "word": "oduncu"
+            },
+            {
+                "word": "kızı"
+            },
+            {
+                "word": "alıp"
+            },
+            {
+                "word": "evine"
+            },
+            {
+                "word": "götürmüş"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 58000,
+        "end": 61000,
+        "part": " Kız iyileşmiş ve evlenmişler.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "kız"
+            },
+            {
+                "word": "iyileşmiş"
+            },
+            {
+                "word": "ve"
+            },
+            {
+                "word": "evlenmişler"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 61000,
+        "end": 67000,
+        "part": " O günden sonra kadınlar güzelleşmek için bu ılıcaları ziyaret etmeye başlamış.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "o"
+            },
+            {
+                "word": "günden"
+            },
+            {
+                "word": "sonra"
+            },
+            {
+                "word": "kadınlar"
+            },
+            {
+                "word": "güzelleşmek"
+            },
+            {
+                "word": "için"
+            },
+            {
+                "word": "bu"
+            },
+            {
+                "word": "ılıcaları"
+            },
+            {
+                "word": "ziyaret"
+            },
+            {
+                "word": "etmeye"
+            },
+            {
+                "word": "başlamış"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 67000,
+        "end": 74000,
+        "part": " O gün bugündür güzelleşmek isteyen tüm kadınlar kendilerini bu suyun içine atarlarmış.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "o"
+            },
+            {
+                "word": "gün"
+            },
+            {
+                "word": "bugündür"
+            },
+            {
+                "word": "güzelleşmek"
+            },
+            {
+                "word": "isteyen"
+            },
+            {
+                "word": "tüm"
+            },
+            {
+                "word": "kadınlar"
+            },
+            {
+                "word": "kendilerini"
+            },
+            {
+                "word": "bu"
+            },
+            {
+                "word": "suyun"
+            },
+            {
+                "word": "içine"
+            },
+            {
+                "word": "atarlarmış"
+            },
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 74500,
+        "end": 77500,
+        "part": " Altyazı M.K.\r \r",
+        "words": [
+            {
+                "word": ""
+            },
+            {
+                "word": "altyazı"
+            },
+            {
+                "word": "mk"
+            },
+            {
+                "word": ""
+            }
+        ]
+    }
+]
