@@ -9,7 +9,8 @@
             {
               "startTime": "0s",
               "endTime": "1.700s",
-              "word": "Akdamar"
+              "word": "Akdamar",
+              "fiil": "Ada"
             },
             {
               "startTime": "1.700s",
@@ -39,12 +40,14 @@
             {
               "startTime": "5.100s",
               "endTime": "5.700s",
-              "word": "Gölü'nde"
+              "word": "Gölü'nde",
+              "fiil": "Göl"
             },
             {
               "startTime": "5.700s",
               "endTime": "6.200s",
-              "word": "kıyıya"
+              "word": "kıyıya",
+              "fiil": "Kıyı"
             },
             {
               "startTime": "6.200s",
@@ -69,7 +72,8 @@
             {
               "startTime": "7.900s",
               "endTime": "8.200s",
-              "word": "ada"
+              "word": "ada",
+              "fiil": "Ada"
             },
             {
               "startTime": "8.200s",
@@ -84,7 +88,8 @@
             {
               "startTime": "9.400s",
               "endTime": "9.900s",
-              "word": "adaya"
+              "word": "adaya",
+              "fiil": "Ada"
             },
             {
               "startTime": "9.900s",
@@ -95,7 +100,7 @@
               "startTime": "10.600s",
               "endTime": "11",
               "word": "ya da"
-            }, 
+            },
             {
               "startTime": "11s",
               "endTime": "11.500s",
@@ -114,7 +119,8 @@
             {
               "startTime": "12.800s",
               "endTime": "13.200s",
-              "word": "kimsenin"
+              "word": "kimsenin",
+              "fiil": "Kimse"
             },
             {
               "startTime": "13.200s",
@@ -499,7 +505,8 @@
             {
               "startTime": "59.200s",
               "endTime": "59.600s",
-              "word": "kimse"
+              "word": "kimse",
+              "fiil": "Kimse"
             },
             {
               "startTime": "59.600s",
@@ -2077,7 +2084,8 @@
             {
               "startTime": "242s",
               "endTime": "242.600s",
-              "word": "kimseye"
+              "word": "kimseye",
+              "fiil": "Kimse"
             },
             {
               "startTime": "242.600s",
@@ -2242,7 +2250,8 @@
             {
               "startTime": "261.600s",
               "endTime": "262.100s",
-              "word": "kimse"
+              "word": "kimse",
+              "fiil": "Kimse"
             },
             {
               "startTime": "262.100s",
