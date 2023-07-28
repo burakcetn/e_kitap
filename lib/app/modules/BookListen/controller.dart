@@ -1,10 +1,12 @@
 import 'dart:async';
 import 'dart:convert';
 
+import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:getx_skeleton/app/data/models/e_book.dart';
 import 'package:flutter/services.dart' show rootBundle;
+import 'package:getx_skeleton/app/modules/BookListen/constants.dart';
 import 'package:logger/logger.dart';
 import 'index.dart';
 import 'package:audioplayers/audioplayers.dart';
@@ -58,10 +60,23 @@ class BooklistenController extends GetxController {
           fontSize: 24,
           color: Colors.black,
         ),
+        recognizer: TapGestureRecognizer()
+          ..onTap = () {
+            onWordTap(element.word);
+          },
       ));
       words.refresh();
       await Future.delayed(600.milliseconds);
     }
+  }
+
+  void onWordTap(String word) {
+    print("Tıklanan kelime: $word");
+    debugPrint(words.elementAt(words.indexOf("Geçim")) as String);
+    Get.defaultDialog(
+      title: word,
+      content: const Center(child: Text("kelimenin anlamı")),
+    );
   }
 
   RxBool isPlaying = false.obs;
