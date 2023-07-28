@@ -5,16 +5,22 @@ import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:flutter/services.dart' show rootBundle;
+import 'package:getx_skeleton/app/components/custom_snackbar.dart';
 import 'package:getx_skeleton/app/data/models/sub_title.dart';
 import 'package:logger/logger.dart';
 import '../../data/books.dart';
 import '../../data/models/book_model.dart';
+import 'constants.dart';
 import 'index.dart';
 import 'package:audioplayers/audioplayers.dart';
 import 'package:flutter_dialogs/flutter_dialogs.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 class WordModel {
+  bool ischecked = false;
+
+  bool? isSpell = false;
+
   WordModel(this.wordItem, this.span, this.isHighligth);
   WidgetSpan span;
   bool isHighligth;
@@ -96,9 +102,14 @@ class BooklistenController extends GetxController {
       spans.add(WordModel(
           e,
           WidgetSpan(
-            child: Padding(
-              padding: EdgeInsets.symmetric(horizontal: 2, vertical: 0),
-              child: Text(e.word.trim()),
+            child: GestureDetector(
+              child: Padding(
+                padding: EdgeInsets.symmetric(horizontal: 2, vertical: 0),
+                child: Text(e.word.trim()),
+              ),
+              onTap: () {
+                ontapWord(e);
+              },
             ),
             style: GoogleFonts.openSans(
               color: Colors.black,
@@ -122,6 +133,84 @@ class BooklistenController extends GetxController {
     update();
   }
 
+  List<String> suffixes = [
+    "larıdır",
+    "lıkta",
+    "leri",
+    "ları",
+    "mış",
+    "miş",
+    "muş",
+    "müş",
+    "mak",
+    "mek",
+    "sı",
+    "si",
+    "ya",
+    "ler",
+    "lar",
+    "mı",
+    "mi",
+    "ları"
+  ];
+
+  void ontapWord(Word word) {
+    var item = getSpell(word, nextStep: true);
+    if (item != null) {
+      Get.defaultDialog(
+          title: item.spell,
+          content: Row(
+            children: [
+              Text("${item.description}"),
+            ],
+          ));
+    }
+  }
+
+  SpellMap? getSpell(Word wordkey, {bool nextStep = false}) {
+    var word = wordkey.word;
+    print(word);
+    for (var item in suffixes) {
+      if (word.contains(item)) {
+        word = word.replaceAll(item, "");
+      }
+    }
+    var spellBook = dictionaryConstants()
+        .words
+        .where((e) => e.bookName == currentBook!.name)
+        .first;
+    var item = spellBook.getSpell(word);
+    for (var suff in suffixes) {
+      item ??= spellBook.getSpell(word + suff);
+      if (item != null) break;
+    }
+    if (item == null) {
+      if (word.toLowerCase().contains("olur")) {
+        item ??= spellBook.getSpell("olmak");
+      }
+    }
+    if (!nextStep && item != null && item.spell.split(" ").length > 1) {
+      int index = cleanWords.indexOf(wordkey);
+      int nextIndex = index + 1;
+      int prevIndex = index - 1;
+
+      var nextWord = cleanWords[nextIndex];
+      var nextSpell = getSpell(nextWord, nextStep: true);
+      if (nextSpell != null && item.spell == nextSpell.spell) {
+        return item;
+      }
+
+      var prevWord = cleanWords[prevIndex];
+      var prevSpell = getSpell(prevWord, nextStep: true);
+      if (prevSpell != null && item.spell == prevSpell.spell) {
+        return item;
+      }
+
+      return null;
+    }
+    return item;
+  }
+
   void wordWrap(Word currentWord) async {
     if (!isPlaying.value) return;
 
@@ -134,82 +223,57 @@ class BooklistenController extends GetxController {
     element.isHighligth = true;
     element.span = createSpan(element, Colors.amber);
     spans.refresh();
-    // if (!isPlaying.value) return;
-    // for (int i = 0; i < cleanWords.length; i++) {
-    //   var element = cleanWords[i];
-    //   if (element.word.trim().isEmpty) {
-    //     continue;
-    //   }
-    //   var item = spans
-    //       .where(
-    //           (p0) => p0.word.contains(element.word) && p0.isHighligth == false)
-    //       .first;
-    //   spans.forEach((element) {
-    //     element.span = drawSpan(element);
-    //   });
-    //   item.span = WidgetSpan(
-    //     child: Container(
-    //       color: Colors.amber,
-    //       child: Padding(
-    //         padding: EdgeInsets.symmetric(horizontal: 2, vertical: 2),
-    //         child: Text("${element.word}"),
-    //       ),
-    //     ),
-    //     style: TextStyle(
-    //       color: Colors.black,
-    //       height: 1.5,
-    //       fontSize: 15,
-    //     ),
-    //   );
-    //   item.isHighligth = true;
-    //   update();
-    //   // if (i != (current!.words!.length - 2)) {
-    //   //   await Future.delayed(600.milliseconds);
-    //   // }
-    // }
   }
 
   WidgetSpan createSpan(WordModel element, Color color) {
+    if (!element.ischecked) {
+      element.isSpell = getSpell(element.wordItem) != null;
+    }
+    element.ischecked = true;
     return WidgetSpan(
-      child: Container(
-        color: color,
-        child: Padding(
-          padding: const EdgeInsets.symmetric(horizontal: 2, vertical: 2),
-          child: Text(
-            element.wordItem.word.trim(),
+      child: GestureDetector(
+        onTap: () {
+          ontapWord(element.wordItem);
+        },
+        child: Container(
+          color: color,
+          child: Padding(
+            padding: const EdgeInsets.symmetric(horizontal: 2, vertical: 2),
+            child: Text(
+              element.wordItem.word.trim(),
+            ),
           ),
         ),
       ),
       style: GoogleFonts.openSans(
-        color: Colors.black,
-        fontSize: 15,
-        height: .9,
-      ),
+          color: Colors.black,
+          fontSize: 15,
+          height: .9,
+          decoration:
+              (element.isSpell ?? false) ? TextDecoration.underline : null),
     );
   }
 
   WidgetSpan drawSpan(WordModel element) {
     return WidgetSpan(
-      child: Container(
-        child: Padding(
-          padding: EdgeInsets.symmetric(horizontal: 2, vertical: 2),
-          child: Text("${element.wordItem?.word}"),
+      child: GestureDetector(
+        onTap: () {
+          ontapWord(element.wordItem);
+        },
+        child: Container(
+          child: Padding(
+            padding: EdgeInsets.symmetric(horizontal: 2, vertical: 2),
+            child: Text(element.wordItem.word),
+          ),
         ),
       ),
       style: TextStyle(
-        color: Colors.black,
-        height: 1.5,
-        fontSize: 15,
-      ),
-    );
-  }
-
-  void onWordTap(String word) {
-    print("Tıklanan kelime: $word");
-    debugPrint(words.elementAt(words.indexOf("Geçim")) as String);
-    Get.defaultDialog(
-      title: word,
-      content: const Center(child: Text("kelimenin anlamı")),
+          color: Colors.black,
+          height: 1.5,
+          fontSize: 15,
+          decoration: getSpell(element.wordItem) == null
+              ? null
+              : TextDecoration.underline),
     );
   }
 
