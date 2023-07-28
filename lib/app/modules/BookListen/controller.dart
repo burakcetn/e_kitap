@@ -1,6 +1,7 @@
 import 'dart:async';
 import 'dart:convert';
 
+import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:flutter/services.dart' show rootBundle;
@@ -200,6 +201,15 @@ class BooklistenController extends GetxController {
         height: 1.5,
         fontSize: 15,
       ),
+    );
+  }
+
+  void onWordTap(String word) {
+    print("Tıklanan kelime: $word");
+    debugPrint(words.elementAt(words.indexOf("Geçim")) as String);
+    Get.defaultDialog(
+      title: word,
+      content: const Center(child: Text("kelimenin anlamı")),
     );
   }
 
