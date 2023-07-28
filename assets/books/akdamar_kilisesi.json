@@ -1,0 +1,3313 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "Akdamar adası Gevaş ilçesi yakınlarında Van Gölü\u0027nde kıyıya 5 kilometre uzaklıkta bir ada vardır Bu adaya Akdamar ya da Akdamar denir bugün kimsenin oturmadığı bu adada Van Gölü\u0027nün martıları Yaşar adının bir özelliği de Badem ağaçları drama asıl özelliğini ünlü Akdamar Kilisesi nden alır kilise rivayete göre milattan sonra 815 yılında yapılmaya başlanmış yapım işi 100 yıldan fazla sürmüştür kilise Ermeni tapınağıdır için kutsal kitaplardaki hikayelerden alınmış konuları işleyen kabartmalar vardır Adem ile Havva\u0027nın Cennetten kovuluşu Yunus Peygamber\u0027in balık karnına düşüşü gibi adam bu ismini Beril işini tarih kitapları yazmıyor tarih kitaplarının yazmadığını Efsaneler dile getirmiş Efsaneye göre o zamanlar adayı kimse ayak",
+          "confidence": 0.92841434,
+          "words": [
+            {
+              "startTime": "0s",
+              "endTime": "1.700s",
+              "word": "Akdamar"
+            },
+            {
+              "startTime": "1.700s",
+              "endTime": "2.300s",
+              "word": "adası"
+            },
+            {
+              "startTime": "2.300s",
+              "endTime": "3.300s",
+              "word": "Gevaş"
+            },
+            {
+              "startTime": "3.300s",
+              "endTime": "3.800s",
+              "word": "ilçesi"
+            },
+            {
+              "startTime": "3.800s",
+              "endTime": "4.600s",
+              "word": "yakınlarında"
+            },
+            {
+              "startTime": "4.600s",
+              "endTime": "5.100s",
+              "word": "Van"
+            },
+            {
+              "startTime": "5.100s",
+              "endTime": "5.700s",
+              "word": "Gölü'nde"
+            },
+            {
+              "startTime": "5.700s",
+              "endTime": "6.200s",
+              "word": "kıyıya"
+            },
+            {
+              "startTime": "6.200s",
+              "endTime": "6.500s",
+              "word": "5"
+            },
+            {
+              "startTime": "6.500s",
+              "endTime": "7.100s",
+              "word": "kilometre"
+            },
+            {
+              "startTime": "7.100s",
+              "endTime": "7.700s",
+              "word": "uzaklıkta"
+            },
+            {
+              "startTime": "7.700s",
+              "endTime": "7.900s",
+              "word": "bir"
+            },
+            {
+              "startTime": "7.900s",
+              "endTime": "8.200s",
+              "word": "ada"
+            },
+            {
+              "startTime": "8.200s",
+              "endTime": "8.500s",
+              "word": "vardır"
+            },
+            {
+              "startTime": "8.500s",
+              "endTime": "9.400s",
+              "word": "Bu"
+            },
+            {
+              "startTime": "9.400s",
+              "endTime": "9.900s",
+              "word": "adaya"
+            },
+            {
+              "startTime": "9.900s",
+              "endTime": "10.600s",
+              "word": "Aktamar"
+            },
+            {
+              "startTime": "10.600s",
+              "endTime": "11",
+              "word": "ya da"
+            }, 
+            {
+              "startTime": "11s",
+              "endTime": "11.500s",
+              "word": "Akdamar"
+            },
+            {
+              "startTime": "11.500s",
+              "endTime": "11.900s",
+              "word": "denir."
+            },
+            {
+              "startTime": "11.900s",
+              "endTime": "12.800s",
+              "word": "Bugün"
+            },
+            {
+              "startTime": "12.800s",
+              "endTime": "13.200s",
+              "word": "kimsenin"
+            },
+            {
+              "startTime": "13.200s",
+              "endTime": "13.800s",
+              "word": "oturmadığı"
+            },
+            {
+              "startTime": "13.800s",
+              "endTime": "14.100s",
+              "word": "bu"
+            },
+            {
+              "startTime": "14.100s",
+              "endTime": "14.400s",
+              "word": "adada"
+            },
+            {
+              "startTime": "14.400s",
+              "endTime": "15.100s",
+              "word": "Van"
+            },
+            {
+              "startTime": "15.100s",
+              "endTime": "15.500s",
+              "word": "Gölü'nün"
+            },
+            {
+              "startTime": "15.500s",
+              "endTime": "16.200s",
+              "word": "martıları"
+            },
+            {
+              "startTime": "16.200s",
+              "endTime": "16.600s",
+              "word": "Yaşar"
+            },
+            {
+              "startTime": "16.600s",
+              "endTime": "17.700s",
+              "word": "adanın"
+            },
+            {
+              "startTime": "17.700s",
+              "endTime": "17.900s",
+              "word": "bir"
+            },
+            {
+              "startTime": "17.900s",
+              "endTime": "18.500s",
+              "word": "özelliği"
+            },
+            {
+              "startTime": "18.500s",
+              "endTime": "18.700s",
+              "word": "de"
+            },
+            {
+              "startTime": "18.700s",
+              "endTime": "19.200s",
+              "word": "Badem"
+            },
+            {
+              "startTime": "19.200s",
+              "endTime": "19.800s",
+              "word": "ağaçlarıdır"
+            },
+            {
+              "startTime": "19.800s",
+              "endTime": "20.300s",
+              "word": "ama"
+            },
+            {
+              "startTime": "20.300s",
+              "endTime": "20.600s",
+              "word": "asıl"
+            },
+            {
+              "startTime": "20.600s",
+              "endTime": "21.400s",
+              "word": "özelliğini"
+            },
+            {
+              "startTime": "21.400s",
+              "endTime": "22.100s",
+              "word": "ünlü"
+            },
+            {
+              "startTime": "22.100s",
+              "endTime": "22.700s",
+              "word": "Akdamar"
+            },
+            {
+              "startTime": "22.700s",
+              "endTime": "23.200s",
+              "word": "Kilisesi'nden"
+            },
+            {
+              "startTime": "23.500s",
+              "endTime": "23.800s",
+              "word": "alır."
+            },
+            {
+              "startTime": "23.800s",
+              "endTime": "24.900s",
+              "word": "Kilise"
+            },
+            {
+              "startTime": "24.900s",
+              "endTime": "25.600s",
+              "word": "rivayete"
+            },
+            {
+              "startTime": "25.600s",
+              "endTime": "25.900s",
+              "word": "göre"
+            },
+            {
+              "startTime": "25.900s",
+              "endTime": "26.600s",
+              "word": "milattan"
+            },
+            {
+              "startTime": "26.600s",
+              "endTime": "27.300s",
+              "word": "sonra"
+            },
+            {
+              "startTime": "27.300s",
+              "endTime": "28.300s",
+              "word": "815"
+            },
+            {
+              "startTime": "28.300s",
+              "endTime": "28.700s",
+              "word": "yılında"
+            },
+            {
+              "startTime": "28.700s",
+              "endTime": "29.200s",
+              "word": "yapılmaya"
+            },
+            {
+              "startTime": "29.200s",
+              "endTime": "30s",
+              "word": "başlanmış"
+            },
+            {
+              "startTime": "30s",
+              "endTime": "30.700s",
+              "word": "yapım"
+            },
+            {
+              "startTime": "30.700s",
+              "endTime": "30.900s",
+              "word": "işi"
+            },
+            {
+              "startTime": "30.900s",
+              "endTime": "31.200s",
+              "word": "100"
+            },
+            {
+              "startTime": "31.200s",
+              "endTime": "31.600s",
+              "word": "yıldan"
+            },
+            {
+              "startTime": "31.600s",
+              "endTime": "31.700s",
+              "word": "fazla"
+            },
+            {
+              "startTime": "31.700s",
+              "endTime": "32.700s",
+              "word": "sürmüştür"
+            },
+            {
+              "startTime": "32.700s",
+              "endTime": "33.900s",
+              "word": "kilise"
+            },
+            {
+              "startTime": "33.900s",
+              "endTime": "34.500s",
+              "word": "Ermeni"
+            },
+            {
+              "startTime": "34.500s",
+              "endTime": "35.100s",
+              "word": "tapınağıdır"
+            },
+            {
+              "startTime": "35.100s",
+              "endTime": "35.900s",
+              "word": "içinde"
+            },
+            {
+              "startTime": "35.900s",
+              "endTime": "36.600s",
+              "word": "kutsal"
+            },
+            {
+              "startTime": "36.600s",
+              "endTime": "37.300s",
+              "word": "kitaplardaki"
+            },
+            {
+              "startTime": "37.300s",
+              "endTime": "38.300s",
+              "word": "hikayelerden"
+            },
+            {
+              "startTime": "38.300s",
+              "endTime": "38.700s",
+              "word": "alınmış"
+            },
+            {
+              "startTime": "38.700s",
+              "endTime": "39.300s",
+              "word": "konuları"
+            },
+            {
+              "startTime": "39.300s",
+              "endTime": "39.800s",
+              "word": "işleyen"
+            },
+            {
+              "startTime": "39.800s",
+              "endTime": "40.600s",
+              "word": "kabartmalar"
+            },
+            {
+              "startTime": "40.600s",
+              "endTime": "41s",
+              "word": "vardır"
+            },
+            {
+              "startTime": "41s",
+              "endTime": "42.100s",
+              "word": "Adem"
+            },
+            {
+              "startTime": "42.100s",
+              "endTime": "42.200s",
+              "word": "ile"
+            },
+            {
+              "startTime": "42.200s",
+              "endTime": "42.600s",
+              "word": "Havva'nın"
+            },
+            {
+              "startTime": "42.600s",
+              "endTime": "43.400s",
+              "word": "Cennetten"
+            },
+            {
+              "startTime": "43.400s",
+              "endTime": "44s",
+              "word": "kovuluşu,"
+            },
+            {
+              "startTime": "44s",
+              "endTime": "44.800s",
+              "word": "Yunus"
+            },
+            {
+              "startTime": "44.800s",
+              "endTime": "45.500s",
+              "word": "Peygamber'in"
+            },
+            {
+              "startTime": "45.500s",
+              "endTime": "45.800s",
+              "word": "balık"
+            },
+            {
+              "startTime": "45.800s",
+              "endTime": "46.300s",
+              "word": "karnına"
+            },
+            {
+              "startTime": "46.300s",
+              "endTime": "46.700s",
+              "word": "düşüşü"
+            },
+            {
+              "startTime": "46.700s",
+              "endTime": "47s",
+              "word": "gibi"
+            },
+            {
+              "startTime": "47s",
+              "endTime": "47.900s",
+              "word": "Adaya"
+            },
+            {
+              "startTime": "47.900s",
+              "endTime": "48.200s",
+              "word": "bu"
+            },
+            {
+              "startTime": "48.200s",
+              "endTime": "48.600s",
+              "word": "ismini"
+            },
+            {
+              "startTime": "48.600s",
+              "endTime": "49.300s",
+              "word": "verilişini"
+            },
+            {
+              "startTime": "49.300s",
+              "endTime": "50s",
+              "word": "tarih"
+            },
+            {
+              "startTime": "50s",
+              "endTime": "50.700s",
+              "word": "kitapları"
+            },
+            {
+              "startTime": "50.700s",
+              "endTime": "51.200s",
+              "word": "yazmıyor"
+            },
+            {
+              "startTime": "51.200s",
+              "endTime": "52.400s",
+              "word": "tarih"
+            },
+            {
+              "startTime": "52.400s",
+              "endTime": "53.100s",
+              "word": "kitaplarının"
+            },
+            {
+              "startTime": "53.100s",
+              "endTime": "54s",
+              "word": "yazmadığını"
+            },
+            {
+              "startTime": "54s",
+              "endTime": "55.100s",
+              "word": "Efsaneler"
+            },
+            {
+              "startTime": "55.100s",
+              "endTime": "55.400s",
+              "word": "dile"
+            },
+            {
+              "startTime": "55.400s",
+              "endTime": "55.900s",
+              "word": "getirmiş"
+            },
+            {
+              "startTime": "55.900s",
+              "endTime": "57.500s",
+              "word": "Efsaneye"
+            },
+            {
+              "startTime": "57.500s",
+              "endTime": "57.600s",
+              "word": "göre"
+            },
+            {
+              "startTime": "57.600s",
+              "endTime": "58.100s",
+              "word": "o"
+            },
+            {
+              "startTime": "58.100s",
+              "endTime": "58.800s",
+              "word": "zamanlar"
+            },
+            {
+              "startTime": "58.800s",
+              "endTime": "59.200s",
+              "word": "adayı"
+            },
+            {
+              "startTime": "59.200s",
+              "endTime": "59.600s",
+              "word": "kimse"
+            },
+            {
+              "startTime": "59.600s",
+              "endTime": "59.900s",
+              "word": "ayak"
+            }
+          ]
+        }
+      ],
+      "resultEndTime": "59.970s",
+      "languageCode": "tr-tr"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " azmış keşişler bırakmazmış çünkü adam keşişleri verilmiş oraya ancak ki şiş olmak isteyenleri alırlar mış ve de ayrılıp gidenlerde Keşiş ol öyle giderlermiş kilisenin baş kişinin Tamara isimli güzel bir kızı varmış bütün Keşiş kızları onu kıskanırmış adının karşı kıyısındaki gevaş\u0027ta yalnız başına yaşayan bir delikanlı varmış yiğitliği söylenir dururmuş o yörede delikanlı gündüzleri gölde avladığı balıkları yer gölde saatlerce güzelmiş yüzücülük de üstüne tanınmaz mış günün birinde yüzerken Bir bakmış ki adaya 3 Kulaç kalmış buraya kadar gelmişken Hele bir çıkayım adaya Badem ağaçları arasında saklanarak ne var ne yok diye görmek isterken bir de bakmış ki ne görsün az ötesinde çiçek açmış bademlerden Çiçek",
+          "confidence": 0.9000243,
+          "words": [
+            {
+              "startTime": "59.900s",
+              "endTime": "60.700s",
+              "word": "basmazmış"
+            },
+            {
+              "startTime": "60.700s",
+              "endTime": "61.900s",
+              "word": "keşişler"
+            },
+            {
+              "startTime": "61.900s",
+              "endTime": "62.500s",
+              "word": "bırakmazmış"
+            },
+            {
+              "startTime": "62.500s",
+              "endTime": "63.500s",
+              "word": "çünkü"
+            },
+            {
+              "startTime": "63.500s",
+              "endTime": "63.900s",
+              "word": "ada"
+            },
+            {
+              "startTime": "63.900s",
+              "endTime": "64.500s",
+              "word": "keşişlere"
+            },
+            {
+              "startTime": "64.500s",
+              "endTime": "65.100s",
+              "word": "verilmiş"
+            },
+            {
+              "startTime": "65.100s",
+              "endTime": "66.100s",
+              "word": "oraya"
+            },
+            {
+              "startTime": "66.100s",
+              "endTime": "66.500s",
+              "word": "ancak"
+            },
+            {
+              "startTime": "66.500s",
+              "endTime": "66.900s",
+              "word": "keşiş"
+            },
+            {
+              "startTime": "66.900s",
+              "endTime": "67.200s",
+              "word": "olmak"
+            },
+            {
+              "startTime": "67.200s",
+              "endTime": "67.900s",
+              "word": "isteyenleri"
+            },
+            {
+              "startTime": "67.900s",
+              "endTime": "68.600s",
+              "word": "alırlarmış"
+            },
+            {
+              "startTime": "68.600s",
+              "endTime": "69.300s",
+              "word": "ve"
+            },
+            {
+              "startTime": "69.300s",
+              "endTime": "69.500s",
+              "word": "de"
+            },
+            {
+              "startTime": "69.500s",
+              "endTime": "70.100s",
+              "word": "ayrılıp"
+            },
+            {
+              "startTime": "70.100s",
+              "endTime": "70.900s",
+              "word": "gidenlerde"
+            },
+            {
+              "startTime": "70.900s",
+              "endTime": "71.700s",
+              "word": "Keşiş"
+            },
+            {
+              "startTime": "71.700s",
+              "endTime": "71.900s",
+              "word": "olur"
+            },
+            {
+              "startTime": "71.900s",
+              "endTime": "72.500s",
+              "word": "öyle"
+            },
+            {
+              "startTime": "72.500s",
+              "endTime": "73.100s",
+              "word": "giderlermiş"
+            },
+            {
+              "startTime": "73.100s",
+              "endTime": "74.700s",
+              "word": "kilisenin"
+            },
+            {
+              "startTime": "74.700s",
+              "endTime": "74.900s",
+              "word": "baş"
+            },
+            {
+              "startTime": "74.900s",
+              "endTime": "75.600s",
+              "word": "keşişinin"
+            },
+            {
+              "startTime": "75.600s",
+              "endTime": "76s",
+              "word": "Tamara"
+            },
+            {
+              "startTime": "76s",
+              "endTime": "76.500s",
+              "word": "isimli"
+            },
+            {
+              "startTime": "76.500s",
+              "endTime": "76.700s",
+              "word": "güzel"
+            },
+            {
+              "startTime": "76.700s",
+              "endTime": "77s",
+              "word": "bir"
+            },
+            {
+              "startTime": "77s",
+              "endTime": "77.300s",
+              "word": "kızı"
+            },
+            {
+              "startTime": "77.300s",
+              "endTime": "77.600s",
+              "word": "varmış"
+            },
+            {
+              "startTime": "77.600s",
+              "endTime": "78.800s",
+              "word": "bütün"
+            },
+            {
+              "startTime": "78.800s",
+              "endTime": "79.200s",
+              "word": "Keşiş"
+            },
+            {
+              "startTime": "79.200s",
+              "endTime": "79.700s",
+              "word": "kızları"
+            },
+            {
+              "startTime": "79.700s",
+              "endTime": "79.900s",
+              "word": "onu"
+            },
+            {
+              "startTime": "79.900s",
+              "endTime": "80.800s",
+              "word": "kıskanırmış"
+            },
+            {
+              "startTime": "80.800s",
+              "endTime": "82s",
+              "word": "adanın"
+            },
+            {
+              "startTime": "82s",
+              "endTime": "82.400s",
+              "word": "karşı"
+            },
+            {
+              "startTime": "82.400s",
+              "endTime": "83s",
+              "word": "kıyısındaki"
+            },
+            {
+              "startTime": "83s",
+              "endTime": "83.700s",
+              "word": "Gevaş'ta"
+            },
+            {
+              "startTime": "83.700s",
+              "endTime": "84.500s",
+              "word": "yalnız"
+            },
+            {
+              "startTime": "84.500s",
+              "endTime": "84.900s",
+              "word": "başına"
+            },
+            {
+              "startTime": "84.900s",
+              "endTime": "85.300s",
+              "word": "yaşayan"
+            },
+            {
+              "startTime": "85.300s",
+              "endTime": "85.500s",
+              "word": "bir"
+            },
+            {
+              "startTime": "85.500s",
+              "endTime": "86.100s",
+              "word": "delikanlı"
+            },
+            {
+              "startTime": "86.100s",
+              "endTime": "86.600s",
+              "word": "varmış"
+            },
+            {
+              "startTime": "86.600s",
+              "endTime": "87.800s",
+              "word": "yiğitliği"
+            },
+            {
+              "startTime": "87.800s",
+              "endTime": "88.400s",
+              "word": "söylenir"
+            },
+            {
+              "startTime": "88.400s",
+              "endTime": "89s",
+              "word": "dururmuş"
+            },
+            {
+              "startTime": "89s",
+              "endTime": "89.100s",
+              "word": "o"
+            },
+            {
+              "startTime": "89.100s",
+              "endTime": "89.600s",
+              "word": "yörede"
+            },
+            {
+              "startTime": "89.600s",
+              "endTime": "90.800s",
+              "word": "delikanlı"
+            },
+            {
+              "startTime": "90.800s",
+              "endTime": "91.400s",
+              "word": "gündüzleri"
+            },
+            {
+              "startTime": "91.400s",
+              "endTime": "91.800s",
+              "word": "gölde"
+            },
+            {
+              "startTime": "91.800s",
+              "endTime": "92.400s",
+              "word": "avladığı"
+            },
+            {
+              "startTime": "92.400s",
+              "endTime": "92.900s",
+              "word": "balıkları"
+            },
+            {
+              "startTime": "92.900s",
+              "endTime": "93.300s",
+              "word": "yer"
+            },
+            {
+              "startTime": "93.300s",
+              "endTime": "94s",
+              "word": "gölde"
+            },
+            {
+              "startTime": "94s",
+              "endTime": "94.700s",
+              "word": "saatlerce"
+            },
+            {
+              "startTime": "94.700s",
+              "endTime": "95.400s",
+              "word": "yüzermiş"
+            },
+            {
+              "startTime": "95.400s",
+              "endTime": "96.600s",
+              "word": "yüzücülük"
+            },
+            {
+              "startTime": "96.600s",
+              "endTime": "96.800s",
+              "word": "de"
+            },
+            {
+              "startTime": "96.800s",
+              "endTime": "97.300s",
+              "word": "üstüne"
+            },
+            {
+              "startTime": "97.300s",
+              "endTime": "98.200s",
+              "word": "tanınmazmış"
+            },
+            {
+              "startTime": "98.200s",
+              "endTime": "99.200s",
+              "word": "günün"
+            },
+            {
+              "startTime": "99.200s",
+              "endTime": "99.700s",
+              "word": "birinde"
+            },
+            {
+              "startTime": "99.700s",
+              "endTime": "100.200s",
+              "word": "yüzerken"
+            },
+            {
+              "startTime": "100.200s",
+              "endTime": "100.700s",
+              "word": "Bir"
+            },
+            {
+              "startTime": "100.700s",
+              "endTime": "101.200s",
+              "word": "bakmış"
+            },
+            {
+              "startTime": "101.200s",
+              "endTime": "101.300s",
+              "word": "ki"
+            },
+            {
+              "startTime": "101.300s",
+              "endTime": "102.200s",
+              "word": "adaya"
+            },
+            {
+              "startTime": "102.200s",
+              "endTime": "102.500s",
+              "word": "3"
+            },
+            {
+              "startTime": "102.500s",
+              "endTime": "103s",
+              "word": "Kulaç"
+            },
+            {
+              "startTime": "103s",
+              "endTime": "103.500s",
+              "word": "kalmış"
+            },
+            {
+              "startTime": "103.500s",
+              "endTime": "104.600s",
+              "word": "buraya"
+            },
+            {
+              "startTime": "104.600s",
+              "endTime": "105s",
+              "word": "kadar"
+            },
+            {
+              "startTime": "105s",
+              "endTime": "105.600s",
+              "word": "gelmişken"
+            },
+            {
+              "startTime": "105.600s",
+              "endTime": "106.200s",
+              "word": "Hele"
+            },
+            {
+              "startTime": "106.200s",
+              "endTime": "106.500s",
+              "word": "bir"
+            },
+            {
+              "startTime": "106.500s",
+              "endTime": "106.900s",
+              "word": "çıkayım"
+            },
+            {
+              "startTime": "106.900s",
+              "endTime": "107.500s",
+              "word": "adaya demiş"
+            },
+            {
+              "startTime": "107.500s",
+              "endTime": "109.100s",
+              "word": "Badem"
+            },
+            {
+              "startTime": "109.100s",
+              "endTime": "109.600s",
+              "word": "ağaçları"
+            },
+            {
+              "startTime": "109.600s",
+              "endTime": "110.200s",
+              "word": "arasında"
+            },
+            {
+              "startTime": "110.200s",
+              "endTime": "110.800s",
+              "word": "saklanarak"
+            },
+            {
+              "startTime": "110.800s",
+              "endTime": "111.400s",
+              "word": "ne"
+            },
+            {
+              "startTime": "111.400s",
+              "endTime": "111.700s",
+              "word": "var"
+            },
+            {
+              "startTime": "111.700s",
+              "endTime": "111.900s",
+              "word": "ne"
+            },
+            {
+              "startTime": "111.900s",
+              "endTime": "112.200s",
+              "word": "yok"
+            },
+            {
+              "startTime": "112.200s",
+              "endTime": "112.400s",
+              "word": "diye"
+            },
+            {
+              "startTime": "112.400s",
+              "endTime": "112.900s",
+              "word": "görmek"
+            },
+            {
+              "startTime": "112.900s",
+              "endTime": "113.500s",
+              "word": "isterken"
+            },
+            {
+              "startTime": "113.500s",
+              "endTime": "114.300s",
+              "word": "bir"
+            },
+            {
+              "startTime": "114.300s",
+              "endTime": "114.500s",
+              "word": "de"
+            },
+            {
+              "startTime": "114.500s",
+              "endTime": "115s",
+              "word": "bakmış"
+            },
+            {
+              "startTime": "115s",
+              "endTime": "115.100s",
+              "word": "ki"
+            },
+            {
+              "startTime": "115.100s",
+              "endTime": "115.400s",
+              "word": "ne"
+            },
+            {
+              "startTime": "115.400s",
+              "endTime": "116.100s",
+              "word": "görsün"
+            },
+            {
+              "startTime": "116.100s",
+              "endTime": "116.900s",
+              "word": "az"
+            },
+            {
+              "startTime": "116.900s",
+              "endTime": "117.200s",
+              "word": "ötesinde"
+            },
+            {
+              "startTime": "117.200s",
+              "endTime": "118s",
+              "word": "çiçek"
+            },
+            {
+              "startTime": "118s",
+              "endTime": "118.500s",
+              "word": "açmış"
+            },
+            {
+              "startTime": "118.500s",
+              "endTime": "119.500s",
+              "word": "bademlerden"
+            },
+            {
+              "startTime": "119.500s",
+              "endTime": "119.900s",
+              "word": "Çiçek"
+            }
+          ]
+        }
+      ],
+      "resultEndTime": "119.940s",
+      "languageCode": "tr-tr"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " çocuk Başına Takan bir yandan da usuldan İnceden bir şarkı mırıldanan bir kız delikanlının aklını başından gitmiş kız delikanlıyı görünce ön kaçmayı Yelten miş ama sonra delikanlının güzelliğine kapılıp öylece kalmış delikanlı kıza yaklaşıp kimsin nesin deyince kız kendini gelmiş de hele sen söyle sen kimsin nesin Buraya nasıl Ayak bastın bir gören olursa Yanarım gençliğine demiş delikanlı anlatmış olup biteni kızda Ben de baş keşişin kızıyım adım Tamara sıkıldıkça bu kıyıya iner Göle girerim demiş Böylece Tamara ile delikanlı arasında bir muhabbettir başlamış ayrılırken ara sıra o kayalığa gelip arkadaşlık etmek için birbirlerine söz vermişler",
+          "confidence": 0.9231429,
+          "words": [
+            {
+              "startTime": "119.900s",
+              "endTime": "120.400s",
+              "word": "koparıp"
+            },
+            {
+              "startTime": "120.400s",
+              "endTime": "120.800s",
+              "word": "Başına"
+            },
+            {
+              "startTime": "120.800s",
+              "endTime": "121.400s",
+              "word": "Takan"
+            },
+            {
+              "startTime": "121.400s",
+              "endTime": "122s",
+              "word": "bir"
+            },
+            {
+              "startTime": "122s",
+              "endTime": "122.600s",
+              "word": "yandan"
+            },
+            {
+              "startTime": "122.600s",
+              "endTime": "122.700s",
+              "word": "da"
+            },
+            {
+              "startTime": "122.700s",
+              "endTime": "123.500s",
+              "word": "usuldan"
+            },
+            {
+              "startTime": "123.500s",
+              "endTime": "124.200s",
+              "word": "İnceden"
+            },
+            {
+              "startTime": "124.200s",
+              "endTime": "124.400s",
+              "word": "bir"
+            },
+            {
+              "startTime": "124.400s",
+              "endTime": "124.900s",
+              "word": "şarkı"
+            },
+            {
+              "startTime": "124.900s",
+              "endTime": "125.700s",
+              "word": "mırıldanan"
+            },
+            {
+              "startTime": "125.700s",
+              "endTime": "126s",
+              "word": "bir"
+            },
+            {
+              "startTime": "126s",
+              "endTime": "126.300s",
+              "word": "kız"
+            },
+            {
+              "startTime": "126.300s",
+              "endTime": "127.900s",
+              "word": "delikanlının"
+            },
+            {
+              "startTime": "127.900s",
+              "endTime": "128.100s",
+              "word": "aklı"
+            },
+            {
+              "startTime": "128.100s",
+              "endTime": "128.900s",
+              "word": "başından"
+            },
+            {
+              "startTime": "128.900s",
+              "endTime": "129.400s",
+              "word": "gitmiş"
+            },
+            {
+              "startTime": "129.400s",
+              "endTime": "130.400s",
+              "word": "kız"
+            },
+            {
+              "startTime": "130.400s",
+              "endTime": "131.100s",
+              "word": "delikanlıyı"
+            },
+            {
+              "startTime": "131.100s",
+              "endTime": "131.600s",
+              "word": "görünce"
+            },
+            {
+              "startTime": "131.600s",
+              "endTime": "131.900s",
+              "word": "önce"
+            },
+            {
+              "startTime": "131.900s",
+              "endTime": "132.500s",
+              "word": "kaçmayı"
+            },
+            {
+              "startTime": "132.500s",
+              "endTime": "133.400s",
+              "word": "Yeltenmiş"
+            },
+            {
+              "startTime": "133.400s",
+              "endTime": "133.900s",
+              "word": "ama"
+            },
+            {
+              "startTime": "133.900s",
+              "endTime": "134.300s",
+              "word": "sonra"
+            },
+            {
+              "startTime": "134.300s",
+              "endTime": "135.100s",
+              "word": "delikanlının"
+            },
+            {
+              "startTime": "135.100s",
+              "endTime": "135.800s",
+              "word": "güzelliğine"
+            },
+            {
+              "startTime": "135.800s",
+              "endTime": "136.300s",
+              "word": "kapılıp"
+            },
+            {
+              "startTime": "136.300s",
+              "endTime": "136.800s",
+              "word": "öylece"
+            },
+            {
+              "startTime": "136.800s",
+              "endTime": "137.200s",
+              "word": "kalmış"
+            },
+            {
+              "startTime": "137.200s",
+              "endTime": "138.800s",
+              "word": "delikanlı"
+            },
+            {
+              "startTime": "138.800s",
+              "endTime": "139.100s",
+              "word": "kıza"
+            },
+            {
+              "startTime": "139.100s",
+              "endTime": "139.700s",
+              "word": "yaklaşıp"
+            },
+            {
+              "startTime": "139.700s",
+              "endTime": "140.600s",
+              "word": "kimsin"
+            },
+            {
+              "startTime": "140.600s",
+              "endTime": "141.100s",
+              "word": "nesin"
+            },
+            {
+              "startTime": "141.100s",
+              "endTime": "141.900s",
+              "word": "deyince"
+            },
+            {
+              "startTime": "141.900s",
+              "endTime": "142.500s",
+              "word": "kız"
+            },
+            {
+              "startTime": "142.500s",
+              "endTime": "143.100s",
+              "word": "kendine"
+            },
+            {
+              "startTime": "143.100s",
+              "endTime": "143.800s",
+              "word": "gelmiş"
+            },
+            {
+              "startTime": "143.800s",
+              "endTime": "144.200s",
+              "word": "ve"
+            },
+            {
+              "startTime": "144.200s",
+              "endTime": "144.500s",
+              "word": "hele"
+            },
+            {
+              "startTime": "144.500s",
+              "endTime": "144.800s",
+              "word": "sen"
+            },
+            {
+              "startTime": "144.800s",
+              "endTime": "145.300s",
+              "word": "söyle"
+            },
+            {
+              "startTime": "145.300s",
+              "endTime": "145.900s",
+              "word": "sen"
+            },
+            {
+              "startTime": "145.900s",
+              "endTime": "146.500s",
+              "word": "kimsin"
+            },
+            {
+              "startTime": "146.500s",
+              "endTime": "146.800s",
+              "word": "nesin"
+            },
+            {
+              "startTime": "146.800s",
+              "endTime": "147.800s",
+              "word": "Buraya"
+            },
+            {
+              "startTime": "147.800s",
+              "endTime": "148.100s",
+              "word": "nasıl"
+            },
+            {
+              "startTime": "148.100s",
+              "endTime": "148.700s",
+              "word": "Ayak"
+            },
+            {
+              "startTime": "148.700s",
+              "endTime": "149.300s",
+              "word": "bastın"
+            },
+            {
+              "startTime": "149.300s",
+              "endTime": "149.900s",
+              "word": "bir"
+            },
+            {
+              "startTime": "149.900s",
+              "endTime": "150.300s",
+              "word": "gören"
+            },
+            {
+              "startTime": "150.300s",
+              "endTime": "150.800s",
+              "word": "olursa"
+            },
+            {
+              "startTime": "150.800s",
+              "endTime": "152s",
+              "word": "Yanarım"
+            },
+            {
+              "startTime": "152s",
+              "endTime": "152.900s",
+              "word": "gençliğine"
+            },
+            {
+              "startTime": "152.900s",
+              "endTime": "153.500s",
+              "word": "demiş"
+            },
+            {
+              "startTime": "153.500s",
+              "endTime": "155.500s",
+              "word": "delikanlı"
+            },
+            {
+              "startTime": "155.500s",
+              "endTime": "156.500s",
+              "word": "o vakit"
+            },
+            {
+              "startTime": "156.500s",
+              "endTime": "157.500s",
+              "word": "anlatmış"
+            },
+            {
+              "startTime": "157.500s",
+              "endTime": "157.900s",
+              "word": "olup"
+            },
+            {
+              "startTime": "157.900s",
+              "endTime": "158.400s",
+              "word": "biteni"
+            },
+            {
+              "startTime": "158.400s",
+              "endTime": "160.100s",
+              "word": "kızda"
+            },
+            {
+              "startTime": "160.100s",
+              "endTime": "160.800s",
+              "word": "Ben"
+            },
+            {
+              "startTime": "160.800s",
+              "endTime": "161s",
+              "word": "de"
+            },
+            {
+              "startTime": "161s",
+              "endTime": "161.200s",
+              "word": "baş"
+            },
+            {
+              "startTime": "161.200s",
+              "endTime": "161.800s",
+              "word": "keşişin"
+            },
+            {
+              "startTime": "161.800s",
+              "endTime": "162.400s",
+              "word": "kızıyım"
+            },
+            {
+              "startTime": "162.400s",
+              "endTime": "163s",
+              "word": "adım"
+            },
+            {
+              "startTime": "163s",
+              "endTime": "163.600s",
+              "word": "Tamara"
+            },
+            {
+              "startTime": "163.600s",
+              "endTime": "164.700s",
+              "word": "sıkıldıkça"
+            },
+            {
+              "startTime": "164.700s",
+              "endTime": "164.900s",
+              "word": "bu"
+            },
+            {
+              "startTime": "164.900s",
+              "endTime": "165.400s",
+              "word": "kıyıya"
+            },
+            {
+              "startTime": "165.400s",
+              "endTime": "165.800s",
+              "word": "iner"
+            },
+            {
+              "startTime": "165.800s",
+              "endTime": "166.400s",
+              "word": "Göle"
+            },
+            {
+              "startTime": "166.400s",
+              "endTime": "167s",
+              "word": "girerim"
+            },
+            {
+              "startTime": "167s",
+              "endTime": "167.300s",
+              "word": "demiş"
+            },
+            {
+              "startTime": "167.300s",
+              "endTime": "168.500s",
+              "word": "Böylece"
+            },
+            {
+              "startTime": "168.500s",
+              "endTime": "169.100s",
+              "word": "Tamara"
+            },
+            {
+              "startTime": "169.100s",
+              "endTime": "169.500s",
+              "word": "ile"
+            },
+            {
+              "startTime": "169.500s",
+              "endTime": "170.200s",
+              "word": "delikanlı"
+            },
+            {
+              "startTime": "170.200s",
+              "endTime": "170.700s",
+              "word": "arasında"
+            },
+            {
+              "startTime": "170.700s",
+              "endTime": "171s",
+              "word": "bir"
+            },
+            {
+              "startTime": "171s",
+              "endTime": "171.800s",
+              "word": "muhabbettir"
+            },
+            {
+              "startTime": "171.800s",
+              "endTime": "172.400s",
+              "word": "başlamış"
+            },
+            {
+              "startTime": "172.400s",
+              "endTime": "173.800s",
+              "word": "ayrılırken"
+            },
+            {
+              "startTime": "173.800s",
+              "endTime": "174.600s",
+              "word": "ara"
+            },
+            {
+              "startTime": "174.600s",
+              "endTime": "174.900s",
+              "word": "sıra"
+            },
+            {
+              "startTime": "174.900s",
+              "endTime": "175s",
+              "word": "o"
+            },
+            {
+              "startTime": "175s",
+              "endTime": "175.700s",
+              "word": "kayalığa"
+            },
+            {
+              "startTime": "175.700s",
+              "endTime": "176.100s",
+              "word": "gelip"
+            },
+            {
+              "startTime": "176.100s",
+              "endTime": "177.100s",
+              "word": "arkadaşlık"
+            },
+            {
+              "startTime": "177.100s",
+              "endTime": "177.600s",
+              "word": "etmek"
+            },
+            {
+              "startTime": "177.600s",
+              "endTime": "177.900s",
+              "word": "için"
+            },
+            {
+              "startTime": "177.900s",
+              "endTime": "178.700s",
+              "word": "birbirlerine"
+            },
+            {
+              "startTime": "178.700s",
+              "endTime": "179s",
+              "word": "söz"
+            },
+            {
+              "startTime": "179s",
+              "endTime": "179.700s",
+              "word": "vermişler"
+            }
+          ]
+        }
+      ],
+      "resultEndTime": "179.910s",
+      "languageCode": "tr-tr"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " sözlerinde de Durmuşlar gizli saklı buluşmalar başlamış aralarında bir sevgi bağı kurulmuş Aşık olmuşlar birbirlerine iş büyüyünce kızı bir yetki şiş babam görürse diye delikanlı haklısın Bundan sonra gündüzleri değil geceleri buluşalım sen akşam olunca bir bum alırsın gelirsin ben karşıdan Bloom\u0027un ışığını görünce yüzer gelirim demiş bir sürede böyle geçmiş Tamara akşam bastımı kayalığa gelip bu mu yakıyor bir zaman sonra gölün sularını kulaçları ile yara yara sevgilisi geliyormuş Bu böyle uzunca bir müddet sürüp gitmiş Günlerden bir gün tamara\u0027yı pişiş kızlarından biri işin nereye vardığını görmüş gidip başkişisi durumu anlatmış baş Keşiş Bunu duyunca beyninden vurulmuşa dönmüş",
+          "confidence": 0.91493034,
+          "words": [
+            {
+              "startTime": "179.900s",
+              "endTime": "180.900s",
+              "word": "sözlerinde"
+            },
+            {
+              "startTime": "180.900s",
+              "endTime": "181.100s",
+              "word": "de"
+            },
+            {
+              "startTime": "181.100s",
+              "endTime": "181.800s",
+              "word": "Durmuşlar"
+            },
+            {
+              "startTime": "181.800s",
+              "endTime": "182.800s",
+              "word": "gizli"
+            },
+            {
+              "startTime": "182.800s",
+              "endTime": "183.100s",
+              "word": "saklı"
+            },
+            {
+              "startTime": "183.100s",
+              "endTime": "183.400s",
+              "word": "buluşmalar"
+            },
+            {
+              "startTime": "183.400s",
+              "endTime": "184.500s",
+              "word": "başlamış"
+            },
+            {
+              "startTime": "184.500s",
+              "endTime": "185.600s",
+              "word": "aralarında"
+            },
+            {
+              "startTime": "185.600s",
+              "endTime": "185.900s",
+              "word": "bir"
+            },
+            {
+              "startTime": "185.900s",
+              "endTime": "186.300s",
+              "word": "sevgi"
+            },
+            {
+              "startTime": "186.300s",
+              "endTime": "186.400s",
+              "word": "bağı"
+            },
+            {
+              "startTime": "186.400s",
+              "endTime": "187.200s",
+              "word": "kurulmuş"
+            },
+            {
+              "startTime": "187.200s",
+              "endTime": "187.900s",
+              "word": "Aşık"
+            },
+            {
+              "startTime": "187.900s",
+              "endTime": "188.600s",
+              "word": "olmuşlar"
+            },
+            {
+              "startTime": "188.600s",
+              "endTime": "189.500s",
+              "word": "birbirlerine"
+            },
+            {
+              "startTime": "189.500s",
+              "endTime": "190.200s",
+              "word": "iş"
+            },
+            {
+              "startTime": "190.200s",
+              "endTime": "190.900s",
+              "word": "büyüyünce"
+            },
+            {
+              "startTime": "190.900s",
+              "endTime": "191.400s",
+              "word": "kızı"
+            },
+            {
+              "startTime": "191.400s",
+              "endTime": "191.600s",
+              "word": "bir"
+            },
+            {
+              "startTime": "191.600s",
+              "endTime": "192.400s",
+              "word": "korku"
+            },
+            {
+              "startTime": "192.400s",
+              "endTime": "193.400s",
+              "word": "almış"
+            },
+            {
+              "startTime": "191.600s",
+              "endTime": "191.900s",
+              "word": "ya"
+            },
+            {
+              "startTime": "191.900s",
+              "endTime": "193.600s",
+              "word": "keşiş"
+            },
+            {
+              "startTime": "193.600s",
+              "endTime": "194s",
+              "word": "babam"
+            },
+            {
+              "startTime": "194s",
+              "endTime": "194.300s",
+              "word": "görürse"
+            },
+            {
+              "startTime": "194.300s",
+              "endTime": "194.800s",
+              "word": "diye"
+            },
+            {
+              "startTime": "194.800s",
+              "endTime": "196s",
+              "word": "delikanlı"
+            },
+            {
+              "startTime": "196s",
+              "endTime": "196.900s",
+              "word": "haklısın"
+            },
+            {
+              "startTime": "196.900s",
+              "endTime": "197.600s",
+              "word": "Bundan"
+            },
+            {
+              "startTime": "197.600s",
+              "endTime": "198s",
+              "word": "sonra"
+            },
+            {
+              "startTime": "198s",
+              "endTime": "198.700s",
+              "word": "gündüzleri"
+            },
+            {
+              "startTime": "198.700s",
+              "endTime": "199.100s",
+              "word": "değil"
+            },
+            {
+              "startTime": "199.100s",
+              "endTime": "200s",
+              "word": "geceleri"
+            },
+            {
+              "startTime": "200s",
+              "endTime": "200.600s",
+              "word": "buluşalım"
+            },
+            {
+              "startTime": "200.600s",
+              "endTime": "201.300s",
+              "word": "sen"
+            },
+            {
+              "startTime": "201.300s",
+              "endTime": "201.700s",
+              "word": "akşam"
+            },
+            {
+              "startTime": "201.700s",
+              "endTime": "201.900s",
+              "word": "olunca"
+            },
+            {
+              "startTime": "201.900s",
+              "endTime": "202.300s",
+              "word": "bir"
+            },
+            {
+              "startTime": "202.300s",
+              "endTime": "202.600s",
+              "word": "mum"
+            },
+            {
+              "startTime": "202.600s",
+              "endTime": "203.200s",
+              "word": "alırsın"
+            },
+            {
+              "startTime": "203.200s",
+              "endTime": "204.500s",
+              "word": "gelirsin"
+            },
+            {
+              "startTime": "204.500s",
+              "endTime": "205.300s",
+              "word": "ben"
+            },
+            {
+              "startTime": "205.300s",
+              "endTime": "206s",
+              "word": "karşıdan"
+            },
+            {
+              "startTime": "206s",
+              "endTime": "206.300s",
+              "word": "mumun"
+            },
+            {
+              "startTime": "206.300s",
+              "endTime": "206.800s",
+              "word": "ışığını"
+            },
+            {
+              "startTime": "206.800s",
+              "endTime": "207.100s",
+              "word": "görünce"
+            },
+            {
+              "startTime": "207.100s",
+              "endTime": "208.200s",
+              "word": "yüzer"
+            },
+            {
+              "startTime": "208.200s",
+              "endTime": "208.700s",
+              "word": "gelirim"
+            },
+            {
+              "startTime": "208.700s",
+              "endTime": "209.100s",
+              "word": "demiş"
+            },
+            {
+              "startTime": "209.100s",
+              "endTime": "210s",
+              "word": "bir"
+            },
+            {
+              "startTime": "210s",
+              "endTime": "210.500s",
+              "word": "sürede"
+            },
+            {
+              "startTime": "210.500s",
+              "endTime": "210.900s",
+              "word": "böyle"
+            },
+            {
+              "startTime": "210.900s",
+              "endTime": "211.400s",
+              "word": "geçmiş"
+            },
+            {
+              "startTime": "211.400s",
+              "endTime": "212.500s",
+              "word": "Tamara"
+            },
+            {
+              "startTime": "212.500s",
+              "endTime": "213.400s",
+              "word": "akşam"
+            },
+            {
+              "startTime": "213.400s",
+              "endTime": "214s",
+              "word": "bastımı"
+            },
+            {
+              "startTime": "214s",
+              "endTime": "214.500s",
+              "word": "kayalığa"
+            },
+            {
+              "startTime": "214.500s",
+              "endTime": "214.900s",
+              "word": "gelip"
+            },
+            {
+              "startTime": "214.900s",
+              "endTime": "215.200s",
+              "word": "mumu"
+            },
+            {
+              "startTime": "215.200s",
+              "endTime": "215.600s",
+              "word": "yakıyor"
+            },
+            {
+              "startTime": "215.600s",
+              "endTime": "216.400s",
+              "word": "bir"
+            },
+            {
+              "startTime": "216.400s",
+              "endTime": "216.700s",
+              "word": "zaman"
+            },
+            {
+              "startTime": "216.700s",
+              "endTime": "217s",
+              "word": "sonra"
+            },
+            {
+              "startTime": "217s",
+              "endTime": "217.500s",
+              "word": "gölün"
+            },
+            {
+              "startTime": "217.500s",
+              "endTime": "218s",
+              "word": "sularını"
+            },
+            {
+              "startTime": "218s",
+              "endTime": "218.700s",
+              "word": "kulaçları"
+            },
+            {
+              "startTime": "218.700s",
+              "endTime": "218.900s",
+              "word": "ile"
+            },
+            {
+              "startTime": "218.900s",
+              "endTime": "219.300s",
+              "word": "yara"
+            },
+            {
+              "startTime": "219.300s",
+              "endTime": "219.700s",
+              "word": "yara"
+            },
+            {
+              "startTime": "219.700s",
+              "endTime": "220.600s",
+              "word": "sevgilisi"
+            },
+            {
+              "startTime": "220.600s",
+              "endTime": "221.300s",
+              "word": "geliyormuş"
+            },
+            {
+              "startTime": "221.300s",
+              "endTime": "222s",
+              "word": "Bu"
+            },
+            {
+              "startTime": "222s",
+              "endTime": "222.400s",
+              "word": "böyle"
+            },
+            {
+              "startTime": "222.400s",
+              "endTime": "222.800s",
+              "word": "uzunca"
+            },
+            {
+              "startTime": "222.800s",
+              "endTime": "223.200s",
+              "word": "bir"
+            },
+            {
+              "startTime": "223.200s",
+              "endTime": "223.200s",
+              "word": "müddet"
+            },
+            {
+              "startTime": "223.200s",
+              "endTime": "224.200s",
+              "word": "sürüp"
+            },
+            {
+              "startTime": "224.200s",
+              "endTime": "224.700s",
+              "word": "gitmiş"
+            },
+            {
+              "startTime": "224.700s",
+              "endTime": "226.100s",
+              "word": "Günlerden"
+            },
+            {
+              "startTime": "226.100s",
+              "endTime": "226.500s",
+              "word": "bir"
+            },
+            {
+              "startTime": "226.500s",
+              "endTime": "226.800s",
+              "word": "gün"
+            },
+            {
+              "startTime": "226.800s",
+              "endTime": "227.700s",
+              "word": "Tamara'yı"
+            },
+            {
+              "startTime": "227.700s",
+              "endTime": "228.200s",
+              "word": "kıskanan"
+            },
+            {
+              "startTime": "228.200s",
+              "endTime": "228.800s",
+              "word": "keşiş"
+            },
+            {
+              "startTime": "228.800s",
+              "endTime": "229.500s",
+              "word": "kızlarından"
+            },
+            {
+              "startTime": "229.500s",
+              "endTime": "230s",
+              "word": "biri"
+            },
+            {
+              "startTime": "230s",
+              "endTime": "230.700s",
+              "word": "işin"
+            },
+            {
+              "startTime": "230.700s",
+              "endTime": "231.100s",
+              "word": "nereye"
+            },
+            {
+              "startTime": "231.100s",
+              "endTime": "231.600s",
+              "word": "vardığını"
+            },
+            {
+              "startTime": "231.600s",
+              "endTime": "232.300s",
+              "word": "görmüş"
+            },
+            {
+              "startTime": "232.300s",
+              "endTime": "233.400s",
+              "word": "gidip"
+            },
+            {
+              "startTime": "233.400s",
+              "endTime": "233.900s",
+              "word": "başkeşise"
+            },
+            {
+              "startTime": "233.900s",
+              "endTime": "234.600s",
+              "word": "durumu"
+            },
+            {
+              "startTime": "234.600s",
+              "endTime": "235.300s",
+              "word": "anlatmış"
+            },
+            {
+              "startTime": "235.300s",
+              "endTime": "236s",
+              "word": "baş"
+            },
+            {
+              "startTime": "236s",
+              "endTime": "236.500s",
+              "word": "Keşiş"
+            },
+            {
+              "startTime": "236.500s",
+              "endTime": "236.700s",
+              "word": "Bunu"
+            },
+            {
+              "startTime": "236.700s",
+              "endTime": "237.100s",
+              "word": "duyunca"
+            },
+            {
+              "startTime": "237.100s",
+              "endTime": "238.400s",
+              "word": "beyninden"
+            },
+            {
+              "startTime": "238.400s",
+              "endTime": "239.100s",
+              "word": "vurulmuşa"
+            },
+            {
+              "startTime": "239.100s",
+              "endTime": "239.600s",
+              "word": "dönmüş"
+            },
+            {
+              "startTime": "239.600s",
+              "endTime": "239.800s",
+              "word": "kıza"
+            }
+          ]
+        }
+      ],
+      "resultEndTime": "239.880s",
+      "languageCode": "tr-tr"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " Bunu benden başka kimseye söylersen seni adadan sürerim yok dilini tutarsan yakında seni rahibe yaparım Hadi beni bu gece oraya götür gözlerimle göreyim demiş o gece Keşiş iki sevgilinin buluşmalarını gözleriyle görmüş düşünmeye başlamış bu işi kimse duymadan nasıl edeyim diye ertesi gün ikindi vakti bir fırtına kopmuş baş Keşiş olursa bu gece olur olmazsa Yandık şerefimiz iki paralık olur dillere düşeriz diye düşünüp karar vermiş Bu gece Kayalıkta bunu kendi yakacak Işığı gören delikanlının sevgisi derinse fırtına pırtını dinlemez kendini atar Göle düşünmüş Tamara fırtınanın çıktığını görünce o gece kayalığa gitmemiş bu keşişin işini daha da kolaylaştırmış fırtına kıyıları döven",
+          "confidence": 0.9309391,
+          "words": [
+            {
+              "startTime": "239.800s",
+              "endTime": "241.100s",
+              "word": "Bunu"
+            },
+            {
+              "startTime": "241.100s",
+              "endTime": "241.600s",
+              "word": "benden"
+            },
+            {
+              "startTime": "241.600s",
+              "endTime": "242s",
+              "word": "başka"
+            },
+            {
+              "startTime": "242s",
+              "endTime": "242.600s",
+              "word": "kimseye"
+            },
+            {
+              "startTime": "242.600s",
+              "endTime": "243.500s",
+              "word": "söylersen"
+            },
+            {
+              "startTime": "243.500s",
+              "endTime": "244.200s",
+              "word": "seni"
+            },
+            {
+              "startTime": "244.200s",
+              "endTime": "244.700s",
+              "word": "adadan"
+            },
+            {
+              "startTime": "244.700s",
+              "endTime": "245.300s",
+              "word": "sürerim"
+            },
+            {
+              "startTime": "245.300s",
+              "endTime": "246.100s",
+              "word": "yok"
+            },
+            {
+              "startTime": "246.100s",
+              "endTime": "246.500s",
+              "word": "dilini"
+            },
+            {
+              "startTime": "246.500s",
+              "endTime": "247.300s",
+              "word": "tutarsan"
+            },
+            {
+              "startTime": "247.300s",
+              "endTime": "248.100s",
+              "word": "yakında"
+            },
+            {
+              "startTime": "248.100s",
+              "endTime": "248.400s",
+              "word": "seni"
+            },
+            {
+              "startTime": "248.400s",
+              "endTime": "248.900s",
+              "word": "rahibe"
+            },
+            {
+              "startTime": "248.900s",
+              "endTime": "249.500s",
+              "word": "yaparım"
+            },
+            {
+              "startTime": "249.500s",
+              "endTime": "250s",
+              "word": "Hadi"
+            },
+            {
+              "startTime": "250s",
+              "endTime": "250.300s",
+              "word": "beni"
+            },
+            {
+              "startTime": "250.300s",
+              "endTime": "250.500s",
+              "word": "bu"
+            },
+            {
+              "startTime": "250.500s",
+              "endTime": "250.600s",
+              "word": "gece"
+            },
+            {
+              "startTime": "250.600s",
+              "endTime": "251.100s",
+              "word": "oraya"
+            },
+            {
+              "startTime": "251.100s",
+              "endTime": "251.700s",
+              "word": "götür"
+            },
+            {
+              "startTime": "251.700s",
+              "endTime": "252.700s",
+              "word": "gözlerimle"
+            },
+            {
+              "startTime": "252.700s",
+              "endTime": "253.200s",
+              "word": "göreyim"
+            },
+            {
+              "startTime": "253.200s",
+              "endTime": "253.900s",
+              "word": "demiş"
+            },
+            {
+              "startTime": "253.900s",
+              "endTime": "254.600s",
+              "word": "o"
+            },
+            {
+              "startTime": "254.600s",
+              "endTime": "255s",
+              "word": "gece"
+            },
+            {
+              "startTime": "255s",
+              "endTime": "255.500s",
+              "word": "Keşiş"
+            },
+            {
+              "startTime": "255.500s",
+              "endTime": "256s",
+              "word": "iki"
+            },
+            {
+              "startTime": "256s",
+              "endTime": "256.500s",
+              "word": "sevgilinin"
+            },
+            {
+              "startTime": "256.500s",
+              "endTime": "257.500s",
+              "word": "buluşmalarını"
+            },
+            {
+              "startTime": "257.500s",
+              "endTime": "258.100s",
+              "word": "gözleriyle"
+            },
+            {
+              "startTime": "258.100s",
+              "endTime": "258.600s",
+              "word": "görmüş"
+            },
+            {
+              "startTime": "258.600s",
+              "endTime": "259.900s",
+              "word": "düşünmeye"
+            },
+            {
+              "startTime": "259.900s",
+              "endTime": "260.600s",
+              "word": "başlamış"
+            },
+            {
+              "startTime": "260.600s",
+              "endTime": "261.300s",
+              "word": "bu"
+            },
+            {
+              "startTime": "261.300s",
+              "endTime": "261.600s",
+              "word": "işi"
+            },
+            {
+              "startTime": "261.600s",
+              "endTime": "262.100s",
+              "word": "kimse"
+            },
+            {
+              "startTime": "262.100s",
+              "endTime": "262.700s",
+              "word": "duymadan"
+            },
+            {
+              "startTime": "262.700s",
+              "endTime": "263.600s",
+              "word": "nasıl"
+            },
+            {
+              "startTime": "263.600s",
+              "endTime": "264.200s",
+              "word": "halledeyim"
+            },
+            {
+              "startTime": "264.200s",
+              "endTime": "264.700s",
+              "word": "diye"
+            },
+            {
+              "startTime": "264.700s",
+              "endTime": "265.800s",
+              "word": "ertesi"
+            },
+            {
+              "startTime": "265.800s",
+              "endTime": "266.100s",
+              "word": "gün"
+            },
+            {
+              "startTime": "266.100s",
+              "endTime": "266.600s",
+              "word": "ikindi"
+            },
+            {
+              "startTime": "266.600s",
+              "endTime": "266.900s",
+              "word": "vakti"
+            },
+            {
+              "startTime": "266.900s",
+              "endTime": "267.200s",
+              "word": "bir"
+            },
+            {
+              "startTime": "267.200s",
+              "endTime": "267.700s",
+              "word": "fırtına"
+            },
+            {
+              "startTime": "267.700s",
+              "endTime": "268s",
+              "word": "kopmuş"
+            },
+            {
+              "startTime": "268s",
+              "endTime": "269s",
+              "word": "baş"
+            },
+            {
+              "startTime": "269s",
+              "endTime": "269.500s",
+              "word": "Keşiş"
+            },
+            {
+              "startTime": "269.500s",
+              "endTime": "270.200s",
+              "word": "olursa"
+            },
+            {
+              "startTime": "270.200s",
+              "endTime": "270.300s",
+              "word": "bu"
+            },
+            {
+              "startTime": "270.300s",
+              "endTime": "270.400s",
+              "word": "gece"
+            },
+            {
+              "startTime": "270.400s",
+              "endTime": "270.900s",
+              "word": "olur"
+            },
+            {
+              "startTime": "270.900s",
+              "endTime": "271.800s",
+              "word": "olmazsa"
+            },
+            {
+              "startTime": "271.800s",
+              "endTime": "272.300s",
+              "word": "Yandık"
+            },
+            {
+              "startTime": "272.300s",
+              "endTime": "273.200s",
+              "word": "şerefimiz"
+            },
+            {
+              "startTime": "273.200s",
+              "endTime": "273.400s",
+              "word": "iki"
+            },
+            {
+              "startTime": "273.400s",
+              "endTime": "273.800s",
+              "word": "paralık"
+            },
+            {
+              "startTime": "273.800s",
+              "endTime": "274.200s",
+              "word": "olur"
+            },
+            {
+              "startTime": "274.200s",
+              "endTime": "275s",
+              "word": "dillere"
+            },
+            {
+              "startTime": "275s",
+              "endTime": "275.500s",
+              "word": "düşeriz"
+            },
+            {
+              "startTime": "275.500s",
+              "endTime": "275.700s",
+              "word": "diye"
+            },
+            {
+              "startTime": "275.700s",
+              "endTime": "276.300s",
+              "word": "düşünüp"
+            },
+            {
+              "startTime": "276.300s",
+              "endTime": "276.900s",
+              "word": "karar"
+            },
+            {
+              "startTime": "276.900s",
+              "endTime": "277.400s",
+              "word": "vermiş"
+            },
+            {
+              "startTime": "277.400s",
+              "endTime": "278.100s",
+              "word": "Bu"
+            },
+            {
+              "startTime": "278.100s",
+              "endTime": "278.400s",
+              "word": "gece"
+            },
+            {
+              "startTime": "278.400s",
+              "endTime": "279.100s",
+              "word": "Kayalıkta"
+            },
+            {
+              "startTime": "279.100s",
+              "endTime": "279.400s",
+              "word": "mumu"
+            },
+            {
+              "startTime": "279.400s",
+              "endTime": "279.800s",
+              "word": "kendi"
+            },
+            {
+              "startTime": "279.800s",
+              "endTime": "280.400s",
+              "word": "yakacak"
+            },
+            {
+              "startTime": "280.400s",
+              "endTime": "281.100s",
+              "word": "Işığı"
+            },
+            {
+              "startTime": "281.100s",
+              "endTime": "281.400s",
+              "word": "gören"
+            },
+            {
+              "startTime": "281.400s",
+              "endTime": "282.300s",
+              "word": "delikanlının"
+            },
+            {
+              "startTime": "282.300s",
+              "endTime": "282.900s",
+              "word": "sevgisi"
+            },
+            {
+              "startTime": "282.900s",
+              "endTime": "283.500s",
+              "word": "derinse"
+            },
+            {
+              "startTime": "283.500s",
+              "endTime": "284.400s",
+              "word": "fırtına"
+            },
+            {
+              "startTime": "284.400s",
+              "endTime": "284.600s",
+              "word": "mırtına"
+            },
+            {
+              "startTime": "284.600s",
+              "endTime": "285.800s",
+              "word": "dinlemez"
+            },
+            {
+              "startTime": "285.800s",
+              "endTime": "286.600s",
+              "word": "kendini"
+            },
+            {
+              "startTime": "286.600s",
+              "endTime": "287s",
+              "word": "atar"
+            },
+            {
+              "startTime": "287s",
+              "endTime": "287.500s",
+              "word": "Göle"
+            },
+            {
+              "startTime": "287.500s",
+              "endTime": "288s",
+              "word": "diye"
+            },
+            {
+              "startTime": "288s",
+              "endTime": "288.700s",
+              "word": "düşünmüş"
+            },
+            {
+              "startTime": "288.700s",
+              "endTime": "289.900s",
+              "word": "Tamara"
+            },
+            {
+              "startTime": "289.900s",
+              "endTime": "290.800s",
+              "word": "fırtınanın"
+            },
+            {
+              "startTime": "290.800s",
+              "endTime": "291.400s",
+              "word": "çıktığını"
+            },
+            {
+              "startTime": "291.400s",
+              "endTime": "291.700s",
+              "word": "görünce"
+            },
+            {
+              "startTime": "291.700s",
+              "endTime": "292.300s",
+              "word": "o"
+            },
+            {
+              "startTime": "292.300s",
+              "endTime": "292.800s",
+              "word": "gece"
+            },
+            {
+              "startTime": "292.800s",
+              "endTime": "293.300s",
+              "word": "kayalığa"
+            },
+            {
+              "startTime": "293.300s",
+              "endTime": "294s",
+              "word": "gitmemiş"
+            },
+            {
+              "startTime": "294s",
+              "endTime": "294.800s",
+              "word": "bu"
+            },
+            {
+              "startTime": "294.800s",
+              "endTime": "295.500s",
+              "word": "keşişin"
+            },
+            {
+              "startTime": "295.500s",
+              "endTime": "296s",
+              "word": "işini"
+            },
+            {
+              "startTime": "296s",
+              "endTime": "296.500s",
+              "word": "daha"
+            },
+            {
+              "startTime": "296.500s",
+              "endTime": "296.700s",
+              "word": "da"
+            },
+            {
+              "startTime": "296.700s",
+              "endTime": "297.600s",
+              "word": "kolaylaştırmış"
+            },
+            {
+              "startTime": "297.600s",
+              "endTime": "299s",
+              "word": "fırtına"
+            },
+            {
+              "startTime": "299s",
+              "endTime": "299.500s",
+              "word": "kıyıları"
+            },
+            {
+              "startTime": "299.500s",
+              "endTime": "299.600s",
+              "word": "döverken"
+            }
+          ]
+        }
+      ],
+      "resultEndTime": "299.850s",
+      "languageCode": "tr-tr"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " delikanlı bakmış ki karşıda Tamara\u0027nın ışığı kendisini çağırmakta durur mu atmış kendini başlamış Kulaç atmaya dalga Onu her kaldırış da ışığı görüyor güç alıyormuş böyle yüze yüze aradan saatler geçmiş delikanlı bir türlü kayalığa ulaşamamış deli kayalığa yaklaştığı bir sırada gücü iyice kesilmiş kolunu kaldıracak hali kalmamış tamam mı O sırada fırtına birdenbire olanca gücüyle Tab 60 günün sularını ve kocaman dalgalar çekmiş kucağına bu delikanlıyı delikanlı son bir soluk toplamış ve Ah Tamara diye sesi önce dalgaların fırtınanın sesine karışmış ama sonra her bir yandan duyulmuş açık seçik Ah Tamara Ah Tamara",
+          "confidence": 0.91378325,
+          "words": [
+            {
+              "startTime": "299.800s",
+              "endTime": "301s",
+              "word": "delikanlı"
+            },
+            {
+              "startTime": "301s",
+              "endTime": "301.500s",
+              "word": "bakmış"
+            },
+            {
+              "startTime": "301.500s",
+              "endTime": "301.600s",
+              "word": "ki"
+            },
+            {
+              "startTime": "301.600s",
+              "endTime": "302.300s",
+              "word": "karşıda"
+            },
+            {
+              "startTime": "302.300s",
+              "endTime": "302.900s",
+              "word": "Tamara'nın"
+            },
+            {
+              "startTime": "302.900s",
+              "endTime": "303.500s",
+              "word": "ışığı"
+            },
+            {
+              "startTime": "303.500s",
+              "endTime": "304.500s",
+              "word": "kendisini"
+            },
+            {
+              "startTime": "304.500s",
+              "endTime": "305.300s",
+              "word": "çağırmakta"
+            },
+            {
+              "startTime": "305.300s",
+              "endTime": "306.100s",
+              "word": "durur"
+            },
+            {
+              "startTime": "306.100s",
+              "endTime": "306.300s",
+              "word": "mu"
+            },
+            {
+              "startTime": "306.300s",
+              "endTime": "307.500s",
+              "word": "atmış"
+            },
+            {
+              "startTime": "307.500s",
+              "endTime": "308s",
+              "word": "göle"
+            },
+            {
+              "startTime": "308s",
+              "endTime": "308.700s",
+              "word": "kendini"
+            },
+            {
+              "startTime": "308.700s",
+              "endTime": "310.100s",
+              "word": "başlamış"
+            },
+            {
+              "startTime": "310.100s",
+              "endTime": "310.400s",
+              "word": "Kulaç"
+            },
+            {
+              "startTime": "310.400s",
+              "endTime": "310.800s",
+              "word": "atmaya"
+            },
+            {
+              "startTime": "310.800s",
+              "endTime": "311.800s",
+              "word": "dalgalar"
+            },
+            {
+              "startTime": "311.800s",
+              "endTime": "312.400s",
+              "word": "Onu"
+            },
+            {
+              "startTime": "312.400s",
+              "endTime": "312.700s",
+              "word": "her"
+            },
+            {
+              "startTime": "312.700s",
+              "endTime": "313.600s",
+              "word": "kaldırışta"
+            },
+            {
+              "startTime": "313.600s",
+              "endTime": "314.200s",
+              "word": "ışığı"
+            },
+            {
+              "startTime": "314.200s",
+              "endTime": "314.700s",
+              "word": "görüyor"
+            },
+            {
+              "startTime": "314.700s",
+              "endTime": "315s",
+              "word": "güç"
+            },
+            {
+              "startTime": "315s",
+              "endTime": "315.700s",
+              "word": "alıyormuş"
+            },
+            {
+              "startTime": "315.700s",
+              "endTime": "316.900s",
+              "word": "böyle"
+            },
+            {
+              "startTime": "316.900s",
+              "endTime": "317.300s",
+              "word": "yüze"
+            },
+            {
+              "startTime": "317.300s",
+              "endTime": "317.700s",
+              "word": "yüze"
+            },
+            {
+              "startTime": "317.700s",
+              "endTime": "318.200s",
+              "word": "aradan"
+            },
+            {
+              "startTime": "318.200s",
+              "endTime": "318.500s",
+              "word": "saatler"
+            },
+            {
+              "startTime": "318.500s",
+              "endTime": "319.500s",
+              "word": "geçmiş"
+            },
+            {
+              "startTime": "319.500s",
+              "endTime": "320.800s",
+              "word": "delikanlı"
+            },
+            {
+              "startTime": "320.800s",
+              "endTime": "321.100s",
+              "word": "bir"
+            },
+            {
+              "startTime": "321.100s",
+              "endTime": "321.500s",
+              "word": "türlü"
+            },
+            {
+              "startTime": "321.500s",
+              "endTime": "322s",
+              "word": "kayalığa"
+            },
+            {
+              "startTime": "322s",
+              "endTime": "322.900s",
+              "word": "ulaşamamış"
+            },
+            {
+              "startTime": "322.900s",
+              "endTime": "323.800s",
+              "word": "delikanlı"
+            },
+            {
+              "startTime": "323.800s",
+              "endTime": "324.700s",
+              "word": "kayalığa"
+            },
+            {
+              "startTime": "324.700s",
+              "endTime": "325.500s",
+              "word": "yaklaştığı"
+            },
+            {
+              "startTime": "325.500s",
+              "endTime": "325.800s",
+              "word": "bir"
+            },
+            {
+              "startTime": "325.800s",
+              "endTime": "326.300s",
+              "word": "sırada"
+            },
+            {
+              "startTime": "326.300s",
+              "endTime": "326.900s",
+              "word": "gücü"
+            },
+            {
+              "startTime": "326.900s",
+              "endTime": "327.300s",
+              "word": "iyice"
+            },
+            {
+              "startTime": "327.300s",
+              "endTime": "328s",
+              "word": "kesilmiş"
+            },
+            {
+              "startTime": "328s",
+              "endTime": "329s",
+              "word": "kolunu"
+            },
+            {
+              "startTime": "329s",
+              "endTime": "329.700s",
+              "word": "kaldıracak"
+            },
+            {
+              "startTime": "329.700s",
+              "endTime": "330.100s",
+              "word": "hali"
+            },
+            {
+              "startTime": "330.100s",
+              "endTime": "330.700s",
+              "word": "kalmamış"
+            },
+            {
+              "startTime": "330.700s",
+              "endTime": "331.800s",
+              "word": "tam"
+            },
+            {
+              "startTime": "331.800s",
+              "endTime": "331.900s",
+              "word": "O"
+            },
+            {
+              "startTime": "331.900s",
+              "endTime": "332.300s",
+              "word": "sırada"
+            },
+            {
+              "startTime": "332.300s",
+              "endTime": "333.300s",
+              "word": "fırtına"
+            },
+            {
+              "startTime": "333.300s",
+              "endTime": "334.200s",
+              "word": "birdenbire"
+            },
+            {
+              "startTime": "334.200s",
+              "endTime": "334.900s",
+              "word": "olanca"
+            },
+            {
+              "startTime": "334.900s",
+              "endTime": "335.300s",
+              "word": "gücüyle"
+            },
+            {
+              "startTime": "335.300s",
+              "endTime": "336.300s",
+              "word": "kabartmış"
+            },
+            {
+              "startTime": "336.300s",
+              "endTime": "336.600s",
+              "word": "gölün"
+            },
+            {
+              "startTime": "336.600s",
+              "endTime": "337.300s",
+              "word": "sularını"
+            },
+            {
+              "startTime": "337.300s",
+              "endTime": "337.700s",
+              "word": "ve"
+            },
+            {
+              "startTime": "337.700s",
+              "endTime": "338.400s",
+              "word": "kocaman"
+            },
+            {
+              "startTime": "338.400s",
+              "endTime": "339.100s",
+              "word": "dalgalar"
+            },
+            {
+              "startTime": "339.100s",
+              "endTime": "339.900s",
+              "word": "çekmiş"
+            },
+            {
+              "startTime": "339.900s",
+              "endTime": "340.500s",
+              "word": "kucağına"
+            },
+            {
+              "startTime": "340.500s",
+              "endTime": "340.700s",
+              "word": "bu"
+            },
+            {
+              "startTime": "340.700s",
+              "endTime": "341.400s",
+              "word": "delikanlıyı"
+            },
+            {
+              "startTime": "341.400s",
+              "endTime": "342.900s",
+              "word": "delikanlı"
+            },
+            {
+              "startTime": "342.900s",
+              "endTime": "343.400s",
+              "word": "son"
+            },
+            {
+              "startTime": "343.400s",
+              "endTime": "343.700s",
+              "word": "bir"
+            },
+            {
+              "startTime": "343.700s",
+              "endTime": "344.100s",
+              "word": "soluk"
+            },
+            {
+              "startTime": "344.100s",
+              "endTime": "344.900s",
+              "word": "toplamış"
+            },
+            {
+              "startTime": "344.900s",
+              "endTime": "345.200s",
+              "word": "ve"
+            },
+            {
+              "startTime": "345.200s",
+              "endTime": "346s",
+              "word": "Ah"
+            },
+            {
+              "startTime": "346s",
+              "endTime": "346.600s",
+              "word": "Tamara"
+            },
+            {
+              "startTime": "346.600s",
+              "endTime": "347.500s",
+              "word": "diye"
+            },
+            {
+              "startTime": "347.500s",
+              "endTime": "348.800s",
+              "word": "bağırmış"
+            },
+            {
+              "startTime": "348.800s",
+              "endTime": "349.400s",
+              "word": "sesi"
+            },
+            {
+              "startTime": "349.400s",
+              "endTime": "349.900s",
+              "word": "önce"
+            },
+            {
+              "startTime": "349.900s",
+              "endTime": "350.600s",
+              "word": "dalgaların"
+            },
+            {
+              "startTime": "350.600s",
+              "endTime": "351.400s",
+              "word": "fırtınanın"
+            },
+            {
+              "startTime": "351.400s",
+              "endTime": "351.800s",
+              "word": "sesine"
+            },
+            {
+              "startTime": "351.800s",
+              "endTime": "352.600s",
+              "word": "karışmış"
+            },
+            {
+              "startTime": "352.600s",
+              "endTime": "353.100s",
+              "word": "ama"
+            },
+            {
+              "startTime": "353.100s",
+              "endTime": "353.500s",
+              "word": "sonra"
+            },
+            {
+              "startTime": "353.500s",
+              "endTime": "353.800s",
+              "word": "her"
+            },
+            {
+              "startTime": "353.800s",
+              "endTime": "354s",
+              "word": "bir"
+            },
+            {
+              "startTime": "354s",
+              "endTime": "354.500s",
+              "word": "yandan"
+            },
+            {
+              "startTime": "354.500s",
+              "endTime": "355.200s",
+              "word": "duyulmuş"
+            },
+            {
+              "startTime": "355.200s",
+              "endTime": "355.500s",
+              "word": "açık"
+            },
+            {
+              "startTime": "355.500s",
+              "endTime": "356.100s",
+              "word": "seçik"
+            },
+            {
+              "startTime": "356.100s",
+              "endTime": "357s",
+              "word": "Ah"
+            },
+            {
+              "startTime": "357s",
+              "endTime": "357.800s",
+              "word": "Tamara"
+            },
+            {
+              "startTime": "357.800s",
+              "endTime": "358.900s",
+              "word": "Ah"
+            },
+            {
+              "startTime": "358.900s",
+              "endTime": "359.500s",
+              "word": "Tamara"
+            }
+          ]
+        }
+      ],
+      "resultEndTime": "359.820s",
+      "languageCode": "tr-tr"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " diye delikanlı gölün azgın dalgaları arasında kaybolup gitmiş bu sesi duyan Tamara koşup kayalığa gelmiş durumu anlayınca ikinci gölünün dalgaları arasına 62 sevgilinin ruhları hala Gülün dalgaları arasında yüzermiş İşte bu adanın adı delikanlının ahtam radiye bağırmasından çıkmış gün gelmiş söylene söylene Akdamar olmuş ona Akdamar diyenler de bulunur",
+          "confidence": 0.8732049,
+          "words": [
+            {
+              "startTime": "359.800s",
+              "endTime": "360.700s",
+              "word": "diye"
+            },
+            {
+              "startTime": "360.700s",
+              "endTime": "361.800s",
+              "word": "delikanlı"
+            },
+            {
+              "startTime": "361.800s",
+              "endTime": "362.200s",
+              "word": "gölün"
+            },
+            {
+              "startTime": "362.200s",
+              "endTime": "362.700s",
+              "word": "azgın"
+            },
+            {
+              "startTime": "362.700s",
+              "endTime": "363.300s",
+              "word": "dalgaları"
+            },
+            {
+              "startTime": "363.300s",
+              "endTime": "363.700s",
+              "word": "arasında"
+            },
+            {
+              "startTime": "363.700s",
+              "endTime": "364.700s",
+              "word": "kaybolup"
+            },
+            {
+              "startTime": "364.700s",
+              "endTime": "365.200s",
+              "word": "gitmiş"
+            },
+            {
+              "startTime": "365.200s",
+              "endTime": "366s",
+              "word": "bu"
+            },
+            {
+              "startTime": "366s",
+              "endTime": "366.300s",
+              "word": "sesi"
+            },
+            {
+              "startTime": "366.300s",
+              "endTime": "366.700s",
+              "word": "duyan"
+            },
+            {
+              "startTime": "366.700s",
+              "endTime": "367.100s",
+              "word": "Tamara"
+            },
+            {
+              "startTime": "367.100s",
+              "endTime": "368s",
+              "word": "koşup"
+            },
+            {
+              "startTime": "368s",
+              "endTime": "368.600s",
+              "word": "kayalığa"
+            },
+            {
+              "startTime": "368.600s",
+              "endTime": "369.200s",
+              "word": "gelmiş"
+            },
+            {
+              "startTime": "369.200s",
+              "endTime": "370.100s",
+              "word": "durumu"
+            },
+            {
+              "startTime": "370.100s",
+              "endTime": "371s",
+              "word": "anlayınca"
+            },
+            {
+              "startTime": "371s",
+              "endTime": "371.700s",
+              "word": "kendisini"
+            },
+            {
+              "startTime": "371.700s",
+              "endTime": "372.200s",
+              "word": "gölünün"
+            },
+            {
+              "startTime": "372.200s",
+              "endTime": "372.400s",
+              "word": "dalgaları"
+            },
+            {
+              "startTime": "372.400s",
+              "endTime": "373.400s",
+              "word": "arasına"
+            },
+            {
+              "startTime": "373.400s",
+              "endTime": "374.400s",
+              "word": "atmış"
+            },
+            {
+              "startTime": "374.400s",
+              "endTime": "374.700s",
+              "word": "iki"
+            },
+            {
+              "startTime": "374.700s",
+              "endTime": "375.400s",
+              "word": "sevgilinin"
+            },
+            {
+              "startTime": "375.400s",
+              "endTime": "376s",
+              "word": "ruhları"
+            },
+            {
+              "startTime": "376s",
+              "endTime": "376.900s",
+              "word": "hala"
+            },
+            {
+              "startTime": "376.900s",
+              "endTime": "377.400s",
+              "word": "gölün"
+            },
+            {
+              "startTime": "377.400s",
+              "endTime": "378s",
+              "word": "dalgaları"
+            },
+            {
+              "startTime": "378s",
+              "endTime": "378.400s",
+              "word": "arasında"
+            },
+            {
+              "startTime": "378.400s",
+              "endTime": "379.300s",
+              "word": "yüzermiş"
+            },
+            {
+              "startTime": "379.300s",
+              "endTime": "380.200s",
+              "word": "İşte"
+            },
+            {
+              "startTime": "380.200s",
+              "endTime": "380.400s",
+              "word": "bu"
+            },
+            {
+              "startTime": "380.400s",
+              "endTime": "380.800s",
+              "word": "adanın"
+            },
+            {
+              "startTime": "380.800s",
+              "endTime": "381.300s",
+              "word": "adı"
+            },
+            {
+              "startTime": "381.300s",
+              "endTime": "382.700s",
+              "word": "delikanlının"
+            },
+            {
+              "startTime": "382.700s",
+              "endTime": "383.700s",
+              "word": "Ah, Tamara"
+            },
+            {
+              "startTime": "383.700s",
+              "endTime": "384.500s",
+              "word": "diye"
+            },
+            {
+              "startTime": "384.500s",
+              "endTime": "385.300s",
+              "word": "bağırmasından"
+            },
+            {
+              "startTime": "385.300s",
+              "endTime": "386s",
+              "word": "çıkmış"
+            },
+            {
+              "startTime": "386s",
+              "endTime": "386.800s",
+              "word": "gün"
+            },
+            {
+              "startTime": "386.800s",
+              "endTime": "387.500s",
+              "word": "gelmiş"
+            },
+            {
+              "startTime": "387.500s",
+              "endTime": "388.400s",
+              "word": "söylene"
+            },
+            {
+              "startTime": "388.400s",
+              "endTime": "388.600s",
+              "word": "söylene"
+            },
+            {
+              "startTime": "388.600s",
+              "endTime": "390.300s",
+              "word": "Akdamar"
+            },
+            {
+              "startTime": "390.300s",
+              "endTime": "391s",
+              "word": "olmuş"
+            },
+            {
+              "startTime": "391s",
+              "endTime": "391.700s",
+              "word": "ona"
+            },
+            {
+              "startTime": "391.700s",
+              "endTime": "392.400s",
+              "word": "Aktamar"
+            },
+            {
+              "startTime": "392.400s",
+              "endTime": "393.100s",
+              "word": "diyenler"
+            },
+            {
+              "startTime": "393.100s",
+              "endTime": "393.300s",
+              "word": "de"
+            },
+            {
+              "startTime": "393.300s",
+              "endTime": "394.200s",
+              "word": "bulunur"
+            }
+          ]
+        }
+      ],
+      "resultEndTime": "395.640s",
+      "languageCode": "tr-tr"
+    }
+  ]
+}

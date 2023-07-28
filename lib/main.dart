@@ -17,10 +17,10 @@ Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
   // initialize local db (hive) and register our custom adapters
-  await MyHive.init(registerAdapters: (hive) {
-    hive.registerAdapter(UserModelAdapter());
-    //myHive.registerAdapter(OtherAdapter());
-  });
+  // await MyHive.init(registerAdapters: (hive) {
+  //   hive.registerAdapter(UserModelAdapter());
+  //   //myHive.registerAdapter(OtherAdapter());
+  // });
 
   // init shared preference
   await MySharedPref.init();

@@ -1,0 +1,613 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "Cumalıkızık cin aralığı 7 Yüzyıllık Osmanlı sivil mimarisinin bozulmadan günümüze Taşıyan Cumalıkızık cin aralığı Sokağı ayakta kaldıkça yaşayacak bir şehir efsanesine sahip cumalıkızık\u0027ta bulunan cin aralığı dünyanın en dar Sokağı kabul edilmektedir Kurtuluş Savaşı yıllarında cumalıkızıkköyü basan Yunan askerleri tüm köylüleri camiye toplayarak Mabedi yatmaya karar verirler Köylüler bir şekilde Yunanlıları atlatıp camiden kaçmayı başarırlar girdikleri sokakta içi Evim bittiği noktada dar 1 Aralık vardır bir insanın zorlukla geçebilecek büyüklükteki Sokak girişinden bakıldığında çıkmaz yol olarak görülmektedir köylüler dar Aralık\u0027tan geçerek Türk askerlerinin elendiği tepeye ulaşırlar",
+          "confidence": 0.92336076,
+          "words": [
+            {
+              "startTime": "0s",
+              "endTime": "1.900s",
+              "word": "Cumalıkızık"
+            },
+            {
+              "startTime": "1.900s",
+              "endTime": "2.600s",
+              "word": "cin"
+            },
+            {
+              "startTime": "2.600s",
+              "endTime": "3.100s",
+              "word": "aralığı"
+            },
+            {
+              "startTime": "3.100s",
+              "endTime": "4.300s",
+              "word": "7"
+            },
+            {
+              "startTime": "4.300s",
+              "endTime": "4.700s",
+              "word": "Yüzyıllık"
+            },
+            {
+              "startTime": "4.700s",
+              "endTime": "5.100s",
+              "word": "Osmanlı"
+            },
+            {
+              "startTime": "5.100s",
+              "endTime": "5.900s",
+              "word": "sivil"
+            },
+            {
+              "startTime": "5.900s",
+              "endTime": "6.200s",
+              "word": "mimarisini"
+            },
+            {
+              "startTime": "6.200s",
+              "endTime": "8.100s",
+              "word": "bozulmadan"
+            },
+            {
+              "startTime": "8.100s",
+              "endTime": "8.400s",
+              "word": "günümüze"
+            },
+            {
+              "startTime": "8.400s",
+              "endTime": "9.300s",
+              "word": "Taşıyan"
+            },
+            {
+              "startTime": "9.300s",
+              "endTime": "9.900s",
+              "word": "Cumalıkızık"
+            },
+            {
+              "startTime": "9.900s",
+              "endTime": "10.600s",
+              "word": "cin"
+            },
+            {
+              "startTime": "10.600s",
+              "endTime": "11.100s",
+              "word": "aralığı"
+            },
+            {
+              "startTime": "11.100s",
+              "endTime": "11.700s",
+              "word": "Sokağı"
+            },
+            {
+              "startTime": "11.700s",
+              "endTime": "12.500s",
+              "word": "ayakta"
+            },
+            {
+              "startTime": "12.500s",
+              "endTime": "13s",
+              "word": "kaldıkça"
+            },
+            {
+              "startTime": "13s",
+              "endTime": "14.100s",
+              "word": "yaşayacak"
+            },
+            {
+              "startTime": "14.100s",
+              "endTime": "14.300s",
+              "word": "bir"
+            },
+            {
+              "startTime": "14.300s",
+              "endTime": "14.700s",
+              "word": "şehir"
+            },
+            {
+              "startTime": "14.700s",
+              "endTime": "15.400s",
+              "word": "efsanesine"
+            },
+            {
+              "startTime": "15.400s",
+              "endTime": "16s",
+              "word": "sahip"
+            },
+            {
+              "startTime": "16s",
+              "endTime": "17.600s",
+              "word": "Cumalıkızık'ta"
+            },
+            {
+              "startTime": "17.600s",
+              "endTime": "18.100s",
+              "word": "bulunan"
+            },
+            {
+              "startTime": "18.100s",
+              "endTime": "18.300s",
+              "word": "cin"
+            },
+            {
+              "startTime": "18.300s",
+              "endTime": "18.700s",
+              "word": "aralığı"
+            },
+            {
+              "startTime": "18.700s",
+              "endTime": "19.900s",
+              "word": "dünyanın"
+            },
+            {
+              "startTime": "19.900s",
+              "endTime": "20.200s",
+              "word": "en"
+            },
+            {
+              "startTime": "20.200s",
+              "endTime": "20.500s",
+              "word": "dar"
+            },
+            {
+              "startTime": "20.500s",
+              "endTime": "20.600s",
+              "word": "Sokağı"
+            },
+            {
+              "startTime": "20.600s",
+              "endTime": "21.200s",
+              "word": "kabul"
+            },
+            {
+              "startTime": "21.200s",
+              "endTime": "22.100s",
+              "word": "edilmektedir"
+            },
+            {
+              "startTime": "22.100s",
+              "endTime": "24.100s",
+              "word": "Rivayet"
+            },
+            {
+              "startTime": "24.100s",
+              "endTime": "25.100s",
+              "word": "edilir ki"
+            },
+            {
+              "startTime": "22.100s",
+              "endTime": "25.100s",
+              "word": "Kurtuluş"
+            },
+            {
+              "startTime": "25.100s",
+              "endTime": "25.500s",
+              "word": "Savaşı"
+            },
+            {
+              "startTime": "25.500s",
+              "endTime": "26s",
+              "word": "yıllarında"
+            },
+            {
+              "startTime": "26s",
+              "endTime": "27.300s",
+              "word": "Cumalıkızık köyünü"
+            },
+            {
+              "startTime": "27.300s",
+              "endTime": "28.100s",
+              "word": "basan"
+            },
+            {
+              "startTime": "28.100s",
+              "endTime": "28.600s",
+              "word": "Yunan"
+            },
+            {
+              "startTime": "28.600s",
+              "endTime": "29.300s",
+              "word": "askerleri"
+            },
+            {
+              "startTime": "29.300s",
+              "endTime": "30s",
+              "word": "tüm"
+            },
+            {
+              "startTime": "30s",
+              "endTime": "30.500s",
+              "word": "köylüleri"
+            },
+            {
+              "startTime": "30.500s",
+              "endTime": "31.100s",
+              "word": "camiye"
+            },
+            {
+              "startTime": "31.100s",
+              "endTime": "31.600s",
+              "word": "toplayarak"
+            },
+            {
+              "startTime": "31.600s",
+              "endTime": "32.600s",
+              "word": "Mabedi"
+            },
+            {
+              "startTime": "32.600s",
+              "endTime": "33.100s",
+              "word": "yakmaya"
+            },
+            {
+              "startTime": "33.100s",
+              "endTime": "33.300s",
+              "word": "karar"
+            },
+            {
+              "startTime": "33.300s",
+              "endTime": "33.900s",
+              "word": "verirler"
+            },
+            {
+              "startTime": "33.900s",
+              "endTime": "35.200s",
+              "word": "Köylüler"
+            },
+            {
+              "startTime": "35.200s",
+              "endTime": "35.400s",
+              "word": "bir"
+            },
+            {
+              "startTime": "35.400s",
+              "endTime": "35.900s",
+              "word": "şekilde"
+            },
+            {
+              "startTime": "35.900s",
+              "endTime": "36.900s",
+              "word": "Yunanlıları"
+            },
+            {
+              "startTime": "36.900s",
+              "endTime": "37.400s",
+              "word": "atlatıp"
+            },
+            {
+              "startTime": "37.400s",
+              "endTime": "38.300s",
+              "word": "camiden"
+            },
+            {
+              "startTime": "38.300s",
+              "endTime": "38.800s",
+              "word": "kaçmayı"
+            },
+            {
+              "startTime": "38.800s",
+              "endTime": "39.300s",
+              "word": "başarırlar"
+            },
+            {
+              "startTime": "39.300s",
+              "endTime": "40.800s",
+              "word": "girdikleri"
+            },
+            {
+              "startTime": "40.800s",
+              "endTime": "41.400s",
+              "word": "sokakta"
+            },
+            {
+              "startTime": "41.400s",
+              "endTime": "42s",
+              "word": "iki"
+            },
+            {
+              "startTime": "42s",
+              "endTime": "42.400s",
+              "word": "Evin"
+            },
+            {
+              "startTime": "42.400s",
+              "endTime": "42.900s",
+              "word": "bittiği"
+            },
+            {
+              "startTime": "42.900s",
+              "endTime": "43.400s",
+              "word": "noktada"
+            },
+            {
+              "startTime": "43.400s",
+              "endTime": "44.100s",
+              "word": "dar"
+            },
+            {
+              "startTime": "44.100s",
+              "endTime": "44.300s",
+              "word": "bir"
+            },
+            {
+              "startTime": "44.300s",
+              "endTime": "44.800s",
+              "word": "Aralık"
+            },
+            {
+              "startTime": "44.800s",
+              "endTime": "45.300s",
+              "word": "vardır"
+            },
+            {
+              "startTime": "45.300s",
+              "endTime": "46.200s",
+              "word": "bir"
+            },
+            {
+              "startTime": "46.200s",
+              "endTime": "46.700s",
+              "word": "insanın"
+            },
+            {
+              "startTime": "46.700s",
+              "endTime": "47.300s",
+              "word": "zorlukla"
+            },
+            {
+              "startTime": "47.300s",
+              "endTime": "47.900s",
+              "word": "geçebileceği"
+            },
+            {
+              "startTime": "47.900s",
+              "endTime": "48.200s",
+              "word": "büyüklükteki"
+            },
+            {
+              "startTime": "48.200s",
+              "endTime": "49.400s",
+              "word": "Sokak"
+            },
+            {
+              "startTime": "49.400s",
+              "endTime": "49.900s",
+              "word": "girişinden"
+            },
+            {
+              "startTime": "49.900s",
+              "endTime": "50.700s",
+              "word": "bakıldığında"
+            },
+            {
+              "startTime": "50.700s",
+              "endTime": "51.600s",
+              "word": "çıkmaz"
+            },
+            {
+              "startTime": "51.600s",
+              "endTime": "51.900s",
+              "word": "yol"
+            },
+            {
+              "startTime": "51.900s",
+              "endTime": "52.200s",
+              "word": "olarak"
+            },
+            {
+              "startTime": "52.200s",
+              "endTime": "53s",
+              "word": "görülmektedir"
+            },
+            {
+              "startTime": "53s",
+              "endTime": "54.300s",
+              "word": "köylüler"
+            },
+            {
+              "startTime": "54.300s",
+              "endTime": "54.800s",
+              "word": "dar"
+            },
+            {
+              "startTime": "54.800s",
+              "endTime": "55.400s",
+              "word": "aralıktan"
+            },
+            {
+              "startTime": "55.400s",
+              "endTime": "55.900s",
+              "word": "geçerek"
+            },
+            {
+              "startTime": "55.900s",
+              "endTime": "56.400s",
+              "word": "Türk"
+            },
+            {
+              "startTime": "56.400s",
+              "endTime": "57.300s",
+              "word": "askerlerinin"
+            },
+            {
+              "startTime": "57.300s",
+              "endTime": "58.200s",
+              "word": "mevzilendiği"
+            },
+            {
+              "startTime": "58.200s",
+              "endTime": "58.600s",
+              "word": "tepeye"
+            },
+            {
+              "startTime": "58.600s",
+              "endTime": "59.100s",
+              "word": "ulaşırlar"
+            }
+          ]
+        }
+      ],
+      "resultEndTime": "59.970s",
+      "languageCode": "tr-tr"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " fsaneye göre Yunan askerleri ise sokağın girişine geldiğinde gözlerine inanamaz ve insanların buradan kaçması İmkansız Bu olsa olsa cinlinin işidir o günden sokağın adının cin aralığı olduğu söylenir",
+          "confidence": 0.91821134,
+          "words": [
+            {
+              "startTime": "60s",
+              "endTime": "60.700s",
+              "word": "efsaneye"
+            },
+            {
+              "startTime": "60.700s",
+              "endTime": "60.800s",
+              "word": "göre"
+            },
+            {
+              "startTime": "60.800s",
+              "endTime": "61.500s",
+              "word": "Yunan"
+            },
+            {
+              "startTime": "61.500s",
+              "endTime": "62.200s",
+              "word": "askerleri"
+            },
+            {
+              "startTime": "62.200s",
+              "endTime": "62.400s",
+              "word": "ise"
+            },
+            {
+              "startTime": "62.400s",
+              "endTime": "63.200s",
+              "word": "sokağın"
+            },
+            {
+              "startTime": "63.200s",
+              "endTime": "63.700s",
+              "word": "girişine"
+            },
+            {
+              "startTime": "63.700s",
+              "endTime": "64.400s",
+              "word": "geldiğinde"
+            },
+            {
+              "startTime": "64.400s",
+              "endTime": "65.200s",
+              "word": "gözlerine"
+            },
+            {
+              "startTime": "65.200s",
+              "endTime": "65.800s",
+              "word": "inanamaz"
+            },
+            {
+              "startTime": "65.800s",
+              "endTime": "66.200s",
+              "word": "ve"
+            },
+            {
+              "startTime": "66.200s",
+              "endTime": "66.800s",
+              "word": "insanların"
+            },
+            {
+              "startTime": "66.800s",
+              "endTime": "67.300s",
+              "word": "buradan"
+            },
+            {
+              "startTime": "67.300s",
+              "endTime": "67.800s",
+              "word": "kaçması"
+            },
+            {
+              "startTime": "67.800s",
+              "endTime": "68.600s",
+              "word": "İmkansız"
+            },
+            {
+              "startTime": "68.600s",
+              "endTime": "69.100s",
+              "word": "Bu"
+            },
+            {
+              "startTime": "69.100s",
+              "endTime": "69.700s",
+              "word": "olsa"
+            },
+            {
+              "startTime": "69.700s",
+              "endTime": "70.300s",
+              "word": "olsa"
+            },
+            {
+              "startTime": "70.300s",
+              "endTime": "71.200s",
+              "word": "cinlerin"
+            },
+            {
+              "startTime": "71.200s",
+              "endTime": "72.800s",
+              "word": "işidir derler"
+            },
+            {
+              "startTime": "72.800s",
+              "endTime": "73s",
+              "word": "o"
+            },
+            {
+              "startTime": "73s",
+              "endTime": "73.500s",
+              "word": "günden"
+            },
+            {
+              "startTime": "73.500s",
+              "endTime": "74s",
+              "word": "bugüne"
+            },
+            {
+              "startTime": "74s",
+              "endTime": "74.900s",
+              "word": "sokağın"
+            },
+            {
+              "startTime": "74.900s",
+              "endTime": "75.500s",
+              "word": "adının"
+            },
+            {
+              "startTime": "75.500s",
+              "endTime": "76.100s",
+              "word": "cin"
+            },
+            {
+              "startTime": "76.100s",
+              "endTime": "76.600s",
+              "word": "aralığı"
+            },
+            {
+              "startTime": "76.600s",
+              "endTime": "76.800s",
+              "word": "olduğu"
+            },
+            {
+              "startTime": "76.800s",
+              "endTime": "77.800s",
+              "word": "söylenir"
+            }
+          ]
+        }
+      ],
+      "resultEndTime": "80.380s",
+      "languageCode": "tr-tr"
+    }
+  ]
+}
