@@ -66,6 +66,56 @@ class QuestionManager {
         "alay ediyordu",
       ),
     );
+    model = QuestionModel("Ağrı Dağı Efsanesi", "quiz1", type: 1);
+    model.add(
+      QuestionWrapModel(
+        "foothil of the mountain",
+        "dağ eteği",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "shake",
+        "sarsıntı",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "to survive",
+        "sağ kalmak",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "avoid",
+        "savmak",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "curve",
+        "eğri",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "steer",
+        "dümen kırmak",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "fame",
+        "şöhret",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "confused",
+        "allak bullak",
+      ),
+    );
+
     model = QuestionModel("AkcaKoca Denizkızı Efsanesi", "quiz2");
     quiz.add(model);
     model.add(
@@ -99,6 +149,56 @@ class QuestionManager {
       ),
     );
 
+    model = QuestionModel("AkcaKoca Denizkızı Efsanesi", "quiz2", type: 1);
+    model.add(
+      QuestionWrapModel(
+        "weirdness",
+        "tuhaflık",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "a fin",
+        "yüzgeç",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "swaddling clothes",
+        "kundak",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "to sense",
+        "sezmek",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "crop",
+        "ürün",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "gardenin fork",
+        "çapa",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "a slight movement",
+        "kıpırtı",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "pebble",
+        "çakıl taşı",
+      ),
+    );
+
     model = QuestionModel("Pamukkale Efsanesi", "quiz3");
     quiz.add(model);
     model.add(
@@ -118,6 +218,43 @@ class QuestionManager {
     model.add(
       QuestionWrapModel(
           "Kullandığı bitkiler sayesinde cildi {answer}.", "güzelliğe boğdu"),
+    );
+    model = QuestionModel("Pamukkale Efsanesi", "quiz3", type: 1);
+    model.add(
+      QuestionWrapModel(
+        "spa",
+        "ılıca",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "sediment",
+        "tortu",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "distrub",
+        "bozmak",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "blood",
+        "kan",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "story",
+        "öykü",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "woodcutter",
+        "oduncu",
+      ),
     );
 
     model = QuestionModel("Şahmeran", "quiz4");
@@ -146,6 +283,50 @@ class QuestionManager {
           "istila ediliyor"),
     );
 
+    model = QuestionModel("Şahmeran", "quiz4", type: 1);
+    model.add(
+      QuestionWrapModel(
+        "to beg",
+        "yalvarmak",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "well",
+        "kuyu",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "to send news",
+        "haber salmak",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "to leave someone",
+        "bırakıp kaçmak",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "to be rumored",
+        "rivayet etmek",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "compassionate",
+        "şefkatli",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "to miss",
+        "özlemek",
+      ),
+    );
+
     model = QuestionModel("Kıztaşı", "quiz5");
     quiz.add(model);
     model.add(
@@ -172,6 +353,56 @@ class QuestionManager {
           "Her gece yatmadan önce gözlüğünü {answer} koyar.", "başucuna"),
     );
 
+    model = QuestionModel("Kıztaşı", "quiz5", type: 1);
+    model.add(
+      QuestionWrapModel(
+        "miserable",
+        "perişan",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "castle warden",
+        "dizdar",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "village",
+        "köy",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "side",
+        "cephe",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "doomsday",
+        "kıyamet",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "fame",
+        "ün",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "enormous",
+        "koskoca",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "a solution",
+        "çare",
+      ),
+    );
+
     model = QuestionModel("Sarıkız Efsanesi", "quiz6");
     quiz.add(model);
     model.add(
@@ -195,6 +426,56 @@ class QuestionManager {
     );
     model.add(
       QuestionWrapModel("Yaşlılara her zaman {answer} edilmelidir.", "hürmet"),
+    );
+
+    model = QuestionModel("Sarıkız Efsanesi", "quiz6", type: 1);
+    model.add(
+      QuestionWrapModel(
+        "yard",
+        "avlu",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "pot",
+        "testi",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "local",
+        "yöre",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "goose",
+        "kaz",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "headman",
+        "muhtar",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "register",
+        "kütük",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "to encourage",
+        "teşvik",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "remnant",
+        "kalıntı",
+      ),
     );
 
     model = QuestionModel("Ses Çıkarmayan Kurbağalar", "quiz7");
@@ -224,32 +505,36 @@ class QuestionManager {
           "araştırma"),
     );
 
-    model = QuestionModel("Akdamar Adası", "quiz8");
-    quiz.add(model);
+    model = QuestionModel("Ses Çıkarmayan Kurbağalar", "quiz7", type: 1);
     model.add(
       QuestionWrapModel(
-          "Konferans belirtilen saat aralığından daha fazla {answer}.",
-          "sürecek"),
+        "friend",
+        "ahbap",
+      ),
     );
     model.add(
       QuestionWrapModel(
-          "Zeytinyağlı sarmayı o kadar güzel yapıyor ki {answer}.",
-          "üstüne tanımam"),
+        "stream",
+        "dere",
+      ),
     );
     model.add(
       QuestionWrapModel(
-          "Hırsız polisi görünce kaçmaya {answer} ancak başarılı olamadı",
-          "yeltendi"),
+        "plateau",
+        "yayla",
+      ),
     );
     model.add(
       QuestionWrapModel(
-          "Hayatındaki her şeyin yalan olduğunu anlayınca {answer}.",
-          "beyninden vurulmuşa döndü"),
+        "grassland",
+        "kır",
+      ),
     );
     model.add(
       QuestionWrapModel(
-          "Konserde sanatçı tarafından sahneye davet edilen misafir önündeki kalabalığı {answer} ilerledi.",
-          "yara yara"),
+        "divine",
+        "ulu",
+      ),
     );
 
     model = QuestionModel("Akdamar Adası", "quiz8");
@@ -278,6 +563,50 @@ class QuestionManager {
       QuestionWrapModel(
           "Konserde sanatçı tarafından sahneye davet edilen misafir önündeki kalabalığı {answer} ilerledi.",
           "yara yara"),
+    );
+
+    model = QuestionModel("Akdamar Adası", "quiz8", type: 1);
+    model.add(
+      QuestionWrapModel(
+        "waves",
+        "dalga",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "attachment",
+        "kulaç",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "island",
+        "ada",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "stroke",
+        "açık seçik",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "theme",
+        "konu",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "secret",
+        "gizli saklı",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "temple",
+        "tapınak",
+      ),
     );
 
     model = QuestionModel("Cumalıkızık-Cin Aralığı", "quiz9");
@@ -306,6 +635,38 @@ class QuestionManager {
           "atlatıp"),
     );
 
+    model = QuestionModel("Cumalıkızık-Cin Aralığı", "quiz9", type: 1);
+    model.add(
+      QuestionWrapModel(
+        "dead end",
+        "çıkmaz yol",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "to decide",
+        "karar vermek",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "urban myth",
+        "şehir efsanesi",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "to escape",
+        "kaçmak",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "civil",
+        "sivil",
+      ),
+    );
+
     model = QuestionModel("Arap Baba", "quiz10");
     quiz.add(model);
     model.add(
@@ -332,6 +693,38 @@ class QuestionManager {
           "müddet"),
     );
 
+    model = QuestionModel("Arap Baba", "quiz10", type: 1);
+    model.add(
+      QuestionWrapModel(
+        "religion",
+        "inanış",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "threat",
+        "tehdit",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "definite",
+        "kati",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "famine",
+        "kıtlık",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "settlement",
+        "yerleşim merkezi",
+      ),
+    );
+
     model = QuestionModel("Görmeli Köprüsü", "quiz11");
     quiz.add(model);
     model.add(
@@ -348,6 +741,38 @@ class QuestionManager {
       QuestionWrapModel(
           "Mimar Sinan’ın tüm eserleri görenler tarafından {answer}.",
           "beğeniliyor"),
+    );
+
+    model = QuestionModel("Görmeli Köprüsü", "quiz11", type: 1);
+    model.add(
+      QuestionWrapModel(
+        "bridge",
+        "köprü",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "work",
+        "eser",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "fast flowing",
+        "coşkun",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "river",
+        "ırmak",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "journeyman",
+        "kalfa",
+      ),
     );
 
     model = QuestionModel("Ulu Burnu", "quiz12");
@@ -378,6 +803,56 @@ class QuestionManager {
           "doğrultup"),
     );
 
+    model = QuestionModel("Ulu Burnu", "quiz12", type: 1);
+    model.add(
+      QuestionWrapModel(
+        "bay",
+        "koy",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "the crew",
+        "tayfa",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "to roll",
+        "sarsılmak",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "helm",
+        "dümen",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "not be able to do something",
+        "aciz kalmak",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "to row",
+        "asılmak",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "sacred",
+        "mukaddes",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "cavity",
+        "oyuk",
+      ),
+    );
+
     model = QuestionModel("Ayakbastı Mevki", "quiz13");
     quiz.add(model);
     model.add(
@@ -398,6 +873,38 @@ class QuestionManager {
       QuestionWrapModel(
           "Evde yaptığı tostu kantindeki tostlara benzetmek için tost makinesini var gücüyle {answer}.",
           "bastırdı"),
+    );
+
+    model = QuestionModel("Ayakbastı Mevki", "quiz13", type: 1);
+    model.add(
+      QuestionWrapModel(
+        "distance",
+        "mesafe",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "a stick",
+        "asa",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "township",
+        "bucak",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "manner",
+        "eda",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "place",
+        "mekan",
+      ),
     );
 
     model = QuestionModel("Aynalı Mağara Efsanesi", "quiz14");
@@ -427,6 +934,38 @@ class QuestionManager {
           "Her mimari eseri {answer} bir hikâye vardır.", "ünlendiren"),
     );
 
+    model = QuestionModel("Aynalı Mağara Efsanesi", "quiz14", type: 1);
+    model.add(
+      QuestionWrapModel(
+        "call",
+        "çağrı",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "lightening",
+        "yıldırım",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "scholar",
+        "bilgin",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "son of the padishah",
+        "şehzade",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "veil",
+        "peçe",
+      ),
+    );
+
     model = QuestionModel("Munzur Baba", "quiz15");
     quiz.add(model);
     model.add(
@@ -442,6 +981,56 @@ class QuestionManager {
       QuestionWrapModel(
           "Artık sadece kendisi için değil tüm insanlık için {answer}.",
           "dua ediyor"),
+    );
+
+    model = QuestionModel("Munzur Baba", "quiz15", type: 1);
+    model.add(
+      QuestionWrapModel(
+        "while",
+        "müddet",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "shepherd",
+        "çoban",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "ordinary",
+        "alelade",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "border",
+        "hudut",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "population",
+        "nüfus",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "tune",
+        "nağme",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "as a joke",
+        "latife yapmak",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "earthquake",
+        "yer sarsıntısı",
+      ),
     );
 
     model = QuestionModel("Söylemez Baba", "quiz16");
@@ -460,6 +1049,56 @@ class QuestionManager {
       QuestionWrapModel(
           "Tansiyonunun düşmesi ile bayılan öğrenci sınava katılım {answer}.",
           "sağlayamadı"),
+    );
+
+    model = QuestionModel("Söylemez Baba", "quiz16", type: 1);
+    model.add(
+      QuestionWrapModel(
+        "sack",
+        "çucal",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "immediately",
+        "derhal",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "scarce",
+        "kıt",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "difficult",
+        "meşakkat",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "tomb",
+        "türbe",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "country",
+        "yurt",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "visitor",
+        "ziyaretçi",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "the friend of God in Islam",
+        "evliya",
+      ),
     );
 
     model = QuestionModel("Çeç dağı", "quiz17");
@@ -485,6 +1124,56 @@ class QuestionManager {
           "sakladığı"),
     );
 
+    model = QuestionModel("Çeç dağı", "quiz17", type: 1);
+    model.add(
+      QuestionWrapModel(
+        "farmer",
+        "çiftçi",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "to dismiss",
+        "kovmak",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "meaning",
+        "mana",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "folk song",
+        "türkü",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "barley",
+        "arpa",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "cheerful",
+        "güleç",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "sickle",
+        "orak",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "merciless",
+        "merhametsiz",
+      ),
+    );
+
     model = QuestionModel("Yusufçuk kuşu", "quiz18");
     quiz.add(model);
     model.add(
@@ -508,6 +1197,56 @@ class QuestionManager {
           "dönüşüyor"),
     );
 
+    model = QuestionModel("Yusufçuk kuşu", "quiz18", type: 1);
+    model.add(
+      QuestionWrapModel(
+        "motif",
+        "motif",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "mischief",
+        "yaramazlık",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "manifestation",
+        "tezahür",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "pasture",
+        "mera",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "coincidence",
+        "tesadüf",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "especially",
+        "bilhassa",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "wit",
+        "ince zeka",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "sheepishly",
+        "süklüm püklüm",
+      ),
+    );
+
     model = QuestionModel("Balıklı Göl ve İğde Ağacı", "quiz19");
     quiz.add(model);
     model.add(
@@ -524,6 +1263,38 @@ class QuestionManager {
       QuestionWrapModel(
           "Gençler birçok sosyal sorumluluk projesine {answer} büyük bir amaca hizmet ettiler.",
           "talip olmakla"),
+    );
+
+    model = QuestionModel("Balıklı Göl ve İğde Ağacı", "quiz19", type: 1);
+    model.add(
+      QuestionWrapModel(
+        "catapult",
+        "mancınık",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "heat",
+        "ısı",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "evil",
+        "uğursuz",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "idol",
+        "put",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "crooked",
+        "eğri büğrü",
+      ),
     );
 
     model = QuestionModel("Çifte Minareli Medrese", "quiz20");
@@ -546,6 +1317,56 @@ class QuestionManager {
       QuestionWrapModel(
           "Sultan Ahmet Cami’ne girdiğiniz zaman {answer} ilk şey mavi işlemeli çini fayanslardır.",
           "göze çarpan"),
+    );
+
+    model = QuestionModel("Çifte Minareli Medrese", "quiz20", type: 1);
+    model.add(
+      QuestionWrapModel(
+        "pride",
+        "gurur",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "rumor",
+        "rivayet",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "principal",
+        "başat",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "dynasty",
+        "hanedan",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "matter",
+        "husus",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "minaret",
+        "minare",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "rather meaningful",
+        "manidar",
+      ),
+    );
+    model.add(
+      QuestionWrapModel(
+        "to be hurt",
+        "incinmek",
+      ),
     );
   }
 }
