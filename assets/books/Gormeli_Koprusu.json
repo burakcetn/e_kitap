@@ -1,0 +1,598 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "Görmeli Köprüsü bir usta ile kalçası Mersin\u0027in Mut ilçesi yakınlarında Coşkun bir ırmak üzerinde köprü yaparlar bu köprü bugün gezmelik Köprüsü diye bilinir Bu köprünün büyük emek veren Kalfa Süleyman ustasına bir sebepten dolayı darılır yanından ayrılır Süleyman Irmak\u0027ın başka bir Coşkun yerine gidip köprü yapmaya karar verir başlar köprüyü yapmaya gel zaman git zaman kalfanın Köprüsü de biter Süleyman eserini görmesi için ustasını haberciler gönderir diğeri ne kalfasının kendisini çağırmasına ne de yanından Ayrılmasın yeni köprüyü görmeye gelir kalfasının eserini gördükten sonra beğendiğini belirtir herkesin de bu köprüyü görmesini ister kalfasına",
+          "confidence": 0.9167236,
+          "words": [
+            {
+              "startTime": "0s",
+              "endTime": "1.800s",
+              "word": "Görmeli"
+            },
+            {
+              "startTime": "1.800s",
+              "endTime": "2.300s",
+              "word": "Köprüsü"
+            },
+            {
+              "startTime": "2.300s",
+              "endTime": "3.400s",
+              "word": "bir"
+            },
+            {
+              "startTime": "3.400s",
+              "endTime": "3.800s",
+              "word": "usta"
+            },
+            {
+              "startTime": "3.800s",
+              "endTime": "4.100s",
+              "word": "ile"
+            },
+            {
+              "startTime": "4.100s",
+              "endTime": "4.700s",
+              "word": "kalçası"
+            },
+            {
+              "startTime": "4.700s",
+              "endTime": "5.700s",
+              "word": "Mersin'in"
+            },
+            {
+              "startTime": "5.700s",
+              "endTime": "6s",
+              "word": "Mut"
+            },
+            {
+              "startTime": "6s",
+              "endTime": "6.500s",
+              "word": "ilçesi"
+            },
+            {
+              "startTime": "6.500s",
+              "endTime": "7.300s",
+              "word": "yakınlarında"
+            },
+            {
+              "startTime": "7.300s",
+              "endTime": "8.200s",
+              "word": "Coşkun"
+            },
+            {
+              "startTime": "8.200s",
+              "endTime": "8.400s",
+              "word": "bir"
+            },
+            {
+              "startTime": "8.400s",
+              "endTime": "8.700s",
+              "word": "ırmak"
+            },
+            {
+              "startTime": "8.700s",
+              "endTime": "9.400s",
+              "word": "üzerinde"
+            },
+            {
+              "startTime": "9.400s",
+              "endTime": "9.700s",
+              "word": "köprü"
+            },
+            {
+              "startTime": "9.700s",
+              "endTime": "10.400s",
+              "word": "yaparlar"
+            },
+            {
+              "startTime": "10.400s",
+              "endTime": "11.300s",
+              "word": "bu"
+            },
+            {
+              "startTime": "11.300s",
+              "endTime": "11.700s",
+              "word": "köprü"
+            },
+            {
+              "startTime": "11.700s",
+              "endTime": "12s",
+              "word": "bugün"
+            },
+            {
+              "startTime": "12s",
+              "endTime": "13s",
+              "word": "Gezmeli"
+            },
+            {
+              "startTime": "13s",
+              "endTime": "13.400s",
+              "word": "Köprüsü"
+            },
+            {
+              "startTime": "13.400s",
+              "endTime": "13.700s",
+              "word": "diye"
+            },
+            {
+              "startTime": "13.700s",
+              "endTime": "14.100s",
+              "word": "bilinir"
+            },
+            {
+              "startTime": "14.100s",
+              "endTime": "15s",
+              "word": "Bu"
+            },
+            {
+              "startTime": "15s",
+              "endTime": "15.400s",
+              "word": "köprünün"
+            },
+            {
+              "startTime": "15.400s",
+              "endTime": "16.700s",
+              "word": "yapılmasınabüyük"
+            },
+            {
+              "startTime": "16.700s",
+              "endTime": "17.100s",
+              "word": "emek"
+            },
+            {
+              "startTime": "17.100s",
+              "endTime": "17.400s",
+              "word": "veren"
+            },
+            {
+              "startTime": "17.400s",
+              "endTime": "17.900s",
+              "word": "Kalfa"
+            },
+            {
+              "startTime": "17.900s",
+              "endTime": "18.500s",
+              "word": "Süleyman"
+            },
+            {
+              "startTime": "18.500s",
+              "endTime": "19.400s",
+              "word": "ustasına"
+            },
+            {
+              "startTime": "19.400s",
+              "endTime": "19.700s",
+              "word": "bir"
+            },
+            {
+              "startTime": "19.700s",
+              "endTime": "20.200s",
+              "word": "sebepten"
+            },
+            {
+              "startTime": "20.200s",
+              "endTime": "20.300s",
+              "word": "dolayı"
+            },
+            {
+              "startTime": "20.300s",
+              "endTime": "21.200s",
+              "word": "darılır"
+            },
+            {
+              "startTime": "21.200s",
+              "endTime": "22s",
+              "word": "yanından"
+            },
+            {
+              "startTime": "22s",
+              "endTime": "22.500s",
+              "word": "ayrılır"
+            },
+            {
+              "startTime": "22.500s",
+              "endTime": "23.800s",
+              "word": "Süleyman"
+            },
+            {
+              "startTime": "23.800s",
+              "endTime": "24.800s",
+              "word": "aynı ıramağın"
+            },
+            {
+              "startTime": "24.800s",
+              "endTime": "25.300s",
+              "word": "başka"
+            },
+            {
+              "startTime": "25.300s",
+              "endTime": "25.500s",
+              "word": "bir"
+            },
+            {
+              "startTime": "25.500s",
+              "endTime": "26s",
+              "word": "Coşkun"
+            },
+            {
+              "startTime": "26s",
+              "endTime": "26.400s",
+              "word": "yerine"
+            },
+            {
+              "startTime": "26.400s",
+              "endTime": "26.700s",
+              "word": "gidip"
+            },
+            {
+              "startTime": "26.700s",
+              "endTime": "27.400s",
+              "word": "köprü"
+            },
+            {
+              "startTime": "27.400s",
+              "endTime": "27.800s",
+              "word": "yapmaya"
+            },
+            {
+              "startTime": "27.800s",
+              "endTime": "28.200s",
+              "word": "karar"
+            },
+            {
+              "startTime": "28.200s",
+              "endTime": "28.600s",
+              "word": "verir"
+            },
+            {
+              "startTime": "28.600s",
+              "endTime": "29.800s",
+              "word": "başlar"
+            },
+            {
+              "startTime": "29.800s",
+              "endTime": "30.300s",
+              "word": "köprüyü"
+            },
+            {
+              "startTime": "30.300s",
+              "endTime": "30.800s",
+              "word": "yapmaya"
+            },
+            {
+              "startTime": "30.800s",
+              "endTime": "31.800s",
+              "word": "gel"
+            },
+            {
+              "startTime": "31.800s",
+              "endTime": "32.200s",
+              "word": "zaman"
+            },
+            {
+              "startTime": "32.200s",
+              "endTime": "32.600s",
+              "word": "git"
+            },
+            {
+              "startTime": "32.600s",
+              "endTime": "32.900s",
+              "word": "zaman"
+            },
+            {
+              "startTime": "32.900s",
+              "endTime": "34.200s",
+              "word": "kalfanın"
+            },
+            {
+              "startTime": "34.200s",
+              "endTime": "34.800s",
+              "word": "Köprüsü"
+            },
+            {
+              "startTime": "34.800s",
+              "endTime": "34.900s",
+              "word": "de"
+            },
+            {
+              "startTime": "34.900s",
+              "endTime": "35.400s",
+              "word": "biter"
+            },
+            {
+              "startTime": "35.400s",
+              "endTime": "36.500s",
+              "word": "Süleyman"
+            },
+            {
+              "startTime": "36.500s",
+              "endTime": "37.100s",
+              "word": "eserini"
+            },
+            {
+              "startTime": "37.100s",
+              "endTime": "37.600s",
+              "word": "görmesi"
+            },
+            {
+              "startTime": "37.600s",
+              "endTime": "37.800s",
+              "word": "için"
+            },
+            {
+              "startTime": "37.800s",
+              "endTime": "38.900s",
+              "word": "ustasına"
+            },
+            {
+              "startTime": "38.900s",
+              "endTime": "39.600s",
+              "word": "haberciler"
+            },
+            {
+              "startTime": "39.600s",
+              "endTime": "40.200s",
+              "word": "gönderir"
+            },
+            {
+              "startTime": "40.200s",
+              "endTime": "42.800s",
+              "word": "hakiki bir usta olan"
+            },
+            {
+              "startTime": "42.800s",
+              "endTime": "43.700s",
+              "word": "diğeri"
+            },
+            {
+              "startTime": "43.700s",
+              "endTime": "44.300s",
+              "word": "ne kalfasının"
+            },
+            {
+              "startTime": "44.300s",
+              "endTime": "44.900s",
+              "word": "kendisini"
+            },
+            {
+              "startTime": "44.900s",
+              "endTime": "45.800s",
+              "word": "çağırmasına"
+            },
+            {
+              "startTime": "45.800s",
+              "endTime": "46.400s",
+              "word": "ne"
+            },
+            {
+              "startTime": "46.400s",
+              "endTime": "46.500s",
+              "word": "de"
+            },
+            {
+              "startTime": "46.500s",
+              "endTime": "47.100s",
+              "word": "yanından"
+            },
+            {
+              "startTime": "47.100s",
+              "endTime": "47.700s",
+              "word": "Ayrılmasına"
+            },
+            {
+              "startTime": "47.700s",
+              "endTime": "49.400s",
+              "word": "kızmayarak, yeni"
+            },
+            {
+              "startTime": "49.400s",
+              "endTime": "49.900s",
+              "word": "köprüyü"
+            },
+            {
+              "startTime": "49.900s",
+              "endTime": "50.400s",
+              "word": "görmeye"
+            },
+            {
+              "startTime": "50.400s",
+              "endTime": "50.800s",
+              "word": "gelir"
+            },
+            {
+              "startTime": "50.800s",
+              "endTime": "52.100s",
+              "word": "kalfasının"
+            },
+            {
+              "startTime": "52.100s",
+              "endTime": "52.600s",
+              "word": "eserini"
+            },
+            {
+              "startTime": "52.600s",
+              "endTime": "53.300s",
+              "word": "gördükten"
+            },
+            {
+              "startTime": "53.300s",
+              "endTime": "53.700s",
+              "word": "sonra"
+            },
+            {
+              "startTime": "53.700s",
+              "endTime": "54.800s",
+              "word": "beğendiğini"
+            },
+            {
+              "startTime": "54.800s",
+              "endTime": "55.400s",
+              "word": "belirtir"
+            },
+            {
+              "startTime": "55.400s",
+              "endTime": "56.600s",
+              "word": "herkesin"
+            },
+            {
+              "startTime": "56.600s",
+              "endTime": "56.800s",
+              "word": "de"
+            },
+            {
+              "startTime": "56.800s",
+              "endTime": "56.900s",
+              "word": "bu"
+            },
+            {
+              "startTime": "56.900s",
+              "endTime": "57.400s",
+              "word": "köprüyü"
+            },
+            {
+              "startTime": "57.400s",
+              "endTime": "58.100s",
+              "word": "görmesini"
+            },
+            {
+              "startTime": "58.100s",
+              "endTime": "58.500s",
+              "word": "ister"
+            },
+            {
+              "startTime": "58.500s",
+              "endTime": "59.900s",
+              "word": "kalfasına der ki:"
+            }
+          ]
+        }
+      ],
+      "resultEndTime": "59.970s",
+      "languageCode": "tr-tr"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " güzel yapmışsın Eline sağlık bu köprüyü güzelliğini herkes Görmeli bunun adı Görmeli Köprüsü olsun der bu görüşmeden sonra köprüye Görmeli adı verilir",
+          "confidence": 0.93118185,
+          "words": [
+            {
+              "startTime": "60s",
+              "endTime": "61.300s",
+              "word": "güzel"
+            },
+            {
+              "startTime": "61.300s",
+              "endTime": "62.100s",
+              "word": "yapmışsın"
+            },
+            {
+              "startTime": "62.100s",
+              "endTime": "62.600s",
+              "word": "Eline"
+            },
+            {
+              "startTime": "62.600s",
+              "endTime": "62.800s",
+              "word": "sağlık"
+            },
+            {
+              "startTime": "62.800s",
+              "endTime": "63.900s",
+              "word": "bu"
+            },
+            {
+              "startTime": "63.900s",
+              "endTime": "64.400s",
+              "word": "köprüyü"
+            },
+            {
+              "startTime": "64.400s",
+              "endTime": "65.800s",
+              "word": "güzelliğini"
+            },
+            {
+              "startTime": "65.800s",
+              "endTime": "66.700s",
+              "word": "herkes"
+            },
+            {
+              "startTime": "66.700s",
+              "endTime": "67.200s",
+              "word": "Görmeli"
+            },
+            {
+              "startTime": "67.200s",
+              "endTime": "68.300s",
+              "word": "bunun"
+            },
+            {
+              "startTime": "68.300s",
+              "endTime": "68.700s",
+              "word": "adı"
+            },
+            {
+              "startTime": "68.700s",
+              "endTime": "69.600s",
+              "word": "Görmeli"
+            },
+            {
+              "startTime": "69.600s",
+              "endTime": "70.100s",
+              "word": "Köprüsü"
+            },
+            {
+              "startTime": "70.100s",
+              "endTime": "70.400s",
+              "word": "olsun"
+            },
+            {
+              "startTime": "70.400s",
+              "endTime": "71.200s",
+              "word": "der"
+            },
+            {
+              "startTime": "71.200s",
+              "endTime": "71.900s",
+              "word": "bu"
+            },
+            {
+              "startTime": "71.900s",
+              "endTime": "72.700s",
+              "word": "görüşmeden"
+            },
+            {
+              "startTime": "72.700s",
+              "endTime": "73.100s",
+              "word": "sonra"
+            },
+            {
+              "startTime": "73.100s",
+              "endTime": "73.800s",
+              "word": "köprüye"
+            },
+            {
+              "startTime": "73.800s",
+              "endTime": "74.900s",
+              "word": "Görmeli"
+            },
+            {
+              "startTime": "74.900s",
+              "endTime": "75.200s",
+              "word": "adı"
+            },
+            {
+              "startTime": "75.200s",
+              "endTime": "75.700s",
+              "word": "verilir"
+            }
+          ]
+        }
+      ],
+      "resultEndTime": "76.150s",
+      "languageCode": "tr-tr"
+    }
+  ]
+}

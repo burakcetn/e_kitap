@@ -77,7 +77,7 @@ class dictionaryConstants {
       SpellMap(0, "Durum", "(noun) situation"),
       SpellMap(0, "Dalga", "(noun) wave")
     ]),
-    BookSpell("Ağrı Dağı Efsanesi", [
+    BookSpell("Agrı dağı efsanesi", [
       SpellMap(0, "Havza", "(noun) basin"),
       SpellMap(1, "Uç", "(noun) end; side "),
       SpellMap(2, "Kartal yuvası", "(noun) eagle’s nest "),
@@ -117,7 +117,7 @@ class dictionaryConstants {
       SpellMap(0, "Dümen kırmak", " (verb) to steer"),
       SpellMap(0, "Savmak", "(verb) to avoid"),
     ]),
-    BookSpell("sahmaren", [
+    BookSpell("Şahmeran", [
       SpellMap(0, "Şefkatli", "(adjective) compassionate "),
       SpellMap(0, "Geçim", "(noun) living "),
       SpellMap(0, "Bal", "(noun) honey "),
@@ -143,7 +143,7 @@ class dictionaryConstants {
       SpellMap(0, "İstila etmek", "(verb) to infest"),
       SpellMap(0, "Rivayet edilmek", "(phrase) to be rumored")
     ]),
-    BookSpell("Akcakoca Denizkızı Efsanesi", [
+    BookSpell("Akçakoca Denizkızı Efsanesi", [
       SpellMap(0, "Deniz kıyısı", "(noun) coast "),
       SpellMap(0, "Kurulmak", "(verb) to be founded "),
       SpellMap(0, "Belirlemek", "(verb) to determine "),
@@ -248,7 +248,7 @@ class dictionaryConstants {
       SpellMap(0, "Yöre", "(noun) local "),
       SpellMap(0, "Anmak", "(verb) to commemorate "),
     ]),
-    BookSpell("Ses Çıkarmayan Kurbağalar", [
+    BookSpell("Ses Çıkarmayan kurbağalar", [
       SpellMap(0, "Kır", "(noun) grassland"),
       SpellMap(0, "Yayla", "(noun) plateau "),
       SpellMap(0, "Kavak ağaçları", "(noun) poplar trees"),
@@ -269,7 +269,7 @@ class dictionaryConstants {
       SpellMap(0, "Kesmek", " (verb) to stop"),
       SpellMap(0, "Araştırmak", " (verb) to inquire"),
     ]),
-    BookSpell("Cumalikizik-Cin Araligi", [
+    BookSpell("Cumalıkızık Cin Aralığı", [
       SpellMap(0, " Sivil mimari", "(noun) civil architecture "),
       SpellMap(0, "Bozulmak", "(verb) to be ruined"),
       SpellMap(0, "Ayakta kalmak", "(verb) to survive "),
@@ -325,7 +325,7 @@ class dictionaryConstants {
       SpellMap(0, "Meydana getirmek", "(verb) to cause "),
       SpellMap(0, "Önlemek", "(verb) to avoid; to prevent")
     ]),
-    BookSpell("Gormeli Koprusu ", [
+    BookSpell("Görmeli Köprüsü ", [
       SpellMap(0, "Usta", "(noun) master"),
       SpellMap(0, "Coşkun", "(adjective) fast flowing"),
       SpellMap(0, "Irmak", "(noun) river"),
@@ -340,7 +340,7 @@ class dictionaryConstants {
       SpellMap(0, "Kızmak", "(verb) to get angry "),
       SpellMap(0, "Beğenmek", "(verb) to like")
     ]),
-    BookSpell("Ulu Burnu ", [
+    BookSpell("Ulu Burnu", [
       SpellMap(0, "Koy", "(noun) bay"),
       SpellMap(0, "Sefer", "(noun) voyage"),
       SpellMap(0, "Vapur", "(noun) ferry "),
@@ -378,7 +378,7 @@ class dictionaryConstants {
       SpellMap(0, "Mukaddes", "(adjective) sacred"),
       SpellMap(0, "Suretiyle", "(adverb) by"),
     ]),
-    BookSpell("Ayakbasti Mevkii", [
+    BookSpell("Ayakbastı Mevkii", [
       SpellMap(0, "Bucak", "(noun) township"),
       SpellMap(0, "Doğu", "(noun) east"),
       SpellMap(0, "Mesafe", " (noun) distance "),
@@ -515,7 +515,7 @@ class dictionaryConstants {
       SpellMap(0, "Yaba", "(noun) pitchfork"),
       SpellMap(0, "Merhametsiz", "(adjective) merciless")
     ]),
-    BookSpell("Yusufcuk Kuşu", [
+    BookSpell("Yusufçuk Kuşu", [
       SpellMap(0, "Bilhassa", "(adverb) especially"),
       SpellMap(0, "Guguk", "(noun) cuckoo bird"),
       SpellMap(0, "İbibik", "(noun) hoopoe"),

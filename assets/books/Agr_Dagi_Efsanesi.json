@@ -1,0 +1,2009 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "Ağrı Dağı Efsanesi Ağrı ili adını Ağrı dağlarından alır bu dağlara eğri dağları da derler Doğu Anadolu\u0027da Erzurum Kars yaylasını Murat havzasından ayıran Karasu Aras dağları nın Doğu ucunda Kartal Yuvası gibi dimdik İki dağ Büyük Ağrı küçük bu iki dağ için çeşitli Efsaneler söylene gelmiş Bunlar kutsal kitaplara kadar girmiştir Ağrı dağları asıl şöhretini kitaplarda geçen Tufan olayından almıştır Efsaneye göre tek tanrıya inanan ve ona iman eden Nuh peygamber zamanında insanlar doğru yoldan eğri yola sapmış düzen bozulmuş Tanrıya İsyan etmişlerdi Tanrı bunları cezalandırmayı kararlaştırdı Peygamber Hz Nuh",
+          "confidence": 0.9176431,
+          "words": [
+            {
+              "startTime": "1.300s",
+              "endTime": "2.100s",
+              "word": "Ağrı"
+            },
+            {
+              "startTime": "2.100s",
+              "endTime": "2.400s",
+              "word": "Dağı"
+            },
+            {
+              "startTime": "2.400s",
+              "endTime": "3.300s",
+              "word": "Efsanesi"
+            },
+            {
+              "startTime": "3.300s",
+              "endTime": "4.700s",
+              "word": "Ağrı"
+            },
+            {
+              "startTime": "4.700s",
+              "endTime": "5s",
+              "word": "ili"
+            },
+            {
+              "startTime": "5s",
+              "endTime": "5.800s",
+              "word": "adını"
+            },
+            {
+              "startTime": "5.800s",
+              "endTime": "6.200s",
+              "word": "Ağrı"
+            },
+            {
+              "startTime": "6.200s",
+              "endTime": "6.900s",
+              "word": "dağlarından"
+            },
+            {
+              "startTime": "6.900s",
+              "endTime": "7.200s",
+              "word": "alır"
+            },
+            {
+              "startTime": "7.200s",
+              "endTime": "8.100s",
+              "word": "bu"
+            },
+            {
+              "startTime": "8.100s",
+              "endTime": "8.700s",
+              "word": "dağlara"
+            },
+            {
+              "startTime": "8.700s",
+              "endTime": "9.500s",
+              "word": "eğri"
+            },
+            {
+              "startTime": "9.500s",
+              "endTime": "10s",
+              "word": "dağları"
+            },
+            {
+              "startTime": "10s",
+              "endTime": "10.100s",
+              "word": "da"
+            },
+            {
+              "startTime": "10.100s",
+              "endTime": "10.400s",
+              "word": "derler"
+            },
+            {
+              "startTime": "10.400s",
+              "endTime": "11.700s",
+              "word": "Doğu"
+            },
+            {
+              "startTime": "11.700s",
+              "endTime": "12.400s",
+              "word": "Anadolu'da"
+            },
+            {
+              "startTime": "12.400s",
+              "endTime": "13.200s",
+              "word": "Erzurum"
+            },
+            {
+              "startTime": "13.200s",
+              "endTime": "13.300s",
+              "word": "Kars"
+            },
+            {
+              "startTime": "13.300s",
+              "endTime": "14.600s",
+              "word": "yaylasını"
+            },
+            {
+              "startTime": "14.600s",
+              "endTime": "15.200s",
+              "word": "Murat"
+            },
+            {
+              "startTime": "15.200s",
+              "endTime": "16s",
+              "word": "havzasından"
+            },
+            {
+              "startTime": "16s",
+              "endTime": "16.600s",
+              "word": "ayıran"
+            },
+            {
+              "startTime": "16.600s",
+              "endTime": "17.400s",
+              "word": "Karasu"
+            },
+            {
+              "startTime": "17.400s",
+              "endTime": "17.800s",
+              "word": "Aras"
+            },
+            {
+              "startTime": "17.800s",
+              "endTime": "17.900s",
+              "word": "dağları"
+            },
+            {
+              "startTime": "17.900s",
+              "endTime": "18.600s",
+              "word": "nın"
+            },
+            {
+              "startTime": "18.600s",
+              "endTime": "19.200s",
+              "word": "Doğu"
+            },
+            {
+              "startTime": "19.200s",
+              "endTime": "19.800s",
+              "word": "ucunda"
+            },
+            {
+              "startTime": "19.800s",
+              "endTime": "20.900s",
+              "word": "Kartal"
+            },
+            {
+              "startTime": "20.900s",
+              "endTime": "21.400s",
+              "word": "Yuvası"
+            },
+            {
+              "startTime": "21.400s",
+              "endTime": "21.600s",
+              "word": "gibi"
+            },
+            {
+              "startTime": "21.600s",
+              "endTime": "22.100s",
+              "word": "dimdik"
+            },
+            {
+              "startTime": "22.100s",
+              "endTime": "22.600s",
+              "word": "İki"
+            },
+            {
+              "startTime": "22.600s",
+              "endTime": "22.800s",
+              "word": "dağ"
+            },
+            {
+              "startTime": "22.800s",
+              "endTime": "23.900s",
+              "word": "Büyük"
+            },
+            {
+              "startTime": "23.900s",
+              "endTime": "24.400s",
+              "word": "Ağrı"
+            },
+            {
+              "startTime": "24.400s",
+              "endTime": "24.700s",
+              "word": "küçük"
+            },
+            {
+              "startTime": "24.700s",
+              "endTime": "25.200s",
+              "word": "ağrı"
+            },
+            {
+              "startTime": "25.200s",
+              "endTime": "26.400s",
+              "word": "bu"
+            },
+            {
+              "startTime": "26.400s",
+              "endTime": "26.800s",
+              "word": "iki"
+            },
+            {
+              "startTime": "26.800s",
+              "endTime": "27s",
+              "word": "dağ"
+            },
+            {
+              "startTime": "27s",
+              "endTime": "27.500s",
+              "word": "için"
+            },
+            {
+              "startTime": "27.500s",
+              "endTime": "28.300s",
+              "word": "çeşitli"
+            },
+            {
+              "startTime": "28.300s",
+              "endTime": "28.600s",
+              "word": "Efsaneler"
+            },
+            {
+              "startTime": "28.600s",
+              "endTime": "29.600s",
+              "word": "söylene"
+            },
+            {
+              "startTime": "29.600s",
+              "endTime": "30.300s",
+              "word": "gelmiş"
+            },
+            {
+              "startTime": "30.300s",
+              "endTime": "31s",
+              "word": "Bunlar"
+            },
+            {
+              "startTime": "31s",
+              "endTime": "31.900s",
+              "word": "kutsal"
+            },
+            {
+              "startTime": "31.900s",
+              "endTime": "32.600s",
+              "word": "kitaplara"
+            },
+            {
+              "startTime": "32.600s",
+              "endTime": "32.900s",
+              "word": "kadar"
+            },
+            {
+              "startTime": "32.900s",
+              "endTime": "33.700s",
+              "word": "girmiştir"
+            },
+            {
+              "startTime": "33.700s",
+              "endTime": "34.800s",
+              "word": "Ağrı"
+            },
+            {
+              "startTime": "34.800s",
+              "endTime": "35.100s",
+              "word": "dağları"
+            },
+            {
+              "startTime": "35.100s",
+              "endTime": "36.100s",
+              "word": "asıl"
+            },
+            {
+              "startTime": "36.100s",
+              "endTime": "36.300s",
+              "word": "şöhretini"
+            },
+            {
+              "startTime": "36.300s",
+              "endTime": "38.300s",
+              "word": "Kutsal kitaplarda"
+            },
+            {
+              "startTime": "38.300s",
+              "endTime": "38.400s",
+              "word": "geçen"
+            },
+            {
+              "startTime": "38.400s",
+              "endTime": "39.400s",
+              "word": "Tufan"
+            },
+            {
+              "startTime": "39.400s",
+              "endTime": "40.100s",
+              "word": "olayından"
+            },
+            {
+              "startTime": "40.100s",
+              "endTime": "40.700s",
+              "word": "almıştır"
+            },
+            {
+              "startTime": "40.700s",
+              "endTime": "42.100s",
+              "word": "Efsaneye"
+            },
+            {
+              "startTime": "42.100s",
+              "endTime": "42.300s",
+              "word": "göre"
+            },
+            {
+              "startTime": "42.300s",
+              "endTime": "43.100s",
+              "word": "tek"
+            },
+            {
+              "startTime": "43.100s",
+              "endTime": "43.600s",
+              "word": "tanrıya"
+            },
+            {
+              "startTime": "43.600s",
+              "endTime": "43.700s",
+              "word": "inanan"
+            },
+            {
+              "startTime": "43.700s",
+              "endTime": "44.600s",
+              "word": "ve"
+            },
+            {
+              "startTime": "44.600s",
+              "endTime": "44.900s",
+              "word": "ona"
+            },
+            {
+              "startTime": "44.900s",
+              "endTime": "45.300s",
+              "word": "iman"
+            },
+            {
+              "startTime": "45.300s",
+              "endTime": "45.700s",
+              "word": "eden"
+            },
+            {
+              "startTime": "45.700s",
+              "endTime": "45.900s",
+              "word": "Nuh"
+            },
+            {
+              "startTime": "45.900s",
+              "endTime": "46.600s",
+              "word": "peygamber"
+            },
+            {
+              "startTime": "46.600s",
+              "endTime": "47.400s",
+              "word": "zamanında"
+            },
+            {
+              "startTime": "47.400s",
+              "endTime": "48.600s",
+              "word": "insanlar"
+            },
+            {
+              "startTime": "48.600s",
+              "endTime": "49.200s",
+              "word": "doğru"
+            },
+            {
+              "startTime": "49.200s",
+              "endTime": "49.800s",
+              "word": "yoldan"
+            },
+            {
+              "startTime": "49.800s",
+              "endTime": "50.200s",
+              "word": "eğri"
+            },
+            {
+              "startTime": "50.200s",
+              "endTime": "50.400s",
+              "word": "yola"
+            },
+            {
+              "startTime": "50.400s",
+              "endTime": "50.900s",
+              "word": "sapmış"
+            },
+            {
+              "startTime": "50.900s",
+              "endTime": "51.900s",
+              "word": "düzen"
+            },
+            {
+              "startTime": "51.900s",
+              "endTime": "52.600s",
+              "word": "bozulmuş"
+            },
+            {
+              "startTime": "52.600s",
+              "endTime": "53.700s",
+              "word": "Tanrıya"
+            },
+            {
+              "startTime": "53.700s",
+              "endTime": "53.900s",
+              "word": "İsyan"
+            },
+            {
+              "startTime": "53.900s",
+              "endTime": "55s",
+              "word": "etmişlerdi"
+            },
+            {
+              "startTime": "55s",
+              "endTime": "56.200s",
+              "word": "Tanrı"
+            },
+            {
+              "startTime": "56.200s",
+              "endTime": "56.800s",
+              "word": "bunları"
+            },
+            {
+              "startTime": "56.800s",
+              "endTime": "57.900s",
+              "word": "cezalandırmayı"
+            },
+            {
+              "startTime": "57.900s",
+              "endTime": "58.900s",
+              "word": "kararlaştırdı"
+            },
+            {
+              "startTime": "58.900s",
+              "endTime": "60.300s",
+              "word": "Peygamber"
+            },
+            {
+              "startTime": "60.300s",
+              "endTime": "60.600s",
+              "word": "Hz"
+            },
+            {
+              "startTime": "60.600s",
+              "endTime": "61.200s",
+              "word": "Nuh'a"
+            }
+          ]
+        }
+      ],
+      "resultEndTime": "61.290s",
+      "languageCode": "tr-tr"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " Bir Gemi yapmasını ilahi bir Emir olarak bildirdi gemi 300 adım boyunda 50 adım eninde ve 30 adım yükseklikte olan Nuh Peygamber gemisini yaparken herkes onunla alay ediyor başlarına gelecek felakete bir türlü inanmıyorlardı derken geminin yapımı Nuh Peygamber ilahi Emir girince yeryüzünde bulunan bütün canlılardan erkek dişi birer çift gemisini aldı yeteri kadar yiyecek sonunda da ailesi ve iman eden bazı yakınlarını yanına alarak gemiyi girdi oğullarından birisi Tufan olursa ben bir diyerek gemiye binmedi Bu sırada Gök delindi 40 gün kırk gece yağmur yağdı görülmemiş bir Tufan dağları taşları",
+          "confidence": 0.92070854,
+          "words": [
+            {
+              "startTime": "61.200s",
+              "endTime": "61.800s",
+              "word": "Bir"
+            },
+            {
+              "startTime": "61.800s",
+              "endTime": "62.200s",
+              "word": "Gemi"
+            },
+            {
+              "startTime": "62.200s",
+              "endTime": "62.900s",
+              "word": "yapmasını"
+            },
+            {
+              "startTime": "62.900s",
+              "endTime": "64s",
+              "word": "ilahi"
+            },
+            {
+              "startTime": "64s",
+              "endTime": "64.200s",
+              "word": "bir"
+            },
+            {
+              "startTime": "64.200s",
+              "endTime": "64.500s",
+              "word": "Emir"
+            },
+            {
+              "startTime": "64.500s",
+              "endTime": "65s",
+              "word": "olarak"
+            },
+            {
+              "startTime": "65s",
+              "endTime": "65.600s",
+              "word": "bildirdi"
+            },
+            {
+              "startTime": "65.600s",
+              "endTime": "66.900s",
+              "word": "gemi"
+            },
+            {
+              "startTime": "66.900s",
+              "endTime": "67.700s",
+              "word": "300"
+            },
+            {
+              "startTime": "67.800s",
+              "endTime": "68.100s",
+              "word": "adım"
+            },
+            {
+              "startTime": "68.100s",
+              "endTime": "68.700s",
+              "word": "boyunda"
+            },
+            {
+              "startTime": "68.700s",
+              "endTime": "69.600s",
+              "word": "50"
+            },
+            {
+              "startTime": "69.600s",
+              "endTime": "69.900s",
+              "word": "adım"
+            },
+            {
+              "startTime": "69.900s",
+              "endTime": "70.400s",
+              "word": "eninde"
+            },
+            {
+              "startTime": "70.400s",
+              "endTime": "70.900s",
+              "word": "ve"
+            },
+            {
+              "startTime": "70.900s",
+              "endTime": "71.700s",
+              "word": "30"
+            },
+            {
+              "startTime": "71.700s",
+              "endTime": "72.100s",
+              "word": "adım"
+            },
+            {
+              "startTime": "72.100s",
+              "endTime": "72.900s",
+              "word": "yükseklikte"
+            },
+            {
+              "startTime": "72.900s",
+              "endTime": "73.200s",
+              "word": "olacaktı"
+            },
+            {
+              "startTime": "73.200s",
+              "endTime": "74.800s",
+              "word": "Nuh"
+            },
+            {
+              "startTime": "74.800s",
+              "endTime": "75.500s",
+              "word": "Peygamber"
+            },
+            {
+              "startTime": "75.500s",
+              "endTime": "76.100s",
+              "word": "gemisini"
+            },
+            {
+              "startTime": "76.100s",
+              "endTime": "76.800s",
+              "word": "yaparken"
+            },
+            {
+              "startTime": "76.800s",
+              "endTime": "77.700s",
+              "word": "herkes"
+            },
+            {
+              "startTime": "77.700s",
+              "endTime": "78.100s",
+              "word": "onunla"
+            },
+            {
+              "startTime": "78.100s",
+              "endTime": "78.400s",
+              "word": "alay"
+            },
+            {
+              "startTime": "78.400s",
+              "endTime": "78.900s",
+              "word": "ediyor"
+            },
+            {
+              "startTime": "78.900s",
+              "endTime": "80s",
+              "word": "başlarına"
+            },
+            {
+              "startTime": "80s",
+              "endTime": "80.500s",
+              "word": "gelecek"
+            },
+            {
+              "startTime": "80.500s",
+              "endTime": "81.100s",
+              "word": "felakete"
+            },
+            {
+              "startTime": "81.100s",
+              "endTime": "81.300s",
+              "word": "bir"
+            },
+            {
+              "startTime": "81.300s",
+              "endTime": "81.600s",
+              "word": "türlü"
+            },
+            {
+              "startTime": "81.600s",
+              "endTime": "82.600s",
+              "word": "inanmıyorlardı"
+            },
+            {
+              "startTime": "82.600s",
+              "endTime": "83.800s",
+              "word": "derken"
+            },
+            {
+              "startTime": "83.800s",
+              "endTime": "84.700s",
+              "word": "geminin"
+            },
+            {
+              "startTime": "84.700s",
+              "endTime": "85.100s",
+              "word": "yapımı bitti"
+            },
+            {
+              "startTime": "85.100s",
+              "endTime": "86.400s",
+              "word": "Nuh"
+            },
+            {
+              "startTime": "86.400s",
+              "endTime": "87.200s",
+              "word": "Peygamber"
+            },
+            {
+              "startTime": "87.200s",
+              "endTime": "87.800s",
+              "word": "ilahi"
+            },
+            {
+              "startTime": "87.800s",
+              "endTime": "88.200s",
+              "word": "Emir"
+            },
+            {
+              "startTime": "88.200s",
+              "endTime": "88.900s",
+              "word": "gereğince"
+            },
+            {
+              "startTime": "88.900s",
+              "endTime": "89.900s",
+              "word": "yeryüzünde"
+            },
+            {
+              "startTime": "89.900s",
+              "endTime": "90.300s",
+              "word": "bulunan"
+            },
+            {
+              "startTime": "90.300s",
+              "endTime": "90.600s",
+              "word": "bütün"
+            },
+            {
+              "startTime": "90.600s",
+              "endTime": "91.700s",
+              "word": "canlılardan"
+            },
+            {
+              "startTime": "91.700s",
+              "endTime": "92.500s",
+              "word": "erkek"
+            },
+            {
+              "startTime": "92.500s",
+              "endTime": "92.900s",
+              "word": "dişi"
+            },
+            {
+              "startTime": "92.900s",
+              "endTime": "93.400s",
+              "word": "birer"
+            },
+            {
+              "startTime": "93.400s",
+              "endTime": "93.800s",
+              "word": "çift"
+            },
+            {
+              "startTime": "93.800s",
+              "endTime": "94.400s",
+              "word": "gemisine"
+            },
+            {
+              "startTime": "94.400s",
+              "endTime": "94.700s",
+              "word": "aldı"
+            },
+            {
+              "startTime": "94.700s",
+              "endTime": "96s",
+              "word": "yeteri"
+            },
+            {
+              "startTime": "96s",
+              "endTime": "96.500s",
+              "word": "kadar"
+            },
+            {
+              "startTime": "96.500s",
+              "endTime": "97s",
+              "word": "yiyecek"
+            },
+            {
+              "startTime": "97s",
+              "endTime": "98.700s",
+              "word": "yükledi. Sonunda"
+            },
+            {
+              "startTime": "98.700s",
+              "endTime": "98.800s",
+              "word": "da"
+            },
+            {
+              "startTime": "98.800s",
+              "endTime": "99.800s",
+              "word": "ailesi"
+            },
+            {
+              "startTime": "99.800s",
+              "endTime": "100s",
+              "word": "ve"
+            },
+            {
+              "startTime": "100s",
+              "endTime": "100.500s",
+              "word": "iman"
+            },
+            {
+              "startTime": "100.500s",
+              "endTime": "100.800s",
+              "word": "eden"
+            },
+            {
+              "startTime": "100.800s",
+              "endTime": "101.100s",
+              "word": "bazı"
+            },
+            {
+              "startTime": "101.100s",
+              "endTime": "101.900s",
+              "word": "yakınlarını"
+            },
+            {
+              "startTime": "101.900s",
+              "endTime": "102.400s",
+              "word": "yanına"
+            },
+            {
+              "startTime": "102.400s",
+              "endTime": "102.800s",
+              "word": "alarak"
+            },
+            {
+              "startTime": "102.800s",
+              "endTime": "103.700s",
+              "word": "gemiye"
+            },
+            {
+              "startTime": "103.700s",
+              "endTime": "104.100s",
+              "word": "girdi"
+            },
+            {
+              "startTime": "104.100s",
+              "endTime": "105.900s",
+              "word": "oğullarından"
+            },
+            {
+              "startTime": "105.900s",
+              "endTime": "106.500s",
+              "word": "birisi"
+            },
+            {
+              "startTime": "106.500s",
+              "endTime": "107.700s",
+              "word": "Tufan"
+            },
+            {
+              "startTime": "107.700s",
+              "endTime": "108.200s",
+              "word": "olursa"
+            },
+            {
+              "startTime": "108.200s",
+              "endTime": "108.800s",
+              "word": "ben"
+            },
+            {
+              "startTime": "108.800s",
+              "endTime": "109s",
+              "word": "bir"
+            },
+            {
+              "startTime": "109s",
+              "endTime": "110.200s",
+              "word": "dağa sığınırım"
+            },
+            {
+              "startTime": "110.200s",
+              "endTime": "110.800s",
+              "word": "diyerek"
+            },
+            {
+              "startTime": "110.800s",
+              "endTime": "111.500s",
+              "word": "gemiye"
+            },
+            {
+              "startTime": "111.500s",
+              "endTime": "112s",
+              "word": "binmedi"
+            },
+            {
+              "startTime": "112s",
+              "endTime": "112.800s",
+              "word": "Bu"
+            },
+            {
+              "startTime": "112.800s",
+              "endTime": "113.400s",
+              "word": "sırada"
+            },
+            {
+              "startTime": "113.400s",
+              "endTime": "114s",
+              "word": "Gök"
+            },
+            {
+              "startTime": "114s",
+              "endTime": "114.400s",
+              "word": "delindi"
+            },
+            {
+              "startTime": "114.400s",
+              "endTime": "115.500s",
+              "word": "kırk"
+            },
+            {
+              "startTime": "115.500s",
+              "endTime": "115.800s",
+              "word": "gün"
+            },
+            {
+              "startTime": "115.800s",
+              "endTime": "116.300s",
+              "word": "kırk"
+            },
+            {
+              "startTime": "116.300s",
+              "endTime": "116.300s",
+              "word": "gece"
+            },
+            {
+              "startTime": "116.300s",
+              "endTime": "117s",
+              "word": "yağmur"
+            },
+            {
+              "startTime": "117s",
+              "endTime": "117.500s",
+              "word": "yağdı"
+            },
+            {
+              "startTime": "117.500s",
+              "endTime": "118.700s",
+              "word": "görülmemiş"
+            },
+            {
+              "startTime": "118.700s",
+              "endTime": "119s",
+              "word": "bir"
+            },
+            {
+              "startTime": "119s",
+              "endTime": "119.300s",
+              "word": "Tufan"
+            },
+            {
+              "startTime": "119.300s",
+              "endTime": "120.500s",
+              "word": "dağları"
+            },
+            {
+              "startTime": "120.500s",
+              "endTime": "121s",
+              "word": "taşları"
+            }
+          ]
+        }
+      ],
+      "resultEndTime": "121.260s",
+      "languageCode": "tr-tr"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " denizlerle birleştirmişti tanrının gazabına uğrayan insanlar yok olmuş yalnız gemidekiler sağ kalmışlardı Nuh\u0027un Gemisi 150 sularda yüzdü durdu yine ilahi bir emirle sular çekilmeye başladı gemi Ağrı Dağları\u0027nın Cudi tepesine oturdu Nuh Peygamber kaç Aralık bir güvercin saldı güvercin konacak yani bulamayarak geri döndü 7 gün sonra güvercini yeniden saldı güvercin bu ağzında bir zeytin dalı ile gemiye döndü sular çekilmişti Nuh Peygamber gemisinden çıkarak Ağrı Dağları\u0027nın eteklerinde bir köy kurdu insanlar canlılarla birlikte yeniden çoğaldılar sümerlerin Gılgamış destanlarında da geçen ve bütün dünyaca bilinen bu efsaneyi gerçekleştirmek için bilgi",
+          "confidence": 0.91126215,
+          "words": [
+            {
+              "startTime": "121.200s",
+              "endTime": "122.100s",
+              "word": "denizlerle"
+            },
+            {
+              "startTime": "122.100s",
+              "endTime": "123.100s",
+              "word": "birleştirmişti"
+            },
+            {
+              "startTime": "123.100s",
+              "endTime": "124.800s",
+              "word": "tanrının"
+            },
+            {
+              "startTime": "124.800s",
+              "endTime": "125.300s",
+              "word": "gazabına"
+            },
+            {
+              "startTime": "125.300s",
+              "endTime": "125.900s",
+              "word": "uğrayan"
+            },
+            {
+              "startTime": "125.900s",
+              "endTime": "126.400s",
+              "word": "insanlar"
+            },
+            {
+              "startTime": "126.400s",
+              "endTime": "126.800s",
+              "word": "yok"
+            },
+            {
+              "startTime": "126.800s",
+              "endTime": "127.300s",
+              "word": "olmuş"
+            },
+            {
+              "startTime": "127.300s",
+              "endTime": "128.200s",
+              "word": "yalnız"
+            },
+            {
+              "startTime": "128.200s",
+              "endTime": "129.100s",
+              "word": "gemidekiler"
+            },
+            {
+              "startTime": "129.100s",
+              "endTime": "129.300s",
+              "word": "sağ"
+            },
+            {
+              "startTime": "129.300s",
+              "endTime": "130.200s",
+              "word": "kalmışlardı"
+            },
+            {
+              "startTime": "130.200s",
+              "endTime": "131.300s",
+              "word": "Nuh'un"
+            },
+            {
+              "startTime": "131.300s",
+              "endTime": "132s",
+              "word": "Gemisi"
+            },
+            {
+              "startTime": "132s",
+              "endTime": "133.100s",
+              "word": "150 gün"
+            },
+            {
+              "startTime": "133.100s",
+              "endTime": "133.900s",
+              "word": "sularda"
+            },
+            {
+              "startTime": "133.900s",
+              "endTime": "134.400s",
+              "word": "yüzdü"
+            },
+            {
+              "startTime": "134.400s",
+              "endTime": "134.900s",
+              "word": "durdu"
+            },
+            {
+              "startTime": "134.900s",
+              "endTime": "135.900s",
+              "word": "yine"
+            },
+            {
+              "startTime": "135.900s",
+              "endTime": "136.900s",
+              "word": "ilahi"
+            },
+            {
+              "startTime": "136.900s",
+              "endTime": "137.200s",
+              "word": "bir"
+            },
+            {
+              "startTime": "137.200s",
+              "endTime": "137.600s",
+              "word": "emirle"
+            },
+            {
+              "startTime": "137.600s",
+              "endTime": "138.500s",
+              "word": "sular"
+            },
+            {
+              "startTime": "138.500s",
+              "endTime": "139.100s",
+              "word": "çekilmeye"
+            },
+            {
+              "startTime": "139.100s",
+              "endTime": "139.600s",
+              "word": "başladı"
+            },
+            {
+              "startTime": "139.600s",
+              "endTime": "140.600s",
+              "word": "gemi"
+            },
+            {
+              "startTime": "140.600s",
+              "endTime": "141.400s",
+              "word": "Ağrı"
+            },
+            {
+              "startTime": "141.400s",
+              "endTime": "142.100s",
+              "word": "Dağları'nın"
+            },
+            {
+              "startTime": "142.100s",
+              "endTime": "142.700s",
+              "word": "Cudi"
+            },
+            {
+              "startTime": "142.700s",
+              "endTime": "143.300s",
+              "word": "tepesine"
+            },
+            {
+              "startTime": "143.300s",
+              "endTime": "143.800s",
+              "word": "oturdu"
+            },
+            {
+              "startTime": "143.800s",
+              "endTime": "144.800s",
+              "word": "Nuh"
+            },
+            {
+              "startTime": "144.800s",
+              "endTime": "145.300s",
+              "word": "Peygamber"
+            },
+            {
+              "startTime": "145.300s",
+              "endTime": "146.400s",
+              "word": "pencereyi"
+            },
+            {
+              "startTime": "146.400s",
+              "endTime": "146.800s",
+              "word": "açarak"
+            },
+            {
+              "startTime": "146.800s",
+              "endTime": "147s",
+              "word": "bir"
+            },
+            {
+              "startTime": "147s",
+              "endTime": "147.600s",
+              "word": "güvercin"
+            },
+            {
+              "startTime": "147.600s",
+              "endTime": "148.100s",
+              "word": "saldı"
+            },
+            {
+              "startTime": "148.100s",
+              "endTime": "149.500s",
+              "word": "güvercin"
+            },
+            {
+              "startTime": "149.500s",
+              "endTime": "150.200s",
+              "word": "konacak"
+            },
+            {
+              "startTime": "150.200s",
+              "endTime": "150.400s",
+              "word": "yer"
+            },
+            {
+              "startTime": "150.400s",
+              "endTime": "151s",
+              "word": "bulamayarak"
+            },
+            {
+              "startTime": "151s",
+              "endTime": "151.400s",
+              "word": "geri"
+            },
+            {
+              "startTime": "151.400s",
+              "endTime": "151.800s",
+              "word": "döndü"
+            },
+            {
+              "startTime": "151.800s",
+              "endTime": "153s",
+              "word": "7"
+            },
+            {
+              "startTime": "153s",
+              "endTime": "153.300s",
+              "word": "gün"
+            },
+            {
+              "startTime": "153.300s",
+              "endTime": "153.700s",
+              "word": "sonra"
+            },
+            {
+              "startTime": "153.700s",
+              "endTime": "154.400s",
+              "word": "güvercini"
+            },
+            {
+              "startTime": "154.400s",
+              "endTime": "155.200s",
+              "word": "yeniden"
+            },
+            {
+              "startTime": "155.200s",
+              "endTime": "155.700s",
+              "word": "saldı"
+            },
+            {
+              "startTime": "155.700s",
+              "endTime": "156.900s",
+              "word": "güvercin"
+            },
+            {
+              "startTime": "156.900s",
+              "endTime": "157s",
+              "word": "bukez"
+            },
+            {
+              "startTime": "157s",
+              "endTime": "158.100s",
+              "word": "ağzında"
+            },
+            {
+              "startTime": "158.100s",
+              "endTime": "158.300s",
+              "word": "bir"
+            },
+            {
+              "startTime": "158.300s",
+              "endTime": "158.800s",
+              "word": "zeytin"
+            },
+            {
+              "startTime": "158.800s",
+              "endTime": "159s",
+              "word": "dalı"
+            },
+            {
+              "startTime": "159s",
+              "endTime": "159.200s",
+              "word": "ile"
+            },
+            {
+              "startTime": "159.200s",
+              "endTime": "159.600s",
+              "word": "gemiye"
+            },
+            {
+              "startTime": "159.600s",
+              "endTime": "160s",
+              "word": "döndü"
+            },
+            {
+              "startTime": "160s",
+              "endTime": "161.100s",
+              "word": "sular"
+            },
+            {
+              "startTime": "161.100s",
+              "endTime": "161.900s",
+              "word": "çekilmişti"
+            },
+            {
+              "startTime": "161.900s",
+              "endTime": "162.700s",
+              "word": "Nuh"
+            },
+            {
+              "startTime": "162.700s",
+              "endTime": "163.400s",
+              "word": "Peygamber"
+            },
+            {
+              "startTime": "163.400s",
+              "endTime": "164s",
+              "word": "gemisinden"
+            },
+            {
+              "startTime": "164s",
+              "endTime": "164.600s",
+              "word": "çıkarak"
+            },
+            {
+              "startTime": "164.600s",
+              "endTime": "165.200s",
+              "word": "Ağrı"
+            },
+            {
+              "startTime": "165.200s",
+              "endTime": "165.900s",
+              "word": "Dağları'nın"
+            },
+            {
+              "startTime": "165.900s",
+              "endTime": "166.800s",
+              "word": "eteklerinde"
+            },
+            {
+              "startTime": "166.800s",
+              "endTime": "167.900s",
+              "word": "bir"
+            },
+            {
+              "startTime": "167.900s",
+              "endTime": "168.100s",
+              "word": "köy"
+            },
+            {
+              "startTime": "168.100s",
+              "endTime": "168.600s",
+              "word": "kurdu"
+            },
+            {
+              "startTime": "168.600s",
+              "endTime": "170.200s",
+              "word": "insanlar"
+            },
+            {
+              "startTime": "170.200s",
+              "endTime": "171.100s",
+              "word": "canlılarla"
+            },
+            {
+              "startTime": "171.100s",
+              "endTime": "171.300s",
+              "word": "birlikte"
+            },
+            {
+              "startTime": "171.300s",
+              "endTime": "172.100s",
+              "word": "yeniden"
+            },
+            {
+              "startTime": "172.100s",
+              "endTime": "172.800s",
+              "word": "çoğaldılar"
+            },
+            {
+              "startTime": "172.800s",
+              "endTime": "174.400s",
+              "word": "sümerlerin"
+            },
+            {
+              "startTime": "174.400s",
+              "endTime": "174.800s",
+              "word": "Gılgamış"
+            },
+            {
+              "startTime": "174.800s",
+              "endTime": "176.100s",
+              "word": "destanlarında"
+            },
+            {
+              "startTime": "176.100s",
+              "endTime": "176.200s",
+              "word": "da"
+            },
+            {
+              "startTime": "176.200s",
+              "endTime": "176.700s",
+              "word": "geçen"
+            },
+            {
+              "startTime": "176.700s",
+              "endTime": "177.100s",
+              "word": "ve"
+            },
+            {
+              "startTime": "177.100s",
+              "endTime": "177.400s",
+              "word": "bütün"
+            },
+            {
+              "startTime": "177.400s",
+              "endTime": "177.900s",
+              "word": "dünyaca"
+            },
+            {
+              "startTime": "177.900s",
+              "endTime": "178.400s",
+              "word": "bilinen"
+            },
+            {
+              "startTime": "178.400s",
+              "endTime": "178.600s",
+              "word": "bu"
+            },
+            {
+              "startTime": "178.600s",
+              "endTime": "179.200s",
+              "word": "efsaneyi"
+            },
+            {
+              "startTime": "179.200s",
+              "endTime": "180.300s",
+              "word": "gerçekleştirmek"
+            },
+            {
+              "startTime": "180.300s",
+              "endTime": "180.500s",
+              "word": "için"
+            },
+            {
+              "startTime": "180.500s",
+              "endTime": "181s",
+              "word": "bilginler"
+            }
+          ]
+        }
+      ],
+      "resultEndTime": "181.230s",
+      "languageCode": "tr-tr"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " yıllardan beri ağrı dağlarında Nuh gemisinin kalıntılarını arayıp durmuşlardır Tufan Efsanesi burada biter ama Doğu Anadolu\u0027da da daha başka söylentiler de vardır derler ki suların çekilmeye başladığı günlerde Nuh\u0027un Gemisi ansızın şiddetli bir Sarsıntı ile allak bullak olur gemi bir dağın sivri tepesinde çarpmıştır gemidekiler korkudan Sübhanallah derler dağın adı süphandağı olur gemi bu tehlikeyi atlattı sonra kuzeye Dümen kırar bir tepeye daha çarpar Nuh Peygamber Allahu Ekber diyerek bu tehlikeyi de Savaş Bu dağda Allahu Ekber Dağları derler derken bir süre sonra sular çekilir gemi büyük bir dağın sivri tepeleri üzerine oturur uğraşır uğraşır kurtaramazlar",
+          "confidence": 0.92775184,
+          "words": [
+            {
+              "startTime": "181.200s",
+              "endTime": "182.600s",
+              "word": "yıllardan"
+            },
+            {
+              "startTime": "182.600s",
+              "endTime": "183s",
+              "word": "beri"
+            },
+            {
+              "startTime": "183s",
+              "endTime": "183.600s",
+              "word": "ağrı"
+            },
+            {
+              "startTime": "183.600s",
+              "endTime": "184.300s",
+              "word": "dağlarında"
+            },
+            {
+              "startTime": "184.300s",
+              "endTime": "184.900s",
+              "word": "Nuh"
+            },
+            {
+              "startTime": "184.900s",
+              "endTime": "185.400s",
+              "word": "gemisinin"
+            },
+            {
+              "startTime": "185.400s",
+              "endTime": "186.300s",
+              "word": "kalıntılarını"
+            },
+            {
+              "startTime": "186.300s",
+              "endTime": "187.100s",
+              "word": "arayıp"
+            },
+            {
+              "startTime": "187.100s",
+              "endTime": "187.800s",
+              "word": "durmuşlardır"
+            },
+            {
+              "startTime": "187.800s",
+              "endTime": "189.500s",
+              "word": "Tufan"
+            },
+            {
+              "startTime": "189.500s",
+              "endTime": "189.900s",
+              "word": "Efsanesi"
+            },
+            {
+              "startTime": "189.900s",
+              "endTime": "190.600s",
+              "word": "burada"
+            },
+            {
+              "startTime": "190.600s",
+              "endTime": "191s",
+              "word": "biter"
+            },
+            {
+              "startTime": "191s",
+              "endTime": "191.300s",
+              "word": "ama"
+            },
+            {
+              "startTime": "191.300s",
+              "endTime": "192.100s",
+              "word": "Doğu"
+            },
+            {
+              "startTime": "192.100s",
+              "endTime": "192.800s",
+              "word": "Anadolu'da"
+            },
+            {
+              "startTime": "192.800s",
+              "endTime": "193s",
+              "word": "da"
+            },
+            {
+              "startTime": "193s",
+              "endTime": "193.600s",
+              "word": "daha"
+            },
+            {
+              "startTime": "193.600s",
+              "endTime": "194s",
+              "word": "başka"
+            },
+            {
+              "startTime": "194s",
+              "endTime": "194.800s",
+              "word": "söylentiler"
+            },
+            {
+              "startTime": "194.800s",
+              "endTime": "194.900s",
+              "word": "de"
+            },
+            {
+              "startTime": "194.900s",
+              "endTime": "195.400s",
+              "word": "vardır"
+            },
+            {
+              "startTime": "195.400s",
+              "endTime": "196.400s",
+              "word": "derler"
+            },
+            {
+              "startTime": "196.400s",
+              "endTime": "196.700s",
+              "word": "ki"
+            },
+            {
+              "startTime": "196.700s",
+              "endTime": "197.700s",
+              "word": "suların"
+            },
+            {
+              "startTime": "197.700s",
+              "endTime": "198.300s",
+              "word": "çekilmeye"
+            },
+            {
+              "startTime": "198.300s",
+              "endTime": "198.900s",
+              "word": "başladığı"
+            },
+            {
+              "startTime": "198.900s",
+              "endTime": "199.200s",
+              "word": "günlerde"
+            },
+            {
+              "startTime": "199.200s",
+              "endTime": "200.100s",
+              "word": "Nuh'un"
+            },
+            {
+              "startTime": "200.100s",
+              "endTime": "200.800s",
+              "word": "Gemisi"
+            },
+            {
+              "startTime": "200.800s",
+              "endTime": "201.700s",
+              "word": "ansızın"
+            },
+            {
+              "startTime": "201.700s",
+              "endTime": "202.300s",
+              "word": "şiddetli"
+            },
+            {
+              "startTime": "202.300s",
+              "endTime": "202.500s",
+              "word": "bir"
+            },
+            {
+              "startTime": "202.500s",
+              "endTime": "202.700s",
+              "word": "Sarsıntı"
+            },
+            {
+              "startTime": "202.700s",
+              "endTime": "203.300s",
+              "word": "ile"
+            },
+            {
+              "startTime": "203.300s",
+              "endTime": "203.900s",
+              "word": "allak"
+            },
+            {
+              "startTime": "203.900s",
+              "endTime": "204.100s",
+              "word": "bullak"
+            },
+            {
+              "startTime": "204.100s",
+              "endTime": "204.500s",
+              "word": "olur"
+            },
+            {
+              "startTime": "204.500s",
+              "endTime": "205.600s",
+              "word": "gemi"
+            },
+            {
+              "startTime": "205.600s",
+              "endTime": "205.900s",
+              "word": "bir"
+            },
+            {
+              "startTime": "205.900s",
+              "endTime": "206.300s",
+              "word": "dağın"
+            },
+            {
+              "startTime": "206.300s",
+              "endTime": "206.600s",
+              "word": "sivri"
+            },
+            {
+              "startTime": "206.600s",
+              "endTime": "207.100s",
+              "word": "tepesinde"
+            },
+            {
+              "startTime": "207.100s",
+              "endTime": "207.900s",
+              "word": "çarpmıştır"
+            },
+            {
+              "startTime": "207.900s",
+              "endTime": "209.300s",
+              "word": "gemidekiler"
+            },
+            {
+              "startTime": "209.300s",
+              "endTime": "209.900s",
+              "word": "korkudan"
+            },
+            {
+              "startTime": "209.900s",
+              "endTime": "211.100s",
+              "word": "Sübhanallah"
+            },
+            {
+              "startTime": "211.100s",
+              "endTime": "211.700s",
+              "word": "derler"
+            },
+            {
+              "startTime": "211.700s",
+              "endTime": "212.800s",
+              "word": "dağın"
+            },
+            {
+              "startTime": "212.800s",
+              "endTime": "213.100s",
+              "word": "adı"
+            },
+            {
+              "startTime": "213.100s",
+              "endTime": "214.100s",
+              "word": "Süphan dağı"
+            },
+            {
+              "startTime": "214.100s",
+              "endTime": "214.500s",
+              "word": "olur"
+            },
+            {
+              "startTime": "214.500s",
+              "endTime": "215.600s",
+              "word": "gemi"
+            },
+            {
+              "startTime": "215.600s",
+              "endTime": "215.800s",
+              "word": "bu"
+            },
+            {
+              "startTime": "215.800s",
+              "endTime": "216.500s",
+              "word": "tehlikeyi"
+            },
+            {
+              "startTime": "216.500s",
+              "endTime": "217.200s",
+              "word": "atlattıktan"
+            },
+            {
+              "startTime": "217.200s",
+              "endTime": "217.900s",
+              "word": "sonra"
+            },
+            {
+              "startTime": "217.900s",
+              "endTime": "218.900s",
+              "word": "kuzeye"
+            },
+            {
+              "startTime": "218.900s",
+              "endTime": "219.300s",
+              "word": "Dümen"
+            },
+            {
+              "startTime": "219.300s",
+              "endTime": "219.600s",
+              "word": "kırar"
+            },
+            {
+              "startTime": "219.600s",
+              "endTime": "220.600s",
+              "word": "bir"
+            },
+            {
+              "startTime": "220.600s",
+              "endTime": "221s",
+              "word": "tepeye"
+            },
+            {
+              "startTime": "221s",
+              "endTime": "221.300s",
+              "word": "daha"
+            },
+            {
+              "startTime": "221.300s",
+              "endTime": "221.800s",
+              "word": "çarpar"
+            },
+            {
+              "startTime": "221.800s",
+              "endTime": "222.700s",
+              "word": "Nuh"
+            },
+            {
+              "startTime": "222.700s",
+              "endTime": "223.400s",
+              "word": "Peygamber"
+            },
+            {
+              "startTime": "223.400s",
+              "endTime": "224.100s",
+              "word": "Allahu"
+            },
+            {
+              "startTime": "224.100s",
+              "endTime": "224.600s",
+              "word": "Ekber"
+            },
+            {
+              "startTime": "224.600s",
+              "endTime": "225.100s",
+              "word": "diyerek"
+            },
+            {
+              "startTime": "225.100s",
+              "endTime": "225.800s",
+              "word": "bu"
+            },
+            {
+              "startTime": "225.800s",
+              "endTime": "226.400s",
+              "word": "tehlikeyi"
+            },
+            {
+              "startTime": "226.400s",
+              "endTime": "226.600s",
+              "word": "de"
+            },
+            {
+              "startTime": "226.600s",
+              "endTime": "227s",
+              "word": "savar"
+            },
+            {
+              "startTime": "227s",
+              "endTime": "227.900s",
+              "word": "Bu"
+            },
+            {
+              "startTime": "227.900s",
+              "endTime": "228.400s",
+              "word": "dağ da"
+            },
+            {
+              "startTime": "228.400s",
+              "endTime": "229.100s",
+              "word": "Allahu"
+            },
+            {
+              "startTime": "229.100s",
+              "endTime": "229.600s",
+              "word": "Ekber"
+            },
+            {
+              "startTime": "229.600s",
+              "endTime": "229.800s",
+              "word": "Dağları"
+            },
+            {
+              "startTime": "229.800s",
+              "endTime": "230.600s",
+              "word": "derler"
+            },
+            {
+              "startTime": "230.600s",
+              "endTime": "231.800s",
+              "word": "derken"
+            },
+            {
+              "startTime": "231.800s",
+              "endTime": "232.300s",
+              "word": "bir"
+            },
+            {
+              "startTime": "232.300s",
+              "endTime": "232.600s",
+              "word": "süre"
+            },
+            {
+              "startTime": "232.600s",
+              "endTime": "232.800s",
+              "word": "sonra"
+            },
+            {
+              "startTime": "232.800s",
+              "endTime": "233.200s",
+              "word": "sular"
+            },
+            {
+              "startTime": "233.200s",
+              "endTime": "233.800s",
+              "word": "çekilir"
+            },
+            {
+              "startTime": "233.800s",
+              "endTime": "234.600s",
+              "word": "gemi"
+            },
+            {
+              "startTime": "234.600s",
+              "endTime": "234.800s",
+              "word": "büyük"
+            },
+            {
+              "startTime": "234.800s",
+              "endTime": "235.400s",
+              "word": "bir"
+            },
+            {
+              "startTime": "235.400s",
+              "endTime": "235.800s",
+              "word": "dağın"
+            },
+            {
+              "startTime": "235.800s",
+              "endTime": "236.500s",
+              "word": "sivri"
+            },
+            {
+              "startTime": "236.500s",
+              "endTime": "237.100s",
+              "word": "tepeleri"
+            },
+            {
+              "startTime": "237.100s",
+              "endTime": "237.500s",
+              "word": "üzerine"
+            },
+            {
+              "startTime": "237.500s",
+              "endTime": "238s",
+              "word": "oturur"
+            },
+            {
+              "startTime": "238s",
+              "endTime": "239.400s",
+              "word": "uğraşır"
+            },
+            {
+              "startTime": "239.400s",
+              "endTime": "240.100s",
+              "word": "uğraşır"
+            },
+            {
+              "startTime": "240.100s",
+              "endTime": "240.900s",
+              "word": "kurtaramazlar"
+            }
+          ]
+        }
+      ],
+      "resultEndTime": "241.200s",
+      "languageCode": "tr-tr"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " o zaman hep bir ağızdan ne ağır daha derler daha ağır da adı verilir bu at sonradan Ağrı Dağı olur",
+          "confidence": 0.79593676,
+          "words": [
+            {
+              "startTime": "241.200s",
+              "endTime": "241.700s",
+              "word": "o"
+            },
+            {
+              "startTime": "241.700s",
+              "endTime": "242.100s",
+              "word": "zaman"
+            },
+            {
+              "startTime": "242.100s",
+              "endTime": "242.500s",
+              "word": "hep"
+            },
+            {
+              "startTime": "242.500s",
+              "endTime": "242.700s",
+              "word": "bir"
+            },
+            {
+              "startTime": "242.700s",
+              "endTime": "243s",
+              "word": "ağızdan"
+            },
+            {
+              "startTime": "243s",
+              "endTime": "243.800s",
+              "word": "ne"
+            },
+            {
+              "startTime": "243.800s",
+              "endTime": "244.200s",
+              "word": "ağır"
+            },
+            {
+              "startTime": "244.200s",
+              "endTime": "244.500s",
+              "word": "dağ"
+            },
+            {
+              "startTime": "244.500s",
+              "endTime": "245.100s",
+              "word": "derler"
+            },
+            {
+              "startTime": "245.100s",
+              "endTime": "245.800s",
+              "word": "dağa"
+            },
+            {
+              "startTime": "245.800s",
+              "endTime": "246.600s",
+              "word": "ağır"
+            },
+            {
+              "startTime": "246.600s",
+              "endTime": "246.800s",
+              "word": "dağ"
+            },
+            {
+              "startTime": "246.800s",
+              "endTime": "247.200s",
+              "word": "adı"
+            },
+            {
+              "startTime": "247.200s",
+              "endTime": "247.700s",
+              "word": "verilir"
+            },
+            {
+              "startTime": "247.700s",
+              "endTime": "248.300s",
+              "word": "bu"
+            },
+            {
+              "startTime": "248.300s",
+              "endTime": "248.600s",
+              "word": "ad"
+            },
+            {
+              "startTime": "248.600s",
+              "endTime": "249.400s",
+              "word": "sonradan"
+            },
+            {
+              "startTime": "249.400s",
+              "endTime": "250.200s",
+              "word": "Ağrı"
+            },
+            {
+              "startTime": "250.200s",
+              "endTime": "250.500s",
+              "word": "Dağı"
+            },
+            {
+              "startTime": "250.500s",
+              "endTime": "250.800s",
+              "word": "olur"
+            }
+          ]
+        }
+      ],
+      "resultEndTime": "255.220s",
+      "languageCode": "tr-tr"
+    }
+  ]
+}

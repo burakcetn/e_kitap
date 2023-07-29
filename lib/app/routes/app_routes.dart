@@ -6,6 +6,7 @@ abstract class Routes {
   static const HOME = _Paths.HOME;
   static const PLAYER = _Paths.PLAYER;
   static const LANDING = _Paths.LANDING;
+  static const LOADING = _Paths.LOADING;
 }
 
 abstract class _Paths {
@@ -13,4 +14,5 @@ abstract class _Paths {
   static const HOME = '/home';
   static const PLAYER = '/player';
   static const LANDING = '/landing';
+  static const LOADING = '/loading';
 }

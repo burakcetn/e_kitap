@@ -12,7 +12,7 @@ const _booksAll = [
   },
   {
     "name": "Akçakoca Denizkızı Efsanesi",
-    "bookPath": "",
+    "bookPath": "assets/books/Akcakoca_Denizkz_Efsanesi.json",
     "audioPath": "audios/akcaova.m4a",
     "imagePath": "assets/images/akcakoca.jpg",
     "question": "quiz2"
@@ -20,126 +20,126 @@ const _booksAll = [
   {
     "name": "Arap Baba",
     "bookPath": "assets/books/arap_baba.json",
-    "audioPath": "audios/Arap Baba.m4a",
+    "audioPath": "audios/Arap_Baba.m4a",
     "imagePath": "assets/images/arap_baba.jpg",
     "question": "quiz10"
   },
   {
-    "name": "Ayakbastı Mevki",
+    "name": "Ayakbastı Mevkii",
     "bookPath": "assets/books/ayakbast_mevki.json",
-    "audioPath": "audios/Ayakbastı Mevki.m4a",
+    "audioPath": "audios/ayakbast_Mevki.m4a",
     "imagePath": "assets/images/ayakbastı.jpg",
     "question": "quiz13"
   },
   {
-    "name": "Aynalı Magara",
+    "name": "Aynalı Mağara Efsanesi",
     "bookPath": "assets/books/aynal_Magara.json",
-    "audioPath": "audios/Aynalı Magara.m4a",
+    "audioPath": "audios/aynali_magara.m4a",
     "imagePath": "assets/images/aynalı_magara.jpg",
     "question": "quiz14"
   },
   {
     "name": "Agrı dağı efsanesi",
-    "bookPath": "",
-    "audioPath": "audios/Agri_dagi_efsanesi.m4a",
+    "bookPath": "assets/books/Agr_Dagi_Efsanesi.json",
+    "audioPath": "audios/agri_dagi_efsanesi.m4a",
     "imagePath": "assets/images/agrı_dagı.jpg",
     "question": "quiz1"
   },
   {
     "name": "Balıklı Göl ve İğde Ağacı",
     "bookPath": "assets/books/balikli_gol_ve_Igde_agac.json",
-    "audioPath": "audios/Balıklı Göl ve İğde Ağacı.m4a",
+    "audioPath": "audios/blkli_gol_ve_igde_agaci.m4a",
     "imagePath": "assets/images/balıklı.jpg",
     "question": "quiz19"
   },
   {
     "name": "Cumalıkızık Cin Aralığı",
     "bookPath": "assets/books/cumalkzk_cin_aralg.json",
-    "audioPath": "audios/Cumalıkızık Cin Aralığı.m4a",
+    "audioPath": "audios/cumalikizik_cin_araligi.m4a",
     "imagePath": "assets/images/cumalikizik.jpg",
     "question": "quiz9"
   },
   {
     "name": "Görmeli Köprüsü",
-    "bookPath": "",
-    "audioPath": "audios/Görmeli Köprüsü.m4a",
+    "bookPath": "assets/books/Gormeli_Koprusu.json",
+    "audioPath": "audios/gormeli_koprusu.m4a",
     "imagePath": "assets/images/gormeli.jpg",
     "question": "quiz11"
   },
   {
     "name": "Kıztaşı",
     "bookPath": "assets/books/kztas.json",
-    "audioPath": "audios/Kıztaşı.m4a",
+    "audioPath": "audios/kiztasi.m4a",
     "imagePath": "assets/images/kıztası.jpg",
     "question": "quiz5"
   },
   {
     "name": "Munzur Baba",
     "bookPath": "assets/books/Munzur_Baba.json",
-    "audioPath": "audios/Munzur Baba.m4a",
+    "audioPath": "audios/munzur_baba.m4a",
     "imagePath": "assets/images/munzur_baba.jpg",
     "question": "quiz15"
   },
   {
     "name": "Pamukkale Efsanesi",
-    "bookPath": "",
-    "audioPath": "audios/Pamukkale Efsanesi.m4a",
+    "bookPath": "assets/books/pamukkale_efsanesi.json",
+    "audioPath": "audios/pamukkale_efsanesi.m4a",
     "imagePath": "assets/images/pamukkale.jpg",
     "question": "quiz3"
   },
   {
     "name": "Sarıkız Efsanesi",
     "bookPath": "assets/books/Sarkz-Efsanesi.json",
-    "audioPath": "audios/Sarıkız Efsanesi.m4a",
+    "audioPath": "audios/audios/sarikiz.m4a",
     "imagePath": "assets/images/sarıkız.jpg",
     "question": "quiz6"
   },
   {
     "name": "Ses Çıkarmayan kurbağalar",
     "bookPath": "assets/books/Ses-Ckarmayan-kurbagalar.json",
-    "audioPath": "audios/Ses Çıkarmayan kurbağalar.m4a",
+    "audioPath": "audios/sec_cikarmayan_kurbagalar.m4a",
     "imagePath": "assets/images/kurbagalar.jpg",
     "question": "quiz7"
   },
   {
     "name": "Söylemez Baba",
     "bookPath": "assets/books/Soylemez-Baba.json",
-    "audioPath": "audios/Söylemez Baba.m4a",
+    "audioPath": "audios/soylemez_baba.m4a",
     "imagePath": "assets/images/soylemez_baba.jpg",
     "question": "quiz16"
   },
   {
     "name": "Ulu Burnu",
     "bookPath": "assets/books/Ulu-Burnu.json",
-    "audioPath": "audios/Ulu Burnu.m4a",
+    "audioPath": "audios/ulu_burnu.m4a",
     "imagePath": "assets/images/ulu_burnu.jpg",
     "question": "quiz12"
   },
   {
     "name": "Yusufçuk Kuşu",
     "bookPath": "assets/books/Yusufcuk-Kusu.json",
-    "audioPath": "audios/Yusufçuk Kuşu.m4a",
+    "audioPath": "audios/yusufcuk.m4a",
     "imagePath": "assets/images/yusufcuk_kusu.jpg",
     "question": "quiz18"
   },
   {
-    "name": "Çeç Daği",
-    "bookPath": "",
-    "audioPath": "audios/Çeç Daği.m4a",
+    "name": "Çeç Dağı",
+    "bookPath": "assets/books/Cec_Dagi.json",
+    "audioPath": "audios/cec_dagi.m4a",
     "imagePath": "assets/images/cec_dagı.jpg",
     "question": "quiz17"
   },
   {
     "name": "Çifte Minareli Medrese",
-    "bookPath": "",
-    "audioPath": "audios/Çifte Minareli Medrese.m4a",
+    "bookPath": "assets/books/Cifte_Minareli_Medrese.json",
+    "audioPath": "audios/ciftemedreseliminare.m4a",
     "imagePath": "assets/images/cifte_minare.jpg",
     "question": "quiz20"
   },
   {
     "name": "Şahmeran",
     "bookPath": "assets/books/sahmeran.json",
-    "audioPath": "audios/Şahmeran.m4a",
+    "audioPath": "audios/sahmeran.m4a",
     "imagePath": "assets/images/sahmeran.jpg",
     "question": "quiz4"
   }

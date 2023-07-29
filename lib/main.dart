@@ -32,7 +32,6 @@ Future<void> main() async {
 
   // initialize local notifications service
   await AwesomeNotificationsHelper.init();
-  await BookService.instance.init();
   runApp(
     ScreenUtilInit(
       // todo add your (Xd / Figma) artboard size

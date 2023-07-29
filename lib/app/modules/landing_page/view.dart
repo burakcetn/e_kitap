@@ -42,8 +42,7 @@ class LandingPagePage extends GetView<LandingPageController> {
                     ],
                     borderRadius: BorderRadius.circular(15),
                     image: DecorationImage(
-                        image: AssetImage("assets/images/placeholder.png"),
-                        fit: BoxFit.fill)),
+                        image: AssetImage(book.getImage()), fit: BoxFit.fill)),
                 child: Column(
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: [

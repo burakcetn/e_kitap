@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'package:logger/logger.dart';
 
 import '../../../modules/BookListen/constants.dart';
 import '../book_model.dart';
@@ -26,12 +27,16 @@ class BookManager {
   Subtitle? current;
   Future<void> load() async {
     try {
+      Logger().i(book.name);
+
       var jsonText = await rootBundle.loadString(book.bookPath);
       final jsonResult = jsonDecode(jsonText);
       current = Subtitle.fromJson(jsonResult);
       getWords();
       wordWrap(0);
-    } catch (e) {}
+    } catch (e) {
+      Logger().d(e);
+    }
   }
 
   Duration parseDuration(String time) {
@@ -194,8 +199,10 @@ class BookManager {
   }
 
   void wordWrap(int seconds) async {
-    var currentPositionx =
-        cleanWords.where((x) => seconds >= x.start && seconds <= x.end).first;
+    var currentPositionx = cleanWords
+        .where((x) => seconds >= x.start && seconds <= x.end)
+        .firstOrNull;
+    if (currentPositionx == null) return;
     for (var element in spans) {
       element.span = createSpan(element, Colors.transparent);
     }
@@ -239,5 +246,9 @@ class BookManager {
 
   String getName() {
     return book.name;
+  }
+
+  String getImage() {
+    return book.imagePath;
   }
 }
