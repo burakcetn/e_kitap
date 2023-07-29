@@ -8,6 +8,7 @@ import 'app/data/local/my_hive.dart';
 import 'app/data/local/my_shared_pref.dart';
 import 'app/data/models/user_model.dart';
 import 'app/routes/app_pages.dart';
+import 'app/services/book_service.dart';
 import 'config/theme/my_theme.dart';
 import 'config/translations/localization_service.dart';
 import 'drawer.dart';
@@ -31,7 +32,7 @@ Future<void> main() async {
 
   // initialize local notifications service
   await AwesomeNotificationsHelper.init();
-
+  await BookService.instance.init();
   runApp(
     ScreenUtilInit(
       // todo add your (Xd / Figma) artboard size

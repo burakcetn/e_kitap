@@ -11,13 +11,13 @@ const _booksAll = [
   },
   {
     "name": "Akçakoca Denizkızı Efsanesi",
-    "bookPath": "assets/books/arap_baba.json",
+    "bookPath": "",
     "audioPath": "audios/akcaova.m4a",
     "question": "quiz2"
   },
   {
     "name": "Arap Baba",
-    "bookPath": "assets/books/ayakbast_mevki.json",
+    "bookPath": "assets/books/arap_baba.json",
     "audioPath": "audios/Arap Baba.m4a",
     "question": "quiz10"
   },
@@ -59,13 +59,13 @@ const _booksAll = [
   },
   {
     "name": "Kıztaşı",
-    "bookPath": "",
+    "bookPath": "assets/books/kztas.json",
     "audioPath": "audios/Kıztaşı.m4a",
     "question": "quiz5"
   },
   {
     "name": "Munzur Baba",
-    "bookPath": "",
+    "bookPath": "assets/books/Munzur_Baba.json",
     "audioPath": "audios/Munzur Baba.m4a",
     "question": "quiz15"
   },
@@ -77,31 +77,31 @@ const _booksAll = [
   },
   {
     "name": "Sarıkız Efsanesi",
-    "bookPath": "",
+    "bookPath": "assets/books/Sarkz-Efsanesi.json",
     "audioPath": "audios/Sarıkız Efsanesi.m4a",
     "question": "quiz6"
   },
   {
     "name": "Ses Çıkarmayan kurbağalar",
-    "bookPath": "",
+    "bookPath": "assets/books/Ses-Ckarmayan-kurbagalar.json",
     "audioPath": "audios/Ses Çıkarmayan kurbağalar.m4a",
     "question": "quiz7"
   },
   {
     "name": "Söylemez Baba",
-    "bookPath": "",
+    "bookPath": "assets/books/Soylemez-Baba.json",
     "audioPath": "audios/Söylemez Baba.m4a",
     "question": "quiz16"
   },
   {
     "name": "Ulu Burnu",
-    "bookPath": "",
+    "bookPath": "assets/books/Ulu-Burnu.json",
     "audioPath": "audios/Ulu Burnu.m4a",
     "question": "quiz12"
   },
   {
     "name": "Yusufçuk Kuşu",
-    "bookPath": "",
+    "bookPath": "assets/books/Yusufcuk-Kusu.json",
     "audioPath": "audios/Yusufçuk Kuşu.m4a",
     "question": "quiz18"
   },
@@ -119,7 +119,7 @@ const _booksAll = [
   },
   {
     "name": "Şahmeran",
-    "bookPath": "",
+    "bookPath": "assets/books/sahmeran.json",
     "audioPath": "audios/Şahmeran.m4a",
     "question": "quiz4"
   }

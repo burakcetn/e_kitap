@@ -5,6 +5,7 @@ import 'package:squiggly_slider/slider.dart';
 
 import '../../data/books.dart';
 import '../../data/models/book_model.dart';
+import '../../data/models/books/word_model.dart';
 import '../../data/models/question/question_model.dart';
 import '../question_view.dart';
 import 'index.dart';
@@ -14,92 +15,81 @@ class BooklistenPage extends GetView<BooklistenController> {
 
   @override
   Widget build(BuildContext context) {
+    BookManager book = Get.arguments as BookManager;
+    controller.setBook(book);
+
     return GetBuilder<BooklistenController>(
       builder: (_) {
-        return Scaffold(
-          appBar: AppBar(
-              title: IconButton(
+        return WillPopScope(
+          onWillPop: () async {
+            controller.stop();
+            return true;
+          },
+          child: Scaffold(
+            appBar: AppBar(
+                title: Row(
+              children: [
+                Expanded(child: Text(book.getName())),
+                IconButton(
                   onPressed: () => Get.to(
-                        QuestionView(QuestionManager.instance.quiz.last),
-                      ),
-                  icon: Icon(Icons.question_mark_outlined))),
-          body: SafeArea(
-            child: Padding(
-              padding: const EdgeInsets.symmetric(horizontal: 15),
-              child: Stack(
-                children: [
-                  Positioned.fill(
-                    child: ListView(
-                      children: [
-                        Container(
-                          height: 80,
-                          child: DropdownButtonHideUnderline(
-                            child: DropdownButton2<BookModel>(
-                              items: bookList
-                                  .map((item) => DropdownMenuItem<BookModel>(
-                                        value: item,
-                                        child: Text(
-                                          item.name,
-                                          style: const TextStyle(
-                                            fontSize: 14,
-                                            fontWeight: FontWeight.bold,
-                                            color: Colors.black,
-                                          ),
-                                          overflow: TextOverflow.ellipsis,
-                                        ),
-                                      ))
-                                  .toList(),
-                              isExpanded: true,
-                              onChanged: (BookModel? value) {
-                                if (value == null) return;
-                                controller.play(value, context);
-                              },
-                            ),
-                          ),
-                        ),
-                        Obx(
-                          () => RichText(
-                            textAlign: TextAlign.start,
-                            text: TextSpan(
-                              children:
-                                  controller.spans.map((e) => e.span).toList(),
-                            ),
-                          ),
-                        )
-                      ],
-                    ),
+                    QuestionView(QuestionManager.instance.quiz.last),
                   ),
-                ],
+                  icon: Icon(Icons.question_mark_outlined),
+                ),
+              ],
+            )),
+            body: SafeArea(
+              child: Padding(
+                padding: const EdgeInsets.symmetric(horizontal: 15),
+                child: Stack(
+                  children: [
+                    Positioned.fill(
+                      child: ListView(
+                        children: [
+                          Obx(
+                            () => RichText(
+                              textAlign: TextAlign.start,
+                              text: TextSpan(
+                                children:
+                                    book.spans.map((e) => e.span).toList(),
+                              ),
+                            ),
+                          )
+                        ],
+                      ),
+                    ),
+                  ],
+                ),
               ),
             ),
-          ),
-          bottomNavigationBar: Container(
-            height: 40,
-            child: Row(
-              children: [
-                Obx(
-                  () => IconButton(
-                    icon: Icon(controller.isPlaying.value
-                        ? Icons.pause
-                        : Icons.play_arrow),
-                    onPressed: () {
-                      controller.playOrPaue();
-                    },
+            bottomNavigationBar: Container(
+              height: 40,
+              child: Row(
+                children: [
+                  Obx(
+                    () => IconButton(
+                      icon: Icon(controller.isPlaying.value
+                          ? Icons.pause
+                          : Icons.play_arrow),
+                      onPressed: () {
+                        controller.playOrPaue();
+                      },
+                    ),
                   ),
-                ),
-                Expanded(
-                  child: Obx(() => SquigglySlider(
-                        value: controller.currentPosition.value,
-                        min: 0,
-                        max: controller.maxPosition.value.toDouble(),
-                        squiggleAmplitude: controller.isPlaying.value ? 3 : 0,
-                        squiggleWavelength: 5,
-                        squiggleSpeed: 0.2,
-                        label: 'Amplitude',
-                        onChanged: (double value) {},
-                      )),
-                )
-              ],
+                  // Expanded(
+                  //   child: Obx(() => SquigglySlider(
+                  //         value: controller.currentPosition.value,
+                  //         min: 0,
+                  //         max: controller.maxPosition.value.toDouble(),
+                  //         squiggleAmplitude: controller.isPlaying.value ? 3 : 0,
+                  //         squiggleWavelength: 5,
+                  //         squiggleSpeed: 0.2,
+                  //         label: 'Amplitude',
+                  //         onChanged: (double value) {},
+                  //       )),
+                  // )
+                ],
+              ),
             ),
           ),
         );
