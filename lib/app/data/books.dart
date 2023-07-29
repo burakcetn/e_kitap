@@ -6,12 +6,14 @@ const _booksAll = [
   {
     "name": "Akdamar Kilisesi",
     "bookPath": "assets/books/akdamar_kilisesi.json",
-    "audioPath": "audios/akdamar_kilisesi.m4a"
+    "audioPath": "audios/akdamar_kilisesi.m4a",
+    "question": "quiz1"
   },
   {
     "name": "Akçakoca Denizkızı Efsanesi",
     "bookPath": "assets/books/arap_baba.json",
-    "audioPath": "audios/akcaova.m4a"
+    "audioPath": "audios/akcaova.m4a",
+    "question": "quiz2"
   },
   {
     "name": "Arap Baba",

@@ -5,6 +5,8 @@ import 'package:squiggly_slider/slider.dart';
 
 import '../../data/books.dart';
 import '../../data/models/book_model.dart';
+import '../../data/models/question/question_model.dart';
+import '../question_view.dart';
 import 'index.dart';
 
 class BooklistenPage extends GetView<BooklistenController> {
@@ -17,7 +19,9 @@ class BooklistenPage extends GetView<BooklistenController> {
         return Scaffold(
           appBar: AppBar(
               title: IconButton(
-                  onPressed: () => controller.showQuizDialogPamukkale(),
+                  onPressed: () => Get.to(
+                        QuestionView(QuestionManager.instance.quiz.last),
+                      ),
                   icon: Icon(Icons.question_mark_outlined))),
           body: SafeArea(
             child: Padding(
