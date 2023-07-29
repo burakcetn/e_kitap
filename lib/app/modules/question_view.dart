@@ -21,6 +21,16 @@ class QuestionView extends StatelessWidget {
             SizedBox(
               height: 40,
             ),
+            Padding(
+              padding: const EdgeInsets.all(8.0),
+              child: Text(
+                " Aşağıdaki kelimeleri anlam ve bağlamına uygun olarak cümlelere yerleştiriniz.",
+                style: TextStyle(fontWeight: FontWeight.bold),
+              ),
+            ),
+            SizedBox(
+              height: 12,
+            ),
             Container(
               height: 100,
               child: Wrap(
@@ -59,7 +69,7 @@ class QuestionView extends StatelessWidget {
                       .toList()),
             ),
             SizedBox(
-              height: 80,
+              height: 40,
             ),
             Column(
               crossAxisAlignment: CrossAxisAlignment.start,
