@@ -22,16 +22,29 @@ class QuestionView extends StatelessWidget {
             SizedBox(
               height: 40,
             ),
-            Padding(
-              padding: const EdgeInsets.all(8.0),
-              child: Text(
-                " Aşağıdaki kelimeleri anlam ve bağlamına uygun olarak cümlelere yerleştiriniz.",
-                style: TextStyle(fontWeight: FontWeight.bold),
+            if (model.type == 0)
+              Padding(
+                padding: const EdgeInsets.all(8.0),
+                child: Text(
+                  " Aşağıdaki kelimeleri anlam ve bağlamına uygun olarak cümlelere yerleştiriniz.",
+                  style: TextStyle(fontWeight: FontWeight.bold),
+                ),
               ),
-            ),
+            if (model.type == 1)
+              Padding(
+                padding: const EdgeInsets.all(8.0),
+                child: Text(
+                  " Aşağıdaki kelimeleri eş anlamlıları ile eşleştiriniz.${model.questions}",
+                  style: TextStyle(fontWeight: FontWeight.bold),
+                ),
+              ),
             SizedBox(
               height: 12,
             ),
+            if (model.type == 1)
+              Column(
+                children: model.questions.map((e) => drawQuestion(e)).toList(),
+              ),
             Container(
               height: 100,
               child: Wrap(
@@ -78,35 +91,48 @@ class QuestionView extends StatelessWidget {
                 ...model.questions.map((e) => drawQuestion(e)).toList(),
               ],
             ),
-            Align(
-              alignment: Alignment.bottomRight,
-              child: Container(
-                margin: EdgeInsets.all(12),
-                padding: EdgeInsets.symmetric(vertical: 8, horizontal: 16),
-                decoration: BoxDecoration(
-                  color: Colors.deepPurpleAccent,
-                  borderRadius: BorderRadius.circular(15),
-                  boxShadow: [
-                    BoxShadow(
-                      color: Colors.black.withOpacity(0.3),
-                      blurRadius: 10,
+            if (model.type == 0)
+              GestureDetector(
+                onTap: () {
+                  QuestionView(
+                      QuestionModel(model.title, model.quizKey, type: 1));
+
+                  Get.dialog(QuestionView(QuestionModel(
+                    model.title,
+                    model.quizKey,
+                    type: 1,
+                  )));
+                },
+                child: Align(
+                  alignment: Alignment.bottomRight,
+                  child: Container(
+                    margin: EdgeInsets.all(12),
+                    padding: EdgeInsets.symmetric(vertical: 8, horizontal: 16),
+                    decoration: BoxDecoration(
+                      color: Colors.deepPurpleAccent,
+                      borderRadius: BorderRadius.circular(15),
+                      boxShadow: [
+                        BoxShadow(
+                          color: Colors.black.withOpacity(0.3),
+                          blurRadius: 10,
+                        ),
+                        BoxShadow(
+                          color: Colors.black.withOpacity(0.3),
+                          spreadRadius: -2,
+                          blurRadius: 5,
+                        ),
+                      ],
                     ),
-                    BoxShadow(
-                      color: Colors.black.withOpacity(0.3),
-                      spreadRadius: -2,
-                      blurRadius: 5,
+                    child: Text(
+                      "Devam Et",
+                      style: Theme.of(context)
+                          .textTheme
+                          .labelLarge
+                          ?.copyWith(color: Colors.white),
                     ),
-                  ],
+                  ),
                 ),
-                child: Text(
-                  "Devam Et",
-                  style: Theme.of(context)
-                      .textTheme
-                      .labelLarge
-                      ?.copyWith(color: Colors.white),
-                ),
-              ),
-            )
+              )
           ],
         ),
       ),

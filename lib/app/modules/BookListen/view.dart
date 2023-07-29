@@ -32,9 +32,12 @@ class BooklistenPage extends GetView<BooklistenController> {
                   children: [
                     Expanded(child: Text(book.getName())),
                     IconButton(
-                      onPressed: () => Get.to(
-                        QuestionView(QuestionManager.instance.quiz.last),
-                      ),
+                      onPressed: () {
+                        QuestionManager().load();
+                        Get.to(
+                          QuestionView(QuestionManager.instance.quiz.last),
+                        );
+                      },
                       icon: Icon(Icons.question_mark_outlined),
                     ),
                   ],
