@@ -1,0 +1,2394 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "sarıkız efsanesi Sarıkız Çanakkale iline bağlı ayvacığın bir köyünde ailesi ile yaşarken küçük yaşta annesi vefat eder babası sarı kıza biliyorsun anneni çok severdim burada çok Hatırası Var anneni unutmam zor oluyor buradan göçelim der Kaz Dağları\u0027nın eteğindeki Güre Köyü\u0027nün yakınlarındaki kavurmacılar köyüne gelerek yerleşirler burada çobanlık yaparak geçimlerini temin ederler çok sevilirler köyün yaşlıları gençleri Sarı kızın babasına akıl danışırlar köylüler onun ermiş olduğunu düşünürler aradan yıllar geçer Sarıkız büyür güzel bir kız olur Babası da yaşlanır aklında hep hacca gitme Fikri vardır hacca gidebilmek için namazında niyazında sürekli Allah\u0027a",
+          "confidence": 0.9283815,
+          "words": [
+            {
+              "startTime": "0s",
+              "endTime": "1.800s",
+              "word": "sarıkız"
+            },
+            {
+              "startTime": "1.800s",
+              "endTime": "2.100s",
+              "word": "efsanesi"
+            },
+            {
+              "startTime": "2.100s",
+              "endTime": "4s",
+              "word": "Sarıkız"
+            },
+            {
+              "startTime": "4s",
+              "endTime": "5s",
+              "word": "Çanakkale"
+            },
+            {
+              "startTime": "5s",
+              "endTime": "5.400s",
+              "word": "iline"
+            },
+            {
+              "startTime": "5.400s",
+              "endTime": "5.900s",
+              "word": "bağlı"
+            },
+            {
+              "startTime": "5.900s",
+              "endTime": "6.700s",
+              "word": "ayvacığın"
+            },
+            {
+              "startTime": "6.700s",
+              "endTime": "7.200s",
+              "word": "bir"
+            },
+            {
+              "startTime": "7.200s",
+              "endTime": "7.600s",
+              "word": "köyünde"
+            },
+            {
+              "startTime": "7.600s",
+              "endTime": "8.700s",
+              "word": "ailesi"
+            },
+            {
+              "startTime": "8.700s",
+              "endTime": "8.900s",
+              "word": "ile"
+            },
+            {
+              "startTime": "8.900s",
+              "endTime": "9.600s",
+              "word": "yaşarken"
+            },
+            {
+              "startTime": "9.600s",
+              "endTime": "10.200s",
+              "word": "küçük"
+            },
+            {
+              "startTime": "10.200s",
+              "endTime": "10.600s",
+              "word": "yaşta"
+            },
+            {
+              "startTime": "10.600s",
+              "endTime": "11s",
+              "word": "annesi"
+            },
+            {
+              "startTime": "11s",
+              "endTime": "11.300s",
+              "word": "vefat"
+            },
+            {
+              "startTime": "11.300s",
+              "endTime": "11.800s",
+              "word": "eder"
+            },
+            {
+              "startTime": "11.800s",
+              "endTime": "12.900s",
+              "word": "babası"
+            },
+            {
+              "startTime": "12.900s",
+              "endTime": "13.200s",
+              "word": "sarı"
+            },
+            {
+              "startTime": "13.200s",
+              "endTime": "13.600s",
+              "word": "kıza"
+            },
+            {
+              "startTime": "13.600s",
+              "endTime": "14.700s",
+              "word": "biliyorsun"
+            },
+            {
+              "startTime": "14.700s",
+              "endTime": "15.600s",
+              "word": "anneni"
+            },
+            {
+              "startTime": "15.600s",
+              "endTime": "15.900s",
+              "word": "çok"
+            },
+            {
+              "startTime": "15.900s",
+              "endTime": "16.200s",
+              "word": "severdim"
+            },
+            {
+              "startTime": "16.200s",
+              "endTime": "17.500s",
+              "word": "burada"
+            },
+            {
+              "startTime": "17.500s",
+              "endTime": "17.900s",
+              "word": "çok"
+            },
+            {
+              "startTime": "17.900s",
+              "endTime": "18.500s",
+              "word": "Hatırası"
+            },
+            {
+              "startTime": "18.500s",
+              "endTime": "18.600s",
+              "word": "Var"
+            },
+            {
+              "startTime": "18.600s",
+              "endTime": "20s",
+              "word": "anneni"
+            },
+            {
+              "startTime": "20s",
+              "endTime": "20.600s",
+              "word": "unutmam"
+            },
+            {
+              "startTime": "20.600s",
+              "endTime": "20.900s",
+              "word": "zor"
+            },
+            {
+              "startTime": "20.900s",
+              "endTime": "21.300s",
+              "word": "oluyor"
+            },
+            {
+              "startTime": "21.300s",
+              "endTime": "22.300s",
+              "word": "buradan"
+            },
+            {
+              "startTime": "22.300s",
+              "endTime": "22.900s",
+              "word": "göçelim"
+            },
+            {
+              "startTime": "22.900s",
+              "endTime": "23.200s",
+              "word": "der"
+            },
+            {
+              "startTime": "23.200s",
+              "endTime": "24.500s",
+              "word": "Kaz"
+            },
+            {
+              "startTime": "24.500s",
+              "endTime": "25.100s",
+              "word": "Dağları'nın"
+            },
+            {
+              "startTime": "25.100s",
+              "endTime": "25.700s",
+              "word": "eteğindeki"
+            },
+            {
+              "startTime": "25.700s",
+              "endTime": "26.600s",
+              "word": "Güre"
+            },
+            {
+              "startTime": "26.600s",
+              "endTime": "27.100s",
+              "word": "Köyü'nün"
+            },
+            {
+              "startTime": "27.100s",
+              "endTime": "28s",
+              "word": "yakınlarındaki"
+            },
+            {
+              "startTime": "28s",
+              "endTime": "29.200s",
+              "word": "kavurmacılar"
+            },
+            {
+              "startTime": "29.200s",
+              "endTime": "29.600s",
+              "word": "köyüne"
+            },
+            {
+              "startTime": "29.600s",
+              "endTime": "30s",
+              "word": "gelerek"
+            },
+            {
+              "startTime": "30s",
+              "endTime": "30.700s",
+              "word": "yerleşirler"
+            },
+            {
+              "startTime": "30.700s",
+              "endTime": "32.400s",
+              "word": "burada"
+            },
+            {
+              "startTime": "32.400s",
+              "endTime": "33s",
+              "word": "çobanlık"
+            },
+            {
+              "startTime": "33s",
+              "endTime": "33.300s",
+              "word": "yaparak"
+            },
+            {
+              "startTime": "33.300s",
+              "endTime": "33.800s",
+              "word": "geçimlerini"
+            },
+            {
+              "startTime": "33.800s",
+              "endTime": "34.200s",
+              "word": "temin"
+            },
+            {
+              "startTime": "34.200s",
+              "endTime": "34.900s",
+              "word": "ederler"
+            },
+            {
+              "startTime": "34.900s",
+              "endTime": "35.900s",
+              "word": "köyde"
+            },
+            {
+              "startTime": "35.900s",
+              "endTime": "36.400s",
+              "word": "çok"
+            },
+            {
+              "startTime": "36.400s",
+              "endTime": "36.900s",
+              "word": "sevilirler"
+            },
+            {
+              "startTime": "36.900s",
+              "endTime": "38.200s",
+              "word": "köyün"
+            },
+            {
+              "startTime": "38.200s",
+              "endTime": "38.500s",
+              "word": "yaşlıları"
+            },
+            {
+              "startTime": "38.500s",
+              "endTime": "39.800s",
+              "word": "gençleri"
+            },
+            {
+              "startTime": "39.800s",
+              "endTime": "40.300s",
+              "word": "Sarı"
+            },
+            {
+              "startTime": "40.300s",
+              "endTime": "40.600s",
+              "word": "kızın"
+            },
+            {
+              "startTime": "40.600s",
+              "endTime": "41.200s",
+              "word": "babasına"
+            },
+            {
+              "startTime": "41.200s",
+              "endTime": "41.300s",
+              "word": "akıl"
+            },
+            {
+              "startTime": "41.300s",
+              "endTime": "42s",
+              "word": "danışırlar"
+            },
+            {
+              "startTime": "42s",
+              "endTime": "43.400s",
+              "word": "köylüler"
+            },
+            {
+              "startTime": "43.400s",
+              "endTime": "43.800s",
+              "word": "onun"
+            },
+            {
+              "startTime": "43.800s",
+              "endTime": "44.300s",
+              "word": "ermiş"
+            },
+            {
+              "startTime": "44.300s",
+              "endTime": "44.800s",
+              "word": "olduğunu"
+            },
+            {
+              "startTime": "44.800s",
+              "endTime": "45.400s",
+              "word": "düşünürler"
+            },
+            {
+              "startTime": "45.400s",
+              "endTime": "46.700s",
+              "word": "aradan"
+            },
+            {
+              "startTime": "46.700s",
+              "endTime": "46.900s",
+              "word": "yıllar"
+            },
+            {
+              "startTime": "46.900s",
+              "endTime": "47.800s",
+              "word": "geçer"
+            },
+            {
+              "startTime": "47.800s",
+              "endTime": "48.800s",
+              "word": "Sarıkız"
+            },
+            {
+              "startTime": "48.800s",
+              "endTime": "49.300s",
+              "word": "büyür"
+            },
+            {
+              "startTime": "49.300s",
+              "endTime": "50s",
+              "word": "güzel"
+            },
+            {
+              "startTime": "50s",
+              "endTime": "50.300s",
+              "word": "bir"
+            },
+            {
+              "startTime": "50.300s",
+              "endTime": "50.500s",
+              "word": "kız"
+            },
+            {
+              "startTime": "50.500s",
+              "endTime": "50.800s",
+              "word": "olur"
+            },
+            {
+              "startTime": "50.800s",
+              "endTime": "51.700s",
+              "word": "Babası"
+            },
+            {
+              "startTime": "51.700s",
+              "endTime": "51.800s",
+              "word": "da"
+            },
+            {
+              "startTime": "51.800s",
+              "endTime": "52.500s",
+              "word": "yaşlanır"
+            },
+            {
+              "startTime": "52.500s",
+              "endTime": "53.600s",
+              "word": "aklında"
+            },
+            {
+              "startTime": "53.600s",
+              "endTime": "53.800s",
+              "word": "hep"
+            },
+            {
+              "startTime": "53.800s",
+              "endTime": "54.200s",
+              "word": "hacca"
+            },
+            {
+              "startTime": "54.200s",
+              "endTime": "54.500s",
+              "word": "gitme"
+            },
+            {
+              "startTime": "54.500s",
+              "endTime": "54.900s",
+              "word": "Fikri"
+            },
+            {
+              "startTime": "54.900s",
+              "endTime": "55.200s",
+              "word": "vardır"
+            },
+            {
+              "startTime": "55.200s",
+              "endTime": "56.100s",
+              "word": "hacca"
+            },
+            {
+              "startTime": "56.100s",
+              "endTime": "56.600s",
+              "word": "gidebilmek"
+            },
+            {
+              "startTime": "56.600s",
+              "endTime": "56.800s",
+              "word": "için"
+            },
+            {
+              "startTime": "56.800s",
+              "endTime": "58s",
+              "word": "namazında"
+            },
+            {
+              "startTime": "58s",
+              "endTime": "58.400s",
+              "word": "niyazında"
+            },
+            {
+              "startTime": "58.400s",
+              "endTime": "59.400s",
+              "word": "sürekli"
+            },
+            {
+              "startTime": "59.400s",
+              "endTime": "59.800s",
+              "word": "Allah'a yalvarır"
+            }
+          ]
+        }
+      ],
+      "resultEndTime": "59.970s",
+      "languageCode": "tr-tr"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " Sarıkız babasının bu isteğini yerine getirmesi için onu teşvik eder babasına artık büyüdüğünü kendisine bakabileceğin i daha fazla yaşlanmadan hacca gitmesi gerektiğini söyler babası kızını komşusuna emanet eder hacca gider o zamanlar hacca gitmek Şimdiki gibi değil Belki 6 ay Belki de fazla ya ya gidilmesi gerekiyor babası Hacı gittikten sonra köyün delikanlıları sarı kızı Talip olurlar Sarıkız hiçbirine yüz vermez Onlar da dedi ki sarıkız\u0027ı iftira ederler dönünce kimse yüzüne bakmaz selamını almaz sarı kızı teslim ettiği komşusuna Bunun sebebini sorduğunda Sarı kızın kötü yola düştüğünü söyler Baba günlerce düşünür adet olan Hac hayrını da yapamaz köyde yaşayabilmesi için namusunu temizlenmesi gerekmektedir",
+          "confidence": 0.9141369,
+          "words": [
+            {
+              "startTime": "59.900s",
+              "endTime": "61.600s",
+              "word": "Sarıkız"
+            },
+            {
+              "startTime": "61.600s",
+              "endTime": "62.400s",
+              "word": "babasının"
+            },
+            {
+              "startTime": "62.400s",
+              "endTime": "62.500s",
+              "word": "bu"
+            },
+            {
+              "startTime": "62.500s",
+              "endTime": "63.100s",
+              "word": "isteğini"
+            },
+            {
+              "startTime": "63.100s",
+              "endTime": "63.200s",
+              "word": "yerine"
+            },
+            {
+              "startTime": "63.200s",
+              "endTime": "64s",
+              "word": "getirmesi"
+            },
+            {
+              "startTime": "64s",
+              "endTime": "64.100s",
+              "word": "için"
+            },
+            {
+              "startTime": "64.100s",
+              "endTime": "64.700s",
+              "word": "onu"
+            },
+            {
+              "startTime": "64.700s",
+              "endTime": "65.100s",
+              "word": "teşvik"
+            },
+            {
+              "startTime": "65.100s",
+              "endTime": "65.600s",
+              "word": "eder"
+            },
+            {
+              "startTime": "65.600s",
+              "endTime": "66.700s",
+              "word": "babasına"
+            },
+            {
+              "startTime": "66.700s",
+              "endTime": "67.400s",
+              "word": "artık"
+            },
+            {
+              "startTime": "67.400s",
+              "endTime": "68s",
+              "word": "büyüdüğünü"
+            },
+            {
+              "startTime": "68s",
+              "endTime": "69s",
+              "word": "kendisine"
+            },
+            {
+              "startTime": "69s",
+              "endTime": "70s",
+              "word": "bakabileceğini"
+            },
+            {
+              "startTime": "70s",
+              "endTime": "70.700s",
+              "word": "daha"
+            },
+            {
+              "startTime": "70.700s",
+              "endTime": "71s",
+              "word": "fazla"
+            },
+            {
+              "startTime": "71s",
+              "endTime": "71.900s",
+              "word": "yaşlanmadan"
+            },
+            {
+              "startTime": "71.900s",
+              "endTime": "72.500s",
+              "word": "hacca"
+            },
+            {
+              "startTime": "72.500s",
+              "endTime": "72.900s",
+              "word": "gitmesi"
+            },
+            {
+              "startTime": "72.900s",
+              "endTime": "73.500s",
+              "word": "gerektiğini"
+            },
+            {
+              "startTime": "73.500s",
+              "endTime": "74s",
+              "word": "söyler"
+            },
+            {
+              "startTime": "74s",
+              "endTime": "75s",
+              "word": "babası"
+            },
+            {
+              "startTime": "75s",
+              "endTime": "75.800s",
+              "word": "kızını"
+            },
+            {
+              "startTime": "75.800s",
+              "endTime": "76.500s",
+              "word": "komşusuna"
+            },
+            {
+              "startTime": "76.500s",
+              "endTime": "77s",
+              "word": "emanet"
+            },
+            {
+              "startTime": "77s",
+              "endTime": "77.400s",
+              "word": "eder"
+            },
+            {
+              "startTime": "77.400s",
+              "endTime": "78s",
+              "word": "hacca"
+            },
+            {
+              "startTime": "78s",
+              "endTime": "78.300s",
+              "word": "gider"
+            },
+            {
+              "startTime": "78.300s",
+              "endTime": "79.100s",
+              "word": "o"
+            },
+            {
+              "startTime": "79.100s",
+              "endTime": "79.700s",
+              "word": "zamanlar"
+            },
+            {
+              "startTime": "79.700s",
+              "endTime": "80s",
+              "word": "hacca"
+            },
+            {
+              "startTime": "80s",
+              "endTime": "80.400s",
+              "word": "gitmek"
+            },
+            {
+              "startTime": "80.400s",
+              "endTime": "80.900s",
+              "word": "Şimdiki"
+            },
+            {
+              "startTime": "80.900s",
+              "endTime": "81s",
+              "word": "gibi"
+            },
+            {
+              "startTime": "81s",
+              "endTime": "81.500s",
+              "word": "değil"
+            },
+            {
+              "startTime": "81.500s",
+              "endTime": "82.200s",
+              "word": "Belki"
+            },
+            {
+              "startTime": "82.200s",
+              "endTime": "82.700s",
+              "word": "6"
+            },
+            {
+              "startTime": "82.700s",
+              "endTime": "82.800s",
+              "word": "ay"
+            },
+            {
+              "startTime": "82.800s",
+              "endTime": "83.600s",
+              "word": "Belki"
+            },
+            {
+              "startTime": "83.600s",
+              "endTime": "83.800s",
+              "word": "de"
+            },
+            {
+              "startTime": "83.800s",
+              "endTime": "84.500s",
+              "word": "fazla"
+            },
+            {
+              "startTime": "84.500s",
+              "endTime": "85.700s",
+              "word": "yaya"
+            },
+            {
+              "startTime": "85.100s",
+              "endTime": "85.700s",
+              "word": "gidilmesi"
+            },
+            {
+              "startTime": "85.700s",
+              "endTime": "86.400s",
+              "word": "gerekiyor"
+            },
+            {
+              "startTime": "86.400s",
+              "endTime": "87.600s",
+              "word": "babası"
+            },
+            {
+              "startTime": "87.600s",
+              "endTime": "87.900s",
+              "word": "Hacca"
+            },
+            {
+              "startTime": "87.900s",
+              "endTime": "88.500s",
+              "word": "gittikten"
+            },
+            {
+              "startTime": "88.500s",
+              "endTime": "89s",
+              "word": "sonra"
+            },
+            {
+              "startTime": "89s",
+              "endTime": "89.800s",
+              "word": "köyün"
+            },
+            {
+              "startTime": "89.800s",
+              "endTime": "90.600s",
+              "word": "delikanlıları"
+            },
+            {
+              "startTime": "90.600s",
+              "endTime": "91.100s",
+              "word": "sarı"
+            },
+            {
+              "startTime": "91.100s",
+              "endTime": "91.400s",
+              "word": "kızı"
+            },
+            {
+              "startTime": "91.400s",
+              "endTime": "91.800s",
+              "word": "Talip"
+            },
+            {
+              "startTime": "91.800s",
+              "endTime": "92.300s",
+              "word": "olurlar"
+            },
+            {
+              "startTime": "92.300s",
+              "endTime": "93.400s",
+              "word": "Sarıkız"
+            },
+            {
+              "startTime": "93.400s",
+              "endTime": "93.900s",
+              "word": "hiçbirine"
+            },
+            {
+              "startTime": "93.900s",
+              "endTime": "94.100s",
+              "word": "yüz"
+            },
+            {
+              "startTime": "94.100s",
+              "endTime": "94.600s",
+              "word": "vermez"
+            },
+            {
+              "startTime": "94.600s",
+              "endTime": "95.400s",
+              "word": "Onlar"
+            },
+            {
+              "startTime": "95.400s",
+              "endTime": "95.500s",
+              "word": "da"
+            },
+            {
+              "startTime": "95.500s",
+              "endTime": "95.800s",
+              "word": "dedikodu"
+            },
+            {
+              "startTime": "95.800s",
+              "endTime": "95.900s",
+              "word": "yayarak"
+            },
+            {
+              "startTime": "95.900s",
+              "endTime": "97.300s",
+              "word": "sarıkız'ı"
+            },
+            {
+              "startTime": "97.300s",
+              "endTime": "97.700s",
+              "word": "iftira"
+            },
+            {
+              "startTime": "97.700s",
+              "endTime": "98.300s",
+              "word": "ederler"
+            },
+            {
+              "startTime": "98.300s",
+              "endTime": "99.300s",
+              "word": "Baba"
+            },
+            {
+              "startTime": "99.300s",
+              "endTime": "99.800s",
+              "word": "hacdan"
+            },
+            {
+              "startTime": "99.800s",
+              "endTime": "100.200s",
+              "word": "dönünce"
+            },
+            {
+              "startTime": "100.200s",
+              "endTime": "101s",
+              "word": "kimse"
+            },
+            {
+              "startTime": "101s",
+              "endTime": "101.400s",
+              "word": "yüzüne"
+            },
+            {
+              "startTime": "101.400s",
+              "endTime": "102s",
+              "word": "bakmaz"
+            },
+            {
+              "startTime": "102s",
+              "endTime": "102.800s",
+              "word": "selamını"
+            },
+            {
+              "startTime": "102.800s",
+              "endTime": "103.400s",
+              "word": "almaz"
+            },
+            {
+              "startTime": "103.400s",
+              "endTime": "104.400s",
+              "word": "sarı"
+            },
+            {
+              "startTime": "104.400s",
+              "endTime": "104.700s",
+              "word": "kızı"
+            },
+            {
+              "startTime": "104.700s",
+              "endTime": "105.100s",
+              "word": "teslim"
+            },
+            {
+              "startTime": "105.100s",
+              "endTime": "105.400s",
+              "word": "ettiği"
+            },
+            {
+              "startTime": "105.400s",
+              "endTime": "106.100s",
+              "word": "komşusuna"
+            },
+            {
+              "startTime": "106.100s",
+              "endTime": "106.700s",
+              "word": "Bunun"
+            },
+            {
+              "startTime": "106.700s",
+              "endTime": "107.200s",
+              "word": "sebebini"
+            },
+            {
+              "startTime": "107.200s",
+              "endTime": "107.700s",
+              "word": "sorduğunda"
+            },
+            {
+              "startTime": "107.700s",
+              "endTime": "108.700s",
+              "word": "Sarı"
+            },
+            {
+              "startTime": "108.700s",
+              "endTime": "109s",
+              "word": "kızın"
+            },
+            {
+              "startTime": "109s",
+              "endTime": "109.300s",
+              "word": "kötü"
+            },
+            {
+              "startTime": "109.300s",
+              "endTime": "109.600s",
+              "word": "yola"
+            },
+            {
+              "startTime": "109.600s",
+              "endTime": "109.900s",
+              "word": "düştüğünü"
+            },
+            {
+              "startTime": "109.900s",
+              "endTime": "110.600s",
+              "word": "söyler"
+            },
+            {
+              "startTime": "110.600s",
+              "endTime": "111.500s",
+              "word": "Baba"
+            },
+            {
+              "startTime": "111.500s",
+              "endTime": "112s",
+              "word": "günlerce"
+            },
+            {
+              "startTime": "112s",
+              "endTime": "112.600s",
+              "word": "düşünür"
+            },
+            {
+              "startTime": "112.600s",
+              "endTime": "113.400s",
+              "word": "adet"
+            },
+            {
+              "startTime": "113.400s",
+              "endTime": "113.700s",
+              "word": "olan"
+            },
+            {
+              "startTime": "113.700s",
+              "endTime": "114s",
+              "word": "Hac"
+            },
+            {
+              "startTime": "114s",
+              "endTime": "114.400s",
+              "word": "hayrını"
+            },
+            {
+              "startTime": "114.400s",
+              "endTime": "114.600s",
+              "word": "da"
+            },
+            {
+              "startTime": "114.600s",
+              "endTime": "115.100s",
+              "word": "yapamaz"
+            },
+            {
+              "startTime": "115.100s",
+              "endTime": "116s",
+              "word": "köyde"
+            },
+            {
+              "startTime": "116s",
+              "endTime": "116.700s",
+              "word": "yaşayabilmesi"
+            },
+            {
+              "startTime": "116.700s",
+              "endTime": "116.900s",
+              "word": "için"
+            },
+            {
+              "startTime": "116.900s",
+              "endTime": "118s",
+              "word": "namusunu"
+            },
+            {
+              "startTime": "118s",
+              "endTime": "118.700s",
+              "word": "temizlenmesi"
+            },
+            {
+              "startTime": "118.700s",
+              "endTime": "119.100s",
+              "word": "gerekmektedir"
+            }
+          ]
+        }
+      ],
+      "resultEndTime": "119.940s",
+      "languageCode": "tr-tr"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " Fakat çok sevdiği kızını öldürmeye kıyamaz yanına aldığı birkaç kazla kızını Kaz Dağı\u0027nın zirvesine götürüp oraya bırakır orada yabani hayvanlara yemi olacağı düşünür aradan yıllar geçer tarafından gelen yolcuların daha da yollarını kaybettiklerinde darbe kaldıklarında kendilerine sarı bir kızın yol gösterdiğini yardım ettiğini söylerler kazlarının olduğunu Hatta bunların bir gün Bayramiç ovasına inerek çiftçilerin mahsulü ne zarar verdiğini bu durumu sarı kısa söylemeleri üzerine sarı Kızın eteğini doldurduğu taşları saçarak bir Avlu oluşturduğunu tarzlarında artık aşağılara inmediğini söylerler kız havlusu diye anılan Bu alanın duvar kalıntıları günümüzde bile gözükmektedir",
+          "confidence": 0.92195225,
+          "words": [
+            {
+              "startTime": "119.900s",
+              "endTime": "120.500s",
+              "word": "Fakat"
+            },
+            {
+              "startTime": "120.500s",
+              "endTime": "120.800s",
+              "word": "çok"
+            },
+            {
+              "startTime": "120.800s",
+              "endTime": "121.300s",
+              "word": "sevdiği"
+            },
+            {
+              "startTime": "121.300s",
+              "endTime": "121.700s",
+              "word": "kızını"
+            },
+            {
+              "startTime": "121.700s",
+              "endTime": "122.200s",
+              "word": "öldürmeye"
+            },
+            {
+              "startTime": "122.200s",
+              "endTime": "122.800s",
+              "word": "kıyamaz"
+            },
+            {
+              "startTime": "122.800s",
+              "endTime": "123.900s",
+              "word": "yanına"
+            },
+            {
+              "startTime": "123.900s",
+              "endTime": "124.200s",
+              "word": "aldığı"
+            },
+            {
+              "startTime": "124.200s",
+              "endTime": "124.700s",
+              "word": "birkaç"
+            },
+            {
+              "startTime": "124.700s",
+              "endTime": "125.100s",
+              "word": "kazla"
+            },
+            {
+              "startTime": "125.100s",
+              "endTime": "125.600s",
+              "word": "kızını"
+            },
+            {
+              "startTime": "125.600s",
+              "endTime": "126.300s",
+              "word": "Kaz"
+            },
+            {
+              "startTime": "126.300s",
+              "endTime": "126.700s",
+              "word": "Dağı'nın"
+            },
+            {
+              "startTime": "126.700s",
+              "endTime": "127.300s",
+              "word": "zirvesine"
+            },
+            {
+              "startTime": "127.300s",
+              "endTime": "127.800s",
+              "word": "götürüp"
+            },
+            {
+              "startTime": "127.800s",
+              "endTime": "128.300s",
+              "word": "oraya"
+            },
+            {
+              "startTime": "128.300s",
+              "endTime": "128.800s",
+              "word": "bırakır"
+            },
+            {
+              "startTime": "128.800s",
+              "endTime": "129.800s",
+              "word": "orada"
+            },
+            {
+              "startTime": "129.800s",
+              "endTime": "130.400s",
+              "word": "yabani"
+            },
+            {
+              "startTime": "130.400s",
+              "endTime": "131.100s",
+              "word": "hayvanlara"
+            },
+            {
+              "startTime": "131.100s",
+              "endTime": "131.400s",
+              "word": "yem"
+            },
+            {
+              "startTime": "131.400s",
+              "endTime": "131.900s",
+              "word": "olacağı"
+            },
+            {
+              "startTime": "131.900s",
+              "endTime": "132.400s",
+              "word": "düşünür"
+            },
+            {
+              "startTime": "132.400s",
+              "endTime": "133.500s",
+              "word": "aradan"
+            },
+            {
+              "startTime": "133.500s",
+              "endTime": "133.700s",
+              "word": "yıllar"
+            },
+            {
+              "startTime": "133.700s",
+              "endTime": "134.500s",
+              "word": "geçer"
+            },
+            {
+              "startTime": "134.500s",
+              "endTime": "136.500s",
+              "word": "Bayramiç tarafından"
+            },
+            {
+              "startTime": "136.500s",
+              "endTime": "136.900s",
+              "word": "gelen"
+            },
+            {
+              "startTime": "136.900s",
+              "endTime": "137.500s",
+              "word": "yolcuların"
+            },
+            {
+              "startTime": "137.500s",
+              "endTime": "138.800s",
+              "word": "dağda"
+            },
+            {
+              "startTime": "138.300s",
+              "endTime": "138.800s",
+              "word": "yollarını"
+            },
+            {
+              "startTime": "138.800s",
+              "endTime": "140s",
+              "word": "kaybettiklerinde"
+            },
+            {
+              "startTime": "140s",
+              "endTime": "140.800s",
+              "word": "darbe"
+            },
+            {
+              "startTime": "140.800s",
+              "endTime": "141.800s",
+              "word": "kaldıklarında"
+            },
+            {
+              "startTime": "141.800s",
+              "endTime": "142.800s",
+              "word": "kendilerine"
+            },
+            {
+              "startTime": "142.800s",
+              "endTime": "143.100s",
+              "word": "sarı"
+            },
+            {
+              "startTime": "143.100s",
+              "endTime": "143.300s",
+              "word": "bir"
+            },
+            {
+              "startTime": "143.300s",
+              "endTime": "143.700s",
+              "word": "kızın"
+            },
+            {
+              "startTime": "143.700s",
+              "endTime": "143.900s",
+              "word": "yol"
+            },
+            {
+              "startTime": "143.900s",
+              "endTime": "144.800s",
+              "word": "gösterdiğini"
+            },
+            {
+              "startTime": "144.800s",
+              "endTime": "145.400s",
+              "word": "yardım"
+            },
+            {
+              "startTime": "145.400s",
+              "endTime": "145.900s",
+              "word": "ettiğini"
+            },
+            {
+              "startTime": "145.900s",
+              "endTime": "146.500s",
+              "word": "söylerler"
+            },
+            {
+              "startTime": "146.500s",
+              "endTime": "147.800s",
+              "word": "kazlarının"
+            },
+            {
+              "startTime": "147.800s",
+              "endTime": "148.400s",
+              "word": "olduğunu"
+            },
+            {
+              "startTime": "148.400s",
+              "endTime": "148.900s",
+              "word": "Hatta"
+            },
+            {
+              "startTime": "148.900s",
+              "endTime": "149.800s",
+              "word": "bunların"
+            },
+            {
+              "startTime": "149.800s",
+              "endTime": "150s",
+              "word": "bir"
+            },
+            {
+              "startTime": "150s",
+              "endTime": "150.300s",
+              "word": "gün"
+            },
+            {
+              "startTime": "150.300s",
+              "endTime": "151.200s",
+              "word": "Bayramiç"
+            },
+            {
+              "startTime": "151.200s",
+              "endTime": "151.700s",
+              "word": "ovasına"
+            },
+            {
+              "startTime": "151.700s",
+              "endTime": "152.300s",
+              "word": "inerek"
+            },
+            {
+              "startTime": "152.300s",
+              "endTime": "153.200s",
+              "word": "çiftçilerin"
+            },
+            {
+              "startTime": "153.200s",
+              "endTime": "153.800s",
+              "word": "mahsulüne"
+            },
+            {
+              "startTime": "153.800s",
+              "endTime": "154.200s",
+              "word": "zarar"
+            },
+            {
+              "startTime": "154.200s",
+              "endTime": "154.900s",
+              "word": "verdiğini"
+            },
+            {
+              "startTime": "154.900s",
+              "endTime": "156.300s",
+              "word": "Köylülerin bu"
+            },
+            {
+              "startTime": "156.300s",
+              "endTime": "156.600s",
+              "word": "durumu"
+            },
+            {
+              "startTime": "156.600s",
+              "endTime": "156.900s",
+              "word": "sarı"
+            },
+            {
+              "startTime": "156.900s",
+              "endTime": "157.100s",
+              "word": "kıza"
+            },
+            {
+              "startTime": "157.100s",
+              "endTime": "157.900s",
+              "word": "söylemeleri"
+            },
+            {
+              "startTime": "157.900s",
+              "endTime": "158s",
+              "word": "üzerine"
+            },
+            {
+              "startTime": "158s",
+              "endTime": "159.100s",
+              "word": "sarı"
+            },
+            {
+              "startTime": "159.100s",
+              "endTime": "159.500s",
+              "word": "Kızın"
+            },
+            {
+              "startTime": "159.500s",
+              "endTime": "160s",
+              "word": "eteğini"
+            },
+            {
+              "startTime": "160s",
+              "endTime": "160.600s",
+              "word": "doldurduğu"
+            },
+            {
+              "startTime": "160.600s",
+              "endTime": "161.100s",
+              "word": "taşları"
+            },
+            {
+              "startTime": "161.100s",
+              "endTime": "161.700s",
+              "word": "saçarak"
+            },
+            {
+              "startTime": "161.700s",
+              "endTime": "162.200s",
+              "word": "bir"
+            },
+            {
+              "startTime": "162.200s",
+              "endTime": "162.600s",
+              "word": "Avlu"
+            },
+            {
+              "startTime": "162.600s",
+              "endTime": "163.600s",
+              "word": "oluşturduğunu"
+            },
+            {
+              "startTime": "163.600s",
+              "endTime": "165s",
+              "word": "kazların da"
+            },
+            {
+              "startTime": "165s",
+              "endTime": "165.500s",
+              "word": "artık"
+            },
+            {
+              "startTime": "165.500s",
+              "endTime": "166.200s",
+              "word": "aşağılara"
+            },
+            {
+              "startTime": "166.200s",
+              "endTime": "167.200s",
+              "word": "inmediğini"
+            },
+            {
+              "startTime": "167.200s",
+              "endTime": "167.900s",
+              "word": "söylerler"
+            },
+            {
+              "startTime": "167.900s",
+              "endTime": "168.900s",
+              "word": "kaz"
+            },
+            {
+              "startTime": "168.900s",
+              "endTime": "169.400s",
+              "word": "avlusu"
+            },
+            {
+              "startTime": "169.400s",
+              "endTime": "169.600s",
+              "word": "diye"
+            },
+            {
+              "startTime": "169.600s",
+              "endTime": "170s",
+              "word": "anılan"
+            },
+            {
+              "startTime": "170s",
+              "endTime": "170.200s",
+              "word": "Bu"
+            },
+            {
+              "startTime": "170.200s",
+              "endTime": "170.600s",
+              "word": "alanın"
+            },
+            {
+              "startTime": "170.600s",
+              "endTime": "171.200s",
+              "word": "duvar"
+            },
+            {
+              "startTime": "171.200s",
+              "endTime": "172s",
+              "word": "kalıntıları"
+            },
+            {
+              "startTime": "172s",
+              "endTime": "173.100s",
+              "word": "günümüzde"
+            },
+            {
+              "startTime": "173.100s",
+              "endTime": "173.400s",
+              "word": "bile"
+            },
+            {
+              "startTime": "173.400s",
+              "endTime": "174.200s",
+              "word": "gözükmektedir"
+            }
+          ]
+        }
+      ],
+      "resultEndTime": "174.930s",
+      "languageCode": "tr-tr"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " bu hikayeleri dinleyen Baba bunun Sarıkız olabileceğini düşünür dağın yolunu tutar zirveye vardığında Duvarlarla çevrili Gazların bulunduğu bir alanla karşılaşır kızına bugün Sarıkız Tepe diye anılan yerde bulur Sarıkız babasını gördüğüne sevinir ona Saygı gösterir hürmet eder babasını namaz kılmak için abdest almak ister Sarıkız abdest alması için babasının eline su döker babası suyun tuzlu olduğunu söyler Sarıkız Aceleden yanlışlıkla Deniz\u0027den aldığı söyler ve testisimi vadileri doğru uzatır yeni doldurduğu suyu babasının elini döker babası buz gibi tatlı suyu tadınca kızının erdiğini anlar o sırada siyah kara bir bulut gökyüzünü kaplar Sarıkız kaybolur Babası kızının erdiğine sırrının",
+          "confidence": 0.92567664,
+          "words": [
+            {
+              "startTime": "175s",
+              "endTime": "175.800s",
+              "word": "bu"
+            },
+            {
+              "startTime": "175.800s",
+              "endTime": "176.500s",
+              "word": "hikayeleri"
+            },
+            {
+              "startTime": "176.500s",
+              "endTime": "177s",
+              "word": "dinleyen"
+            },
+            {
+              "startTime": "177s",
+              "endTime": "177.400s",
+              "word": "Baba"
+            },
+            {
+              "startTime": "177.400s",
+              "endTime": "178.200s",
+              "word": "bunun"
+            },
+            {
+              "startTime": "178.200s",
+              "endTime": "178.900s",
+              "word": "Sarıkız"
+            },
+            {
+              "startTime": "178.900s",
+              "endTime": "179.700s",
+              "word": "olabileceğini"
+            },
+            {
+              "startTime": "179.700s",
+              "endTime": "180.200s",
+              "word": "düşünür"
+            },
+            {
+              "startTime": "180.200s",
+              "endTime": "181.200s",
+              "word": "dağın"
+            },
+            {
+              "startTime": "181.200s",
+              "endTime": "181.500s",
+              "word": "yolunu"
+            },
+            {
+              "startTime": "181.500s",
+              "endTime": "182.100s",
+              "word": "tutar"
+            },
+            {
+              "startTime": "182.100s",
+              "endTime": "183s",
+              "word": "zirveye"
+            },
+            {
+              "startTime": "183s",
+              "endTime": "183s",
+              "word": "vardığında"
+            },
+            {
+              "startTime": "183s",
+              "endTime": "184.800s",
+              "word": "Duvarlarla"
+            },
+            {
+              "startTime": "184.800s",
+              "endTime": "185.400s",
+              "word": "çevrili"
+            },
+            {
+              "startTime": "185.400s",
+              "endTime": "186.300s",
+              "word": "kazların"
+            },
+            {
+              "startTime": "186.300s",
+              "endTime": "186.500s",
+              "word": "bulunduğu"
+            },
+            {
+              "startTime": "186.500s",
+              "endTime": "187s",
+              "word": "bir"
+            },
+            {
+              "startTime": "187s",
+              "endTime": "187.500s",
+              "word": "alanla"
+            },
+            {
+              "startTime": "187.500s",
+              "endTime": "188.300s",
+              "word": "karşılaşır"
+            },
+            {
+              "startTime": "188.300s",
+              "endTime": "189.600s",
+              "word": "kızına"
+            },
+            {
+              "startTime": "189.600s",
+              "endTime": "189.900s",
+              "word": "bugün"
+            },
+            {
+              "startTime": "189.900s",
+              "endTime": "190.500s",
+              "word": "Sarıkız"
+            },
+            {
+              "startTime": "190.500s",
+              "endTime": "190.800s",
+              "word": "Tepe"
+            },
+            {
+              "startTime": "190.800s",
+              "endTime": "191.100s",
+              "word": "diye"
+            },
+            {
+              "startTime": "191.100s",
+              "endTime": "191.500s",
+              "word": "anılan"
+            },
+            {
+              "startTime": "191.500s",
+              "endTime": "191.700s",
+              "word": "yerde"
+            },
+            {
+              "startTime": "191.700s",
+              "endTime": "192.200s",
+              "word": "bulur"
+            },
+            {
+              "startTime": "192.200s",
+              "endTime": "193.300s",
+              "word": "Sarıkız"
+            },
+            {
+              "startTime": "193.300s",
+              "endTime": "193.900s",
+              "word": "babasını"
+            },
+            {
+              "startTime": "193.900s",
+              "endTime": "194.400s",
+              "word": "gördüğüne"
+            },
+            {
+              "startTime": "194.400s",
+              "endTime": "194.900s",
+              "word": "sevinir"
+            },
+            {
+              "startTime": "194.900s",
+              "endTime": "195.600s",
+              "word": "ona"
+            },
+            {
+              "startTime": "195.600s",
+              "endTime": "196s",
+              "word": "Saygı"
+            },
+            {
+              "startTime": "196s",
+              "endTime": "196.700s",
+              "word": "gösterir"
+            },
+            {
+              "startTime": "196.700s",
+              "endTime": "197.300s",
+              "word": "hürmet"
+            },
+            {
+              "startTime": "197.300s",
+              "endTime": "197.600s",
+              "word": "eder"
+            },
+            {
+              "startTime": "197.600s",
+              "endTime": "198.700s",
+              "word": "babası"
+            },
+            {
+              "startTime": "198.700s",
+              "endTime": "199s",
+              "word": "namaz"
+            },
+            {
+              "startTime": "199s",
+              "endTime": "199.500s",
+              "word": "kılmak"
+            },
+            {
+              "startTime": "199.500s",
+              "endTime": "199.500s",
+              "word": "için"
+            },
+            {
+              "startTime": "199.500s",
+              "endTime": "200.300s",
+              "word": "abdest"
+            },
+            {
+              "startTime": "200.300s",
+              "endTime": "200.700s",
+              "word": "almak"
+            },
+            {
+              "startTime": "200.700s",
+              "endTime": "201.100s",
+              "word": "ister"
+            },
+            {
+              "startTime": "201.100s",
+              "endTime": "202.200s",
+              "word": "Sarıkız"
+            },
+            {
+              "startTime": "202.200s",
+              "endTime": "203s",
+              "word": "abdest"
+            },
+            {
+              "startTime": "203s",
+              "endTime": "203.400s",
+              "word": "alması"
+            },
+            {
+              "startTime": "203.400s",
+              "endTime": "203.600s",
+              "word": "için"
+            },
+            {
+              "startTime": "203.600s",
+              "endTime": "204.300s",
+              "word": "babasının"
+            },
+            {
+              "startTime": "204.300s",
+              "endTime": "204.700s",
+              "word": "eline"
+            },
+            {
+              "startTime": "204.700s",
+              "endTime": "204.900s",
+              "word": "su"
+            },
+            {
+              "startTime": "204.900s",
+              "endTime": "205.400s",
+              "word": "döker"
+            },
+            {
+              "startTime": "205.400s",
+              "endTime": "206.600s",
+              "word": "babası"
+            },
+            {
+              "startTime": "206.600s",
+              "endTime": "207.400s",
+              "word": "suyun"
+            },
+            {
+              "startTime": "207.400s",
+              "endTime": "207.900s",
+              "word": "tuzlu"
+            },
+            {
+              "startTime": "207.900s",
+              "endTime": "208.400s",
+              "word": "olduğunu"
+            },
+            {
+              "startTime": "208.400s",
+              "endTime": "208.800s",
+              "word": "söyler"
+            },
+            {
+              "startTime": "208.800s",
+              "endTime": "209.900s",
+              "word": "Sarıkız"
+            },
+            {
+              "startTime": "209.900s",
+              "endTime": "210.700s",
+              "word": "Aceleden"
+            },
+            {
+              "startTime": "210.700s",
+              "endTime": "211.700s",
+              "word": "yanlışlıkla"
+            },
+            {
+              "startTime": "211.700s",
+              "endTime": "212.300s",
+              "word": "Deniz'den"
+            },
+            {
+              "startTime": "212.300s",
+              "endTime": "212.600s",
+              "word": "aldığı"
+            },
+            {
+              "startTime": "212.600s",
+              "endTime": "213.300s",
+              "word": "söyler"
+            },
+            {
+              "startTime": "213.300s",
+              "endTime": "213.700s",
+              "word": "ve"
+            },
+            {
+              "startTime": "213.700s",
+              "endTime": "214.400s",
+              "word": "testisini"
+            },
+            {
+              "startTime": "214.400s",
+              "endTime": "215.100s",
+              "word": "vadileri"
+            },
+            {
+              "startTime": "215.100s",
+              "endTime": "215.500s",
+              "word": "doğru"
+            },
+            {
+              "startTime": "215.500s",
+              "endTime": "216s",
+              "word": "uzatır"
+            },
+            {
+              "startTime": "216s",
+              "endTime": "216.900s",
+              "word": "yeni"
+            },
+            {
+              "startTime": "216.900s",
+              "endTime": "217.600s",
+              "word": "doldurduğu"
+            },
+            {
+              "startTime": "217.600s",
+              "endTime": "217.900s",
+              "word": "suyu"
+            },
+            {
+              "startTime": "217.900s",
+              "endTime": "218.600s",
+              "word": "babasının"
+            },
+            {
+              "startTime": "218.600s",
+              "endTime": "218.900s",
+              "word": "eline"
+            },
+            {
+              "startTime": "218.900s",
+              "endTime": "219.400s",
+              "word": "döker"
+            },
+            {
+              "startTime": "219.400s",
+              "endTime": "220.500s",
+              "word": "babası"
+            },
+            {
+              "startTime": "220.500s",
+              "endTime": "221.300s",
+              "word": "buz"
+            },
+            {
+              "startTime": "221.300s",
+              "endTime": "221.700s",
+              "word": "gibi"
+            },
+            {
+              "startTime": "221.700s",
+              "endTime": "222.100s",
+              "word": "tatlı"
+            },
+            {
+              "startTime": "222.100s",
+              "endTime": "222.300s",
+              "word": "suyu"
+            },
+            {
+              "startTime": "222.300s",
+              "endTime": "222.800s",
+              "word": "tadınca"
+            },
+            {
+              "startTime": "222.800s",
+              "endTime": "224s",
+              "word": "kızının"
+            },
+            {
+              "startTime": "224s",
+              "endTime": "224.600s",
+              "word": "erdiğini"
+            },
+            {
+              "startTime": "224.600s",
+              "endTime": "225.100s",
+              "word": "anlar"
+            },
+            {
+              "startTime": "225.100s",
+              "endTime": "225.700s",
+              "word": "o"
+            },
+            {
+              "startTime": "225.700s",
+              "endTime": "226.100s",
+              "word": "sırada"
+            },
+            {
+              "startTime": "226.100s",
+              "endTime": "227s",
+              "word": "siyah"
+            },
+            {
+              "startTime": "227s",
+              "endTime": "227.400s",
+              "word": "kara"
+            },
+            {
+              "startTime": "227.400s",
+              "endTime": "227.600s",
+              "word": "bir"
+            },
+            {
+              "startTime": "227.600s",
+              "endTime": "227.700s",
+              "word": "bulut"
+            },
+            {
+              "startTime": "227.700s",
+              "endTime": "229s",
+              "word": "gökyüzünü"
+            },
+            {
+              "startTime": "229s",
+              "endTime": "229.400s",
+              "word": "kaplar"
+            },
+            {
+              "startTime": "229.400s",
+              "endTime": "230.600s",
+              "word": "Sarıkız"
+            },
+            {
+              "startTime": "230.600s",
+              "endTime": "231.200s",
+              "word": "kaybolur"
+            },
+            {
+              "startTime": "231.200s",
+              "endTime": "232.300s",
+              "word": "Babası"
+            },
+            {
+              "startTime": "232.300s",
+              "endTime": "233.100s",
+              "word": "kızının"
+            },
+            {
+              "startTime": "233.100s",
+              "endTime": "233.700s",
+              "word": "erdiğine"
+            },
+            {
+              "startTime": "233.700s",
+              "endTime": "234.800s",
+              "word": "sırrının"
+            },
+            {
+              "startTime": "234.800s",
+              "endTime": "235s",
+              "word": "açığa"
+            }
+          ]
+        }
+      ],
+      "resultEndTime": "235.050s",
+      "languageCode": "tr-tr"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " çıkması nedeniyle de kaybolduğuna kanaat getirir kızına iftira edildiğini anlar ve köylüleri beddua eder bugün kavurmacılar köyünde yaşayan kimse kalma Muhtar kömürünü yaşayan kimse kalmadığı için Kaymakamlığa teslim etmiş ve köyün adı kütükten silinmiştir Sarı kızın babası üzüm ile tepelerde dolaşırken bugün babatepe denilen yerde ölür yöre halkı sarı kıza ve babasına dağım yassı taşlarını üst üste koyarak mezar yaparlar Sarı kızın mezarının olduğu tepeye Sarıkız Tepe babasının bulunduğu tepeye babatepe derler yöre halkı her yıl Ağustos ayında sarı kızı ve babasını anmak için buralara çıkar",
+          "confidence": 0.9165037,
+          "words": [
+            {
+              "startTime": "235s",
+              "endTime": "235.600s",
+              "word": "çıkması"
+            },
+            {
+              "startTime": "235.600s",
+              "endTime": "236.100s",
+              "word": "nedeniyle"
+            },
+            {
+              "startTime": "236.100s",
+              "endTime": "236.400s",
+              "word": "de"
+            },
+            {
+              "startTime": "236.400s",
+              "endTime": "237.500s",
+              "word": "kaybolduğuna"
+            },
+            {
+              "startTime": "237.500s",
+              "endTime": "237.900s",
+              "word": "kanaat"
+            },
+            {
+              "startTime": "237.900s",
+              "endTime": "238.400s",
+              "word": "getirir"
+            },
+            {
+              "startTime": "238.400s",
+              "endTime": "239.400s",
+              "word": "kızına"
+            },
+            {
+              "startTime": "239.400s",
+              "endTime": "239.900s",
+              "word": "iftira"
+            },
+            {
+              "startTime": "239.900s",
+              "endTime": "240.600s",
+              "word": "edildiğini"
+            },
+            {
+              "startTime": "240.600s",
+              "endTime": "241s",
+              "word": "anlar"
+            },
+            {
+              "startTime": "241s",
+              "endTime": "241.400s",
+              "word": "ve"
+            },
+            {
+              "startTime": "241.400s",
+              "endTime": "242s",
+              "word": "köylülere"
+            },
+            {
+              "startTime": "242s",
+              "endTime": "242.600s",
+              "word": "beddua"
+            },
+            {
+              "startTime": "242.600s",
+              "endTime": "243.100s",
+              "word": "eder"
+            },
+            {
+              "startTime": "243.100s",
+              "endTime": "243.900s",
+              "word": "bugün"
+            },
+            {
+              "startTime": "243.900s",
+              "endTime": "244.900s",
+              "word": "kavurmacılar"
+            },
+            {
+              "startTime": "244.900s",
+              "endTime": "245.400s",
+              "word": "köyünde"
+            },
+            {
+              "startTime": "245.400s",
+              "endTime": "245.900s",
+              "word": "yaşayan"
+            },
+            {
+              "startTime": "245.900s",
+              "endTime": "246.500s",
+              "word": "kimse"
+            },
+            {
+              "startTime": "246.500s",
+              "endTime": "247s",
+              "word": "kalmamıştır."
+            },
+            {
+              "startTime": "247s",
+              "endTime": "248.600s",
+              "word": "Muhtar"
+            },
+            {
+              "startTime": "248.600s",
+              "endTime": "249.800s",
+              "word": "köy mührünü"
+            },
+            {
+              "startTime": "249.800s",
+              "endTime": "250.500s",
+              "word": "yaşayan"
+            },
+            {
+              "startTime": "250.500s",
+              "endTime": "250.900s",
+              "word": "kimse"
+            },
+            {
+              "startTime": "250.900s",
+              "endTime": "251.600s",
+              "word": "kalmadığı"
+            },
+            {
+              "startTime": "251.600s",
+              "endTime": "251.800s",
+              "word": "için"
+            },
+            {
+              "startTime": "251.800s",
+              "endTime": "253s",
+              "word": "Kaymakamlığa"
+            },
+            {
+              "startTime": "253s",
+              "endTime": "253.500s",
+              "word": "teslim"
+            },
+            {
+              "startTime": "253.500s",
+              "endTime": "254s",
+              "word": "etmiş"
+            },
+            {
+              "startTime": "254s",
+              "endTime": "254.400s",
+              "word": "ve"
+            },
+            {
+              "startTime": "254.400s",
+              "endTime": "254.800s",
+              "word": "köyün"
+            },
+            {
+              "startTime": "254.800s",
+              "endTime": "255.200s",
+              "word": "adı"
+            },
+            {
+              "startTime": "255.200s",
+              "endTime": "256s",
+              "word": "kütükten"
+            },
+            {
+              "startTime": "256s",
+              "endTime": "256.800s",
+              "word": "silinmiştir"
+            },
+            {
+              "startTime": "256.800s",
+              "endTime": "257.600s",
+              "word": "Sarı"
+            },
+            {
+              "startTime": "257.600s",
+              "endTime": "257.900s",
+              "word": "kızın"
+            },
+            {
+              "startTime": "257.900s",
+              "endTime": "258.400s",
+              "word": "babası"
+            },
+            {
+              "startTime": "258.400s",
+              "endTime": "259s",
+              "word": "üzüntü"
+            },
+            {
+              "startTime": "259s",
+              "endTime": "259.400s",
+              "word": "ile"
+            },
+            {
+              "startTime": "259.400s",
+              "endTime": "260s",
+              "word": "tepelerde"
+            },
+            {
+              "startTime": "260s",
+              "endTime": "260.500s",
+              "word": "dolaşırken"
+            },
+            {
+              "startTime": "260.500s",
+              "endTime": "261.400s",
+              "word": "bugün"
+            },
+            {
+              "startTime": "261.400s",
+              "endTime": "262.200s",
+              "word": "babatepe"
+            },
+            {
+              "startTime": "262.200s",
+              "endTime": "262.800s",
+              "word": "denilen"
+            },
+            {
+              "startTime": "262.800s",
+              "endTime": "263.300s",
+              "word": "yerde"
+            },
+            {
+              "startTime": "263.300s",
+              "endTime": "263.600s",
+              "word": "ölür"
+            },
+            {
+              "startTime": "263.600s",
+              "endTime": "264.600s",
+              "word": "yöre"
+            },
+            {
+              "startTime": "264.600s",
+              "endTime": "265s",
+              "word": "halkı"
+            },
+            {
+              "startTime": "265s",
+              "endTime": "265.600s",
+              "word": "sarı"
+            },
+            {
+              "startTime": "265.600s",
+              "endTime": "265.900s",
+              "word": "kıza"
+            },
+            {
+              "startTime": "265.900s",
+              "endTime": "266s",
+              "word": "ve"
+            },
+            {
+              "startTime": "266s",
+              "endTime": "266.700s",
+              "word": "babasına"
+            },
+            {
+              "startTime": "266.700s",
+              "endTime": "267.500s",
+              "word": "dağın"
+            },
+            {
+              "startTime": "267.500s",
+              "endTime": "268s",
+              "word": "yassı"
+            },
+            {
+              "startTime": "268s",
+              "endTime": "268.700s",
+              "word": "taşlarını"
+            },
+            {
+              "startTime": "268.700s",
+              "endTime": "269s",
+              "word": "üst"
+            },
+            {
+              "startTime": "269s",
+              "endTime": "269.200s",
+              "word": "üste"
+            },
+            {
+              "startTime": "269.200s",
+              "endTime": "269.700s",
+              "word": "koyarak"
+            },
+            {
+              "startTime": "269.700s",
+              "endTime": "270.400s",
+              "word": "mezar"
+            },
+            {
+              "startTime": "270.400s",
+              "endTime": "271s",
+              "word": "yaparlar"
+            },
+            {
+              "startTime": "271s",
+              "endTime": "272s",
+              "word": "Sarı"
+            },
+            {
+              "startTime": "272s",
+              "endTime": "272.300s",
+              "word": "kızın"
+            },
+            {
+              "startTime": "272.300s",
+              "endTime": "273s",
+              "word": "mezarının"
+            },
+            {
+              "startTime": "273s",
+              "endTime": "273.200s",
+              "word": "olduğu"
+            },
+            {
+              "startTime": "273.200s",
+              "endTime": "274s",
+              "word": "tepeye"
+            },
+            {
+              "startTime": "274s",
+              "endTime": "274.700s",
+              "word": "Sarıkız"
+            },
+            {
+              "startTime": "274.700s",
+              "endTime": "275s",
+              "word": "Tepe"
+            },
+            {
+              "startTime": "275s",
+              "endTime": "276.300s",
+              "word": "babasının"
+            },
+            {
+              "startTime": "276.300s",
+              "endTime": "276.800s",
+              "word": "bulunduğu"
+            },
+            {
+              "startTime": "276.800s",
+              "endTime": "277.200s",
+              "word": "tepeye"
+            },
+            {
+              "startTime": "277.200s",
+              "endTime": "278.400s",
+              "word": "babatepe"
+            },
+            {
+              "startTime": "278.400s",
+              "endTime": "278.900s",
+              "word": "derler"
+            },
+            {
+              "startTime": "278.900s",
+              "endTime": "279.900s",
+              "word": "yöre"
+            },
+            {
+              "startTime": "279.900s",
+              "endTime": "280.400s",
+              "word": "halkı"
+            },
+            {
+              "startTime": "280.400s",
+              "endTime": "281s",
+              "word": "her"
+            },
+            {
+              "startTime": "281s",
+              "endTime": "281.300s",
+              "word": "yıl"
+            },
+            {
+              "startTime": "281.300s",
+              "endTime": "281.500s",
+              "word": "Ağustos"
+            },
+            {
+              "startTime": "281.500s",
+              "endTime": "282.500s",
+              "word": "ayında"
+            },
+            {
+              "startTime": "282.500s",
+              "endTime": "283.300s",
+              "word": "sarı"
+            },
+            {
+              "startTime": "283.300s",
+              "endTime": "283.700s",
+              "word": "kızı"
+            },
+            {
+              "startTime": "283.700s",
+              "endTime": "284.300s",
+              "word": "ve"
+            },
+            {
+              "startTime": "284.300s",
+              "endTime": "284.900s",
+              "word": "babasını"
+            },
+            {
+              "startTime": "284.900s",
+              "endTime": "285.300s",
+              "word": "anmak"
+            },
+            {
+              "startTime": "285.300s",
+              "endTime": "285.500s",
+              "word": "için"
+            },
+            {
+              "startTime": "285.500s",
+              "endTime": "286.700s",
+              "word": "buralara"
+            },
+            {
+              "startTime": "286.700s",
+              "endTime": "287.100s",
+              "word": "çıkar"
+            }
+          ]
+        }
+      ],
+      "resultEndTime": "287.850s",
+      "languageCode": "tr-tr"
+    }
+  ]
+}

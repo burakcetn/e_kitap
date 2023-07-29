@@ -1,0 +1,1215 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "Şahmaran Tarsus\u0027ta Binlerce yıl önce yerin yedi kat altında yaşayan yılanlar varmış Meran adı verilen bu yılanlar ve şefkat gülermiş aynı zamanda barış içinde yaşarlarmış meganların kraliçesine Şahmaran denirmiş Şahmaran genç ve güzel bir kadınmış Efsaneye göre şahmeran\u0027ı gören ilk insan yapmış geçimi için odun satan fakir bir ailenin oğluymuş bir gün cemşat ve Arkadaşları bal dolu bir mağara keşfetmişler balı çıkarmak için cemşi mı aşağıya indiren arkadaşları paylarını daha çok bal düşmesi için onu orada bırakıp kaçmışlar Cem şap mağarada bir delik görmüş ve buradan Işık sızdığını fark etmiş cebindeki bıçak ile deliyi büyütünce",
+          "confidence": 0.9130696,
+          "words": [
+            {
+              "startTime": "0s",
+              "endTime": "2s",
+              "word": "Şahmeran"
+            },
+            {
+              "startTime": "2s",
+              "endTime": "3.400s",
+              "word": "Tarsus'ta"
+            },
+            {
+              "startTime": "3.400s",
+              "endTime": "4.600s",
+              "word": "Binlerce"
+            },
+            {
+              "startTime": "4.600s",
+              "endTime": "4.800s",
+              "word": "yıl"
+            },
+            {
+              "startTime": "4.800s",
+              "endTime": "5.200s",
+              "word": "önce"
+            },
+            {
+              "startTime": "5.200s",
+              "endTime": "5.900s",
+              "word": "yerin"
+            },
+            {
+              "startTime": "5.900s",
+              "endTime": "6.200s",
+              "word": "yedi"
+            },
+            {
+              "startTime": "6.200s",
+              "endTime": "6.300s",
+              "word": "kat"
+            },
+            {
+              "startTime": "6.300s",
+              "endTime": "7s",
+              "word": "altında"
+            },
+            {
+              "startTime": "7s",
+              "endTime": "7.500s",
+              "word": "yaşayan"
+            },
+            {
+              "startTime": "7.500s",
+              "endTime": "8s",
+              "word": "yılanlar"
+            },
+            {
+              "startTime": "8s",
+              "endTime": "8.600s",
+              "word": "varmış"
+            },
+            {
+              "startTime": "8.600s",
+              "endTime": "10.100s",
+              "word": "Meran"
+            },
+            {
+              "startTime": "10.100s",
+              "endTime": "10.300s",
+              "word": "adı"
+            },
+            {
+              "startTime": "10.300s",
+              "endTime": "10.800s",
+              "word": "verilen"
+            },
+            {
+              "startTime": "10.800s",
+              "endTime": "10.900s",
+              "word": "bu"
+            },
+            {
+              "startTime": "10.900s",
+              "endTime": "11.400s",
+              "word": "yılanlar"
+            },
+            {
+              "startTime": "11.400s",
+              "endTime": "12.500s",
+              "word": "akıllı ve"
+            },
+            {
+              "startTime": "12.500s",
+              "endTime": "13.600s",
+              "word": "şefkatlilermiş"
+            },
+            {
+              "startTime": "13.600s",
+              "endTime": "14.600s",
+              "word": "aynı"
+            },
+            {
+              "startTime": "14.600s",
+              "endTime": "15.100s",
+              "word": "zamanda"
+            },
+            {
+              "startTime": "15.100s",
+              "endTime": "15.800s",
+              "word": "barış"
+            },
+            {
+              "startTime": "15.800s",
+              "endTime": "16.200s",
+              "word": "içinde"
+            },
+            {
+              "startTime": "16.200s",
+              "endTime": "16.900s",
+              "word": "yaşarlarmış"
+            },
+            {
+              "startTime": "16.900s",
+              "endTime": "18.800s",
+              "word": "Meranların"
+            },
+            {
+              "startTime": "18.800s",
+              "endTime": "19.800s",
+              "word": "kraliçesine"
+            },
+            {
+              "startTime": "19.800s",
+              "endTime": "20.900s",
+              "word": "Şahmeran"
+            },
+            {
+              "startTime": "20.900s",
+              "endTime": "21.500s",
+              "word": "denirmiş"
+            },
+            {
+              "startTime": "21.500s",
+              "endTime": "23s",
+              "word": "Şahmeran"
+            },
+            {
+              "startTime": "23s",
+              "endTime": "23.600s",
+              "word": "genç"
+            },
+            {
+              "startTime": "23.600s",
+              "endTime": "23.700s",
+              "word": "ve"
+            },
+            {
+              "startTime": "23.700s",
+              "endTime": "24s",
+              "word": "güzel"
+            },
+            {
+              "startTime": "24s",
+              "endTime": "24.300s",
+              "word": "bir"
+            },
+            {
+              "startTime": "24.300s",
+              "endTime": "24.900s",
+              "word": "kadınmış"
+            },
+            {
+              "startTime": "24.900s",
+              "endTime": "26.200s",
+              "word": "Efsaneye"
+            },
+            {
+              "startTime": "26.200s",
+              "endTime": "26.400s",
+              "word": "göre"
+            },
+            {
+              "startTime": "26.400s",
+              "endTime": "27.500s",
+              "word": "şahmeranı"
+            },
+            {
+              "startTime": "27.500s",
+              "endTime": "27.900s",
+              "word": "gören"
+            },
+            {
+              "startTime": "27.900s",
+              "endTime": "28.200s",
+              "word": "ilk"
+            },
+            {
+              "startTime": "28.200s",
+              "endTime": "28.800s",
+              "word": "insan"
+            },
+            {
+              "startTime": "28.800s",
+              "endTime": "29.900s",
+              "word": "Cemşab'mış."
+            },
+            {
+              "startTime": "29.900s",
+              "endTime": "32.100s",
+              "word": "Cemşab geçimi"
+            },
+            {
+              "startTime": "32.100s",
+              "endTime": "32.300s",
+              "word": "için"
+            },
+            {
+              "startTime": "32.300s",
+              "endTime": "32.800s",
+              "word": "odun"
+            },
+            {
+              "startTime": "32.800s",
+              "endTime": "33.200s",
+              "word": "satan"
+            },
+            {
+              "startTime": "33.200s",
+              "endTime": "33.800s",
+              "word": "fakir"
+            },
+            {
+              "startTime": "33.800s",
+              "endTime": "34s",
+              "word": "bir"
+            },
+            {
+              "startTime": "34s",
+              "endTime": "34.500s",
+              "word": "ailenin"
+            },
+            {
+              "startTime": "34.500s",
+              "endTime": "35.100s",
+              "word": "oğluymuş"
+            },
+            {
+              "startTime": "35.100s",
+              "endTime": "36.300s",
+              "word": "bir"
+            },
+            {
+              "startTime": "36.300s",
+              "endTime": "36.500s",
+              "word": "gün"
+            },
+            {
+              "startTime": "36.500s",
+              "endTime": "37s",
+              "word": "cemşab"
+            },
+            {
+              "startTime": "37s",
+              "endTime": "37.200s",
+              "word": "ve"
+            },
+            {
+              "startTime": "37.200s",
+              "endTime": "38.100s",
+              "word": "Arkadaşları"
+            },
+            {
+              "startTime": "38.100s",
+              "endTime": "38.800s",
+              "word": "bal"
+            },
+            {
+              "startTime": "38.800s",
+              "endTime": "39.100s",
+              "word": "dolu"
+            },
+            {
+              "startTime": "39.100s",
+              "endTime": "39.300s",
+              "word": "bir"
+            },
+            {
+              "startTime": "39.300s",
+              "endTime": "39.700s",
+              "word": "mağara"
+            },
+            {
+              "startTime": "39.700s",
+              "endTime": "40.700s",
+              "word": "keşfetmişler"
+            },
+            {
+              "startTime": "40.700s",
+              "endTime": "41.700s",
+              "word": "balı"
+            },
+            {
+              "startTime": "41.700s",
+              "endTime": "42.300s",
+              "word": "çıkarmak"
+            },
+            {
+              "startTime": "42.300s",
+              "endTime": "42.600s",
+              "word": "için"
+            },
+            {
+              "startTime": "42.600s",
+              "endTime": "43.500s",
+              "word": "Cemşab'ı"
+            },
+            {
+              "startTime": "43.500s",
+              "endTime": "44s",
+              "word": "aşağıya"
+            },
+            {
+              "startTime": "44s",
+              "endTime": "44.400s",
+              "word": "indiren"
+            },
+            {
+              "startTime": "44.400s",
+              "endTime": "45.400s",
+              "word": "arkadaşları"
+            },
+            {
+              "startTime": "45.400s",
+              "endTime": "46.600s",
+              "word": "paylarını"
+            },
+            {
+              "startTime": "46.600s",
+              "endTime": "46.900s",
+              "word": "daha"
+            },
+            {
+              "startTime": "46.900s",
+              "endTime": "47.200s",
+              "word": "çok"
+            },
+            {
+              "startTime": "47.200s",
+              "endTime": "47.500s",
+              "word": "bal"
+            },
+            {
+              "startTime": "47.500s",
+              "endTime": "47.900s",
+              "word": "düşmesi"
+            },
+            {
+              "startTime": "47.900s",
+              "endTime": "48.200s",
+              "word": "için"
+            },
+            {
+              "startTime": "48.200s",
+              "endTime": "48.800s",
+              "word": "onu"
+            },
+            {
+              "startTime": "48.800s",
+              "endTime": "49.200s",
+              "word": "orada"
+            },
+            {
+              "startTime": "49.200s",
+              "endTime": "49.600s",
+              "word": "bırakıp"
+            },
+            {
+              "startTime": "49.600s",
+              "endTime": "50.300s",
+              "word": "kaçmışlar"
+            },
+            {
+              "startTime": "50.300s",
+              "endTime": "51.500s",
+              "word": "Cemşab"
+            },
+            {
+              "startTime": "51.800s",
+              "endTime": "52.300s",
+              "word": "mağarada"
+            },
+            {
+              "startTime": "52.300s",
+              "endTime": "52.500s",
+              "word": "bir"
+            },
+            {
+              "startTime": "52.500s",
+              "endTime": "52.800s",
+              "word": "delik"
+            },
+            {
+              "startTime": "52.800s",
+              "endTime": "53.300s",
+              "word": "görmüş"
+            },
+            {
+              "startTime": "53.300s",
+              "endTime": "53.800s",
+              "word": "ve"
+            },
+            {
+              "startTime": "53.800s",
+              "endTime": "54.400s",
+              "word": "buradan"
+            },
+            {
+              "startTime": "54.400s",
+              "endTime": "54.800s",
+              "word": "Işık"
+            },
+            {
+              "startTime": "54.800s",
+              "endTime": "55.300s",
+              "word": "sızdığını"
+            },
+            {
+              "startTime": "55.300s",
+              "endTime": "55.800s",
+              "word": "fark"
+            },
+            {
+              "startTime": "55.800s",
+              "endTime": "56.200s",
+              "word": "etmiş"
+            },
+            {
+              "startTime": "56.200s",
+              "endTime": "57.700s",
+              "word": "cebindeki"
+            },
+            {
+              "startTime": "57.700s",
+              "endTime": "58.100s",
+              "word": "bıçak"
+            },
+            {
+              "startTime": "58.100s",
+              "endTime": "58.300s",
+              "word": "ile"
+            },
+            {
+              "startTime": "58.300s",
+              "endTime": "58.800s",
+              "word": "deliyi"
+            },
+            {
+              "startTime": "58.800s",
+              "endTime": "59.400s",
+              "word": "büyütünce"
+            }
+          ]
+        }
+      ],
+      "resultEndTime": "59.970s",
+      "languageCode": "tr-tr"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " ömründe görmediği kadar güzel bir bahçe görmüş bu bahçede eşi benzeri olmayan çiçekler havuz ve pek çok yalan görmüş uzun yıl burada yaşamış ve Şahmeran\u0027ın Güvenini kazanmış yıllar sonra Ailesini çok özlediğini söyleyip gitmek için yalvarmış bunun üzerine Şahmaran kendisini salı vereceğini ancak yerini kimseye söylemeyeceğine dair söz vermesini istemiş Şahmeran\u0027ın söz verip ailesine kavuşan Cem Shop uzun yıllar verdiği Sözde durarak Şahmeran\u0027ın yerini kimseye söylememiş bir gün ülkenin padişahı hastalanmış ülkenin beziyle hastalığın çaresinin Şahmeran\u0027ın etini yemek olduğunu söylemiş ve her yere haber salınmış gameshop kuyunun yerini söylemeye zorlanmış gameshop mecbur kalıp kuyunun yerini gösterince",
+          "confidence": 0.9156711,
+          "words": [
+            {
+              "startTime": "59.900s",
+              "endTime": "60.800s",
+              "word": "ömründe"
+            },
+            {
+              "startTime": "60.800s",
+              "endTime": "61.500s",
+              "word": "görmediği"
+            },
+            {
+              "startTime": "61.500s",
+              "endTime": "61.600s",
+              "word": "kadar"
+            },
+            {
+              "startTime": "61.600s",
+              "endTime": "62.300s",
+              "word": "güzel"
+            },
+            {
+              "startTime": "62.300s",
+              "endTime": "62.500s",
+              "word": "bir"
+            },
+            {
+              "startTime": "62.500s",
+              "endTime": "62.900s",
+              "word": "bahçe"
+            },
+            {
+              "startTime": "62.900s",
+              "endTime": "63.400s",
+              "word": "görmüş"
+            },
+            {
+              "startTime": "63.400s",
+              "endTime": "64.300s",
+              "word": "bu"
+            },
+            {
+              "startTime": "64.300s",
+              "endTime": "65s",
+              "word": "bahçede"
+            },
+            {
+              "startTime": "65s",
+              "endTime": "65.600s",
+              "word": "eşi"
+            },
+            {
+              "startTime": "65.600s",
+              "endTime": "66.100s",
+              "word": "benzeri"
+            },
+            {
+              "startTime": "66.100s",
+              "endTime": "66.200s",
+              "word": "olmayan"
+            },
+            {
+              "startTime": "66.200s",
+              "endTime": "67.200s",
+              "word": "çiçekler"
+            },
+            {
+              "startTime": "67.200s",
+              "endTime": "68.400s",
+              "word": "havuz"
+            },
+            {
+              "startTime": "68.400s",
+              "endTime": "68.800s",
+              "word": "ve"
+            },
+            {
+              "startTime": "68.800s",
+              "endTime": "69.200s",
+              "word": "pek"
+            },
+            {
+              "startTime": "69.200s",
+              "endTime": "69.400s",
+              "word": "çok"
+            },
+            {
+              "startTime": "69.400s",
+              "endTime": "69.700s",
+              "word": "yılan"
+            },
+            {
+              "startTime": "69.700s",
+              "endTime": "70.300s",
+              "word": "görmüş"
+            },
+            {
+              "startTime": "70.300s",
+              "endTime": "71.600s",
+              "word": "uzun"
+            },
+            {
+              "startTime": "71.600s",
+              "endTime": "71.900s",
+              "word": "yıllar"
+            },
+            {
+              "startTime": "71.900s",
+              "endTime": "72.500s",
+              "word": "burada"
+            },
+            {
+              "startTime": "72.500s",
+              "endTime": "73.200s",
+              "word": "yaşamış"
+            },
+            {
+              "startTime": "73.200s",
+              "endTime": "73.700s",
+              "word": "ve"
+            },
+            {
+              "startTime": "73.700s",
+              "endTime": "74.500s",
+              "word": "Şahmeran'ın"
+            },
+            {
+              "startTime": "74.500s",
+              "endTime": "75s",
+              "word": "Güvenini"
+            },
+            {
+              "startTime": "75s",
+              "endTime": "75.700s",
+              "word": "kazanmış"
+            },
+            {
+              "startTime": "75.700s",
+              "endTime": "77.200s",
+              "word": "yıllar"
+            },
+            {
+              "startTime": "77.200s",
+              "endTime": "77.600s",
+              "word": "sonra"
+            },
+            {
+              "startTime": "77.600s",
+              "endTime": "78.700s",
+              "word": "Ailesini"
+            },
+            {
+              "startTime": "78.700s",
+              "endTime": "78.900s",
+              "word": "çok"
+            },
+            {
+              "startTime": "78.900s",
+              "endTime": "79.600s",
+              "word": "özlediğini"
+            },
+            {
+              "startTime": "79.600s",
+              "endTime": "80s",
+              "word": "söyleyip"
+            },
+            {
+              "startTime": "80s",
+              "endTime": "80.600s",
+              "word": "gitmek"
+            },
+            {
+              "startTime": "80.600s",
+              "endTime": "80.800s",
+              "word": "için"
+            },
+            {
+              "startTime": "80.800s",
+              "endTime": "81.500s",
+              "word": "yalvarmış"
+            },
+            {
+              "startTime": "81.500s",
+              "endTime": "82.800s",
+              "word": "bunun"
+            },
+            {
+              "startTime": "82.800s",
+              "endTime": "83.200s",
+              "word": "üzerine"
+            },
+            {
+              "startTime": "83.200s",
+              "endTime": "83.800s",
+              "word": "Şahmeran"
+            },
+            {
+              "startTime": "83.800s",
+              "endTime": "84.800s",
+              "word": "kendisini"
+            },
+            {
+              "startTime": "84.800s",
+              "endTime": "85.100s",
+              "word": "salı"
+            },
+            {
+              "startTime": "85.100s",
+              "endTime": "85.700s",
+              "word": "vereceğini"
+            },
+            {
+              "startTime": "85.700s",
+              "endTime": "86.600s",
+              "word": "ancak"
+            },
+            {
+              "startTime": "86.600s",
+              "endTime": "87.200s",
+              "word": "yerini"
+            },
+            {
+              "startTime": "87.200s",
+              "endTime": "87.700s",
+              "word": "kimseye"
+            },
+            {
+              "startTime": "87.700s",
+              "endTime": "88.600s",
+              "word": "söylemeyeceğine"
+            },
+            {
+              "startTime": "88.600s",
+              "endTime": "89.100s",
+              "word": "dair"
+            },
+            {
+              "startTime": "89.100s",
+              "endTime": "89.600s",
+              "word": "söz"
+            },
+            {
+              "startTime": "89.600s",
+              "endTime": "90.300s",
+              "word": "vermesini"
+            },
+            {
+              "startTime": "90.300s",
+              "endTime": "90.900s",
+              "word": "istemiş"
+            },
+            {
+              "startTime": "90.900s",
+              "endTime": "92.600s",
+              "word": "Şahmeran'a"
+            },
+            {
+              "startTime": "92.600s",
+              "endTime": "92.800s",
+              "word": "söz"
+            },
+            {
+              "startTime": "92.800s",
+              "endTime": "93.200s",
+              "word": "verip"
+            },
+            {
+              "startTime": "93.200s",
+              "endTime": "93.900s",
+              "word": "ailesine"
+            },
+            {
+              "startTime": "93.900s",
+              "endTime": "94.300s",
+              "word": "kavuşan"
+            },
+            {
+              "startTime": "94.300s",
+              "endTime": "94.600s",
+              "word": "Cemşab"
+            },
+            {
+              "startTime": "95s",
+              "endTime": "95.700s",
+              "word": "uzun"
+            },
+            {
+              "startTime": "95.700s",
+              "endTime": "96.600s",
+              "word": "yıllar"
+            },
+            {
+              "startTime": "96.600s",
+              "endTime": "97.300s",
+              "word": "verdiği"
+            },
+            {
+              "startTime": "97.300s",
+              "endTime": "97.700s",
+              "word": "Sözde"
+            },
+            {
+              "startTime": "97.700s",
+              "endTime": "98.200s",
+              "word": "durarak"
+            },
+            {
+              "startTime": "98.200s",
+              "endTime": "99.100s",
+              "word": "Şahmeran'ın"
+            },
+            {
+              "startTime": "99.100s",
+              "endTime": "99.500s",
+              "word": "yerini"
+            },
+            {
+              "startTime": "99.500s",
+              "endTime": "100.100s",
+              "word": "kimseye"
+            },
+            {
+              "startTime": "100.100s",
+              "endTime": "100.800s",
+              "word": "söylememiş"
+            },
+            {
+              "startTime": "100.800s",
+              "endTime": "101.900s",
+              "word": "bir"
+            },
+            {
+              "startTime": "101.900s",
+              "endTime": "102.100s",
+              "word": "gün"
+            },
+            {
+              "startTime": "102.100s",
+              "endTime": "102.800s",
+              "word": "ülkenin"
+            },
+            {
+              "startTime": "102.800s",
+              "endTime": "103.500s",
+              "word": "padişahı"
+            },
+            {
+              "startTime": "103.500s",
+              "endTime": "104.200s",
+              "word": "hastalanmış"
+            },
+            {
+              "startTime": "104.200s",
+              "endTime": "105.500s",
+              "word": "ülkenin"
+            },
+            {
+              "startTime": "105.500s",
+              "endTime": "106s",
+              "word": "veziri"
+            },
+            {
+              "startTime": "106s",
+              "endTime": "106.900s",
+              "word": "hastalığın"
+            },
+            {
+              "startTime": "106.900s",
+              "endTime": "107.600s",
+              "word": "çaresinin"
+            },
+            {
+              "startTime": "107.600s",
+              "endTime": "108.600s",
+              "word": "Şahmeran'ın"
+            },
+            {
+              "startTime": "108.600s",
+              "endTime": "109s",
+              "word": "etini"
+            },
+            {
+              "startTime": "109s",
+              "endTime": "109.400s",
+              "word": "yemek"
+            },
+            {
+              "startTime": "109.400s",
+              "endTime": "109.700s",
+              "word": "olduğunu"
+            },
+            {
+              "startTime": "109.700s",
+              "endTime": "110.500s",
+              "word": "söylemiş"
+            },
+            {
+              "startTime": "110.500s",
+              "endTime": "110.800s",
+              "word": "ve"
+            },
+            {
+              "startTime": "110.800s",
+              "endTime": "111.100s",
+              "word": "her"
+            },
+            {
+              "startTime": "111.100s",
+              "endTime": "111.400s",
+              "word": "yere"
+            },
+            {
+              "startTime": "111.400s",
+              "endTime": "111.600s",
+              "word": "haber"
+            },
+            {
+              "startTime": "111.600s",
+              "endTime": "112.200s",
+              "word": "salınmış"
+            },
+            {
+              "startTime": "112.200s",
+              "endTime": "113.800s",
+              "word": "Cemşab"
+            },
+            {
+              "startTime": "113.800s",
+              "endTime": "114.500s",
+              "word": "kuyunun"
+            },
+            {
+              "startTime": "114.500s",
+              "endTime": "114.600s",
+              "word": "yerini"
+            },
+            {
+              "startTime": "114.600s",
+              "endTime": "115.400s",
+              "word": "söylemeye"
+            },
+            {
+              "startTime": "115.400s",
+              "endTime": "116.100s",
+              "word": "zorlanmış"
+            },
+            {
+              "startTime": "116.100s",
+              "endTime": "117.500s",
+              "word": "Cemşab"
+            },
+            {
+              "startTime": "117.500s",
+              "endTime": "118s",
+              "word": "mecbur"
+            },
+            {
+              "startTime": "118s",
+              "endTime": "118.300s",
+              "word": "kalıp"
+            },
+            {
+              "startTime": "118.300s",
+              "endTime": "118.800s",
+              "word": "kuyunun"
+            },
+            {
+              "startTime": "118.800s",
+              "endTime": "118.900s",
+              "word": "yerini"
+            },
+            {
+              "startTime": "118.900s",
+              "endTime": "119.800s",
+              "word": "gösterince"
+            }
+          ]
+        }
+      ],
+      "resultEndTime": "119.940s",
+      "languageCode": "tr-tr"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " kameram bulunup dışarı çıkarılmış Şahmaran cemşab A beni Toprak çanakta kaynatıp suyu mu vezire içir etimi de padişaha yedir demiş Böylece Vezir ölmüş Padişah da iyileşip Cem şapı Vezir yapmış Efsaneye göre Şahmaran\u0027ın öldürüldüğünü yılanlar o günden beri bilmemektedir Tarsus\u0027un Şahmaran\u0027ın öldürüldüğünü öğrenen yılanlar tarafından bir gün istila eden rivayet edilir",
+          "confidence": 0.89885837,
+          "words": [
+            {
+              "startTime": "119.900s",
+              "endTime": "121s",
+              "word": "Şahmeran"
+            },
+            {
+              "startTime": "121s",
+              "endTime": "121.500s",
+              "word": "bulunup"
+            },
+            {
+              "startTime": "121.500s",
+              "endTime": "121.900s",
+              "word": "dışarı"
+            },
+            {
+              "startTime": "121.900s",
+              "endTime": "122.500s",
+              "word": "çıkarılmış"
+            },
+            {
+              "startTime": "122.500s",
+              "endTime": "124.200s",
+              "word": "Şahmeran"
+            },
+            {
+              "startTime": "124.200s",
+              "endTime": "124.800s",
+              "word": "Cemşab'a"
+            },
+            {
+              "startTime": "124.800s",
+              "endTime": "126.500s",
+              "word": "beni"
+            },
+            {
+              "startTime": "126.500s",
+              "endTime": "127.100s",
+              "word": "Toprak"
+            },
+            {
+              "startTime": "127.100s",
+              "endTime": "127.600s",
+              "word": "çanakta"
+            },
+            {
+              "startTime": "127.600s",
+              "endTime": "128.400s",
+              "word": "kaynatıp"
+            },
+            {
+              "startTime": "128.400s",
+              "endTime": "129.300s",
+              "word": "suyumu"
+            },
+            {
+              "startTime": "129.300s",
+              "endTime": "129.800s",
+              "word": "vezire"
+            },
+            {
+              "startTime": "129.800s",
+              "endTime": "130.300s",
+              "word": "içir"
+            },
+            {
+              "startTime": "130.300s",
+              "endTime": "131.700s",
+              "word": "etimi"
+            },
+            {
+              "startTime": "131.700s",
+              "endTime": "131.900s",
+              "word": "de"
+            },
+            {
+              "startTime": "131.900s",
+              "endTime": "132.800s",
+              "word": "padişaha"
+            },
+            {
+              "startTime": "132.800s",
+              "endTime": "133.200s",
+              "word": "yedir"
+            },
+            {
+              "startTime": "133.200s",
+              "endTime": "134s",
+              "word": "demiş"
+            },
+            {
+              "startTime": "134s",
+              "endTime": "135.200s",
+              "word": "Böylece"
+            },
+            {
+              "startTime": "135.200s",
+              "endTime": "136s",
+              "word": "Vezir"
+            },
+            {
+              "startTime": "136s",
+              "endTime": "136.500s",
+              "word": "ölmüş"
+            },
+            {
+              "startTime": "136.500s",
+              "endTime": "137.600s",
+              "word": "Padişah"
+            },
+            {
+              "startTime": "137.600s",
+              "endTime": "137.800s",
+              "word": "da"
+            },
+            {
+              "startTime": "137.800s",
+              "endTime": "138.400s",
+              "word": "iyileşip"
+            },
+            {
+              "startTime": "138.400s",
+              "endTime": "139.400s",
+              "word": "Cemşab'ı"
+            },
+            {
+              "startTime": "139.400s",
+              "endTime": "140.100s",
+              "word": "Vezir"
+            },
+            {
+              "startTime": "140.100s",
+              "endTime": "140.600s",
+              "word": "yapmış"
+            },
+            {
+              "startTime": "140.600s",
+              "endTime": "142.400s",
+              "word": "Efsaneye"
+            },
+            {
+              "startTime": "142.400s",
+              "endTime": "142.600s",
+              "word": "göre"
+            },
+            {
+              "startTime": "142.600s",
+              "endTime": "143.800s",
+              "word": "Şahmaran'ın"
+            },
+            {
+              "startTime": "143.800s",
+              "endTime": "144s",
+              "word": "öldürüldüğünü"
+            },
+            {
+              "startTime": "144s",
+              "endTime": "145.800s",
+              "word": "yılanlar"
+            },
+            {
+              "startTime": "145.800s",
+              "endTime": "145.900s",
+              "word": "o"
+            },
+            {
+              "startTime": "145.900s",
+              "endTime": "146.400s",
+              "word": "günden"
+            },
+            {
+              "startTime": "146.400s",
+              "endTime": "146.600s",
+              "word": "beri"
+            },
+            {
+              "startTime": "146.600s",
+              "endTime": "148.300s",
+              "word": "bilmemektedir"
+            },
+            {
+              "startTime": "148.300s",
+              "endTime": "149.900s",
+              "word": "Tarsus'un"
+            },
+            {
+              "startTime": "149.900s",
+              "endTime": "151.200s",
+              "word": "Şahmeran'ın"
+            },
+            {
+              "startTime": "151.200s",
+              "endTime": "151.300s",
+              "word": "öldürüldüğünü"
+            },
+            {
+              "startTime": "151.300s",
+              "endTime": "152.600s",
+              "word": "öğrenen"
+            },
+            {
+              "startTime": "152.600s",
+              "endTime": "153.300s",
+              "word": "yılanlar"
+            },
+            {
+              "startTime": "153.300s",
+              "endTime": "153.600s",
+              "word": "tarafından"
+            },
+            {
+              "startTime": "153.600s",
+              "endTime": "154.700s",
+              "word": "bir"
+            },
+            {
+              "startTime": "154.700s",
+              "endTime": "155s",
+              "word": "gün"
+            },
+            {
+              "startTime": "155s",
+              "endTime": "155.600s",
+              "word": "istila"
+            },
+            {
+              "startTime": "155.600s",
+              "endTime": "155.900s",
+              "word": "edileceği"
+            },
+            {
+              "startTime": "155.900s",
+              "endTime": "157.600s",
+              "word": "rivayet"
+            },
+            {
+              "startTime": "157.600s",
+              "endTime": "158.100s",
+              "word": "edilir"
+            }
+          ]
+        }
+      ],
+      "resultEndTime": "158.550s",
+      "languageCode": "tr-tr"
+    }
+  ]
+}

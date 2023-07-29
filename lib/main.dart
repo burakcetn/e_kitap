@@ -10,6 +10,7 @@ import 'app/data/models/user_model.dart';
 import 'app/routes/app_pages.dart';
 import 'config/theme/my_theme.dart';
 import 'config/translations/localization_service.dart';
+import 'drawer.dart';
 import 'utils/fcm_helper.dart';
 
 Future<void> main() async {

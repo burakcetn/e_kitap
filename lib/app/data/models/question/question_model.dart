@@ -2,7 +2,8 @@ class QuestionModel {
   List<QuestionWrapModel> questions = [];
   String title;
   String quizKey = "";
-  QuestionModel(this.title, this.quizKey);
+  int type = 0;
+  QuestionModel(this.title, this.quizKey, {this.type = 0});
   int nextOrder = 1;
   void add(QuestionWrapModel question) {
     question.order = nextOrder;
