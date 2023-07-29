@@ -12,12 +12,13 @@ class BookModel {
   String bookPath;
   String audioPath;
   String imagePath;
-
+  String question;
   BookModel({
     required this.name,
     required this.bookPath,
     required this.audioPath,
     required this.imagePath,
+    required this.question,
   });
 
   factory BookModel.fromJson(Map<String, dynamic> json) => BookModel(
@@ -25,6 +26,7 @@ class BookModel {
         bookPath: json["bookPath"],
         audioPath: json["audioPath"],
         imagePath: json["imagePath"],
+        question: json["question"],
       );
 
   Map<String, dynamic> toJson() => {
@@ -32,5 +34,6 @@ class BookModel {
         "bookPath": bookPath,
         "audioPath": audioPath,
         "imagePath": imagePath,
+        "question": question,
       };
 }

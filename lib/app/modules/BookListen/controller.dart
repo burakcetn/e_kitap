@@ -1,22 +1,11 @@
 import 'dart:async';
-import 'dart:convert';
 
-import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:get/get.dart';
-import 'package:flutter/services.dart' show rootBundle;
-import 'package:getx_skeleton/app/components/custom_snackbar.dart';
 import 'package:getx_skeleton/app/data/models/sub_title.dart';
-import 'package:logger/logger.dart';
-import '../../data/books.dart';
-import '../../data/models/book_model.dart';
 import '../../data/models/books/word_model.dart';
-import 'constants.dart';
 import 'index.dart';
 import 'package:audioplayers/audioplayers.dart';
-import 'package:flutter_dialogs/flutter_dialogs.dart';
-import 'package:google_fonts/google_fonts.dart';
 
 class BooklistenController extends GetxController {
   RxList<InlineSpan> words = RxList.empty();
@@ -101,7 +90,8 @@ class BooklistenController extends GetxController {
 
   Future<void> play(BookManager bookName, context) async {
     currentBook = bookName;
-    audioPlayer.play(AssetSource(bookName.book.audioPath));
+    audioPlayer.seek(0.milliseconds);
+    audioPlayer.setSource(AssetSource(bookName.book.audioPath));
   }
 
   void setBook(BookManager book) {

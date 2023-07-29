@@ -1,5 +1,6 @@
 import 'package:get/get.dart';
 import 'package:getx_skeleton/app/data/books.dart';
+import 'package:getx_skeleton/app/data/models/question/question_model.dart';
 import 'package:getx_skeleton/app/routes/app_pages.dart';
 
 import '../data/models/book_model.dart';
@@ -21,6 +22,7 @@ class BookService {
   RxString currentImage = RxString("assets/images/akdamar.jpg");
   List<BookManager> getManagers() => managers;
   init() async {
+    QuestionManager.instance.load();
     max.value = bookList.length;
     int i = 0;
     for (var element in bookList) {

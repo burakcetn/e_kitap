@@ -9,6 +9,7 @@ import '../../data/models/books/word_model.dart';
 import '../../data/models/question/question_model.dart';
 import '../question_view.dart';
 import 'index.dart';
+import 'widgets/player_widget.dart';
 
 class BooklistenPage extends GetView<BooklistenController> {
   const BooklistenPage({Key? key}) : super(key: key);
@@ -17,7 +18,7 @@ class BooklistenPage extends GetView<BooklistenController> {
   Widget build(BuildContext context) {
     BookManager book = Get.arguments as BookManager;
     controller.setBook(book);
-
+    controller.play(book, context);
     return GetBuilder<BooklistenController>(
       builder: (_) {
         return WillPopScope(
@@ -32,10 +33,10 @@ class BooklistenPage extends GetView<BooklistenController> {
                   children: [
                     Expanded(child: Text(book.getName())),
                     IconButton(
-                      onPressed: () {
-                        QuestionManager().load();
-                        Get.to(
-                          QuestionView(QuestionManager.instance.quiz.last),
+                      onPressed: () async {
+                        QuestionManager.instance.clear();
+                        await Get.to(
+                          QuestionView(book),
                         );
                       },
                       icon: Icon(Icons.question_mark_outlined),
@@ -68,34 +69,9 @@ class BooklistenPage extends GetView<BooklistenController> {
               ),
             ),
             bottomNavigationBar: Container(
-              height: 40,
-              child: Row(
-                children: [
-                  Obx(
-                    () => IconButton(
-                      icon: Icon(controller.isPlaying.value
-                          ? Icons.pause
-                          : Icons.play_arrow),
-                      onPressed: () {
-                        controller.playOrPaue();
-                      },
-                    ),
-                  ),
-                  // Expanded(
-                  //   child: Obx(() => SquigglySlider(
-                  //         value: controller.currentPosition.value,
-                  //         min: 0,
-                  //         max: controller.maxPosition.value.toDouble(),
-                  //         squiggleAmplitude: controller.isPlaying.value ? 3 : 0,
-                  //         squiggleWavelength: 5,
-                  //         squiggleSpeed: 0.2,
-                  //         label: 'Amplitude',
-                  //         onChanged: (double value) {},
-                  //       )),
-                  // )
-                ],
-              ),
-            ),
+                child: PlayerWidget(
+              player: controller.audioPlayer,
+            )),
           ),
         );
       },

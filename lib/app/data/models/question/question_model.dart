@@ -9,6 +9,11 @@ class QuestionModel {
     question.order = nextOrder;
     nextOrder++;
     questions.add(question);
+
+    if (type == 1) {
+      question.question += "~~{answer}";
+    }
+    question.type = type;
   }
 
   void clear() {
@@ -23,6 +28,7 @@ class QuestionWrapModel {
   String value;
   bool isOkey = false;
   int order = 0;
+  int type = 0;
   QuestionWrapModel(this.question, this.value);
 }
 
@@ -34,6 +40,7 @@ class QuestionManager {
   }
   List<QuestionModel> quiz = [];
   void load() {
+    quiz.clear();
     QuestionModel model = QuestionModel("Ağrı Dağı Efsanesi", "quiz1");
     quiz.add(model);
     model.add(
@@ -67,6 +74,7 @@ class QuestionManager {
       ),
     );
     model = QuestionModel("Ağrı Dağı Efsanesi", "quiz1", type: 1);
+    quiz.add(model);
     model.add(
       QuestionWrapModel(
         "foothil of the mountain",
@@ -118,6 +126,7 @@ class QuestionManager {
 
     model = QuestionModel("AkcaKoca Denizkızı Efsanesi", "quiz2");
     quiz.add(model);
+    quiz.add(model);
     model.add(
       QuestionWrapModel(
         "Öğretmen sınav tarihini henüz {answer}.",
@@ -150,6 +159,7 @@ class QuestionManager {
     );
 
     model = QuestionModel("AkcaKoca Denizkızı Efsanesi", "quiz2", type: 1);
+    quiz.add(model);
     model.add(
       QuestionWrapModel(
         "weirdness",
@@ -220,6 +230,7 @@ class QuestionManager {
           "Kullandığı bitkiler sayesinde cildi {answer}.", "güzelliğe boğdu"),
     );
     model = QuestionModel("Pamukkale Efsanesi", "quiz3", type: 1);
+    quiz.add(model);
     model.add(
       QuestionWrapModel(
         "spa",
@@ -284,6 +295,7 @@ class QuestionManager {
     );
 
     model = QuestionModel("Şahmeran", "quiz4", type: 1);
+    quiz.add(model);
     model.add(
       QuestionWrapModel(
         "to beg",
@@ -354,6 +366,7 @@ class QuestionManager {
     );
 
     model = QuestionModel("Kıztaşı", "quiz5", type: 1);
+    quiz.add(model);
     model.add(
       QuestionWrapModel(
         "miserable",
@@ -429,6 +442,7 @@ class QuestionManager {
     );
 
     model = QuestionModel("Sarıkız Efsanesi", "quiz6", type: 1);
+    quiz.add(model);
     model.add(
       QuestionWrapModel(
         "yard",
@@ -506,6 +520,7 @@ class QuestionManager {
     );
 
     model = QuestionModel("Ses Çıkarmayan Kurbağalar", "quiz7", type: 1);
+    quiz.add(model);
     model.add(
       QuestionWrapModel(
         "friend",
@@ -566,6 +581,7 @@ class QuestionManager {
     );
 
     model = QuestionModel("Akdamar Adası", "quiz8", type: 1);
+    quiz.add(model);
     model.add(
       QuestionWrapModel(
         "waves",
@@ -636,6 +652,7 @@ class QuestionManager {
     );
 
     model = QuestionModel("Cumalıkızık-Cin Aralığı", "quiz9", type: 1);
+    quiz.add(model);
     model.add(
       QuestionWrapModel(
         "dead end",
@@ -694,6 +711,7 @@ class QuestionManager {
     );
 
     model = QuestionModel("Arap Baba", "quiz10", type: 1);
+    quiz.add(model);
     model.add(
       QuestionWrapModel(
         "religion",
@@ -804,6 +822,7 @@ class QuestionManager {
     );
 
     model = QuestionModel("Ulu Burnu", "quiz12", type: 1);
+    quiz.add(model);
     model.add(
       QuestionWrapModel(
         "bay",
@@ -876,6 +895,7 @@ class QuestionManager {
     );
 
     model = QuestionModel("Ayakbastı Mevki", "quiz13", type: 1);
+    quiz.add(model);
     model.add(
       QuestionWrapModel(
         "distance",
@@ -935,6 +955,7 @@ class QuestionManager {
     );
 
     model = QuestionModel("Aynalı Mağara Efsanesi", "quiz14", type: 1);
+    quiz.add(model);
     model.add(
       QuestionWrapModel(
         "call",
@@ -984,6 +1005,7 @@ class QuestionManager {
     );
 
     model = QuestionModel("Munzur Baba", "quiz15", type: 1);
+    quiz.add(model);
     model.add(
       QuestionWrapModel(
         "while",
@@ -1052,6 +1074,7 @@ class QuestionManager {
     );
 
     model = QuestionModel("Söylemez Baba", "quiz16", type: 1);
+    quiz.add(model);
     model.add(
       QuestionWrapModel(
         "sack",
@@ -1125,6 +1148,7 @@ class QuestionManager {
     );
 
     model = QuestionModel("Çeç dağı", "quiz17", type: 1);
+    quiz.add(model);
     model.add(
       QuestionWrapModel(
         "farmer",
@@ -1198,6 +1222,7 @@ class QuestionManager {
     );
 
     model = QuestionModel("Yusufçuk kuşu", "quiz18", type: 1);
+    quiz.add(model);
     model.add(
       QuestionWrapModel(
         "motif",
@@ -1266,6 +1291,7 @@ class QuestionManager {
     );
 
     model = QuestionModel("Balıklı Göl ve İğde Ağacı", "quiz19", type: 1);
+    quiz.add(model);
     model.add(
       QuestionWrapModel(
         "catapult",
@@ -1320,6 +1346,7 @@ class QuestionManager {
     );
 
     model = QuestionModel("Çifte Minareli Medrese", "quiz20", type: 1);
+    quiz.add(model);
     model.add(
       QuestionWrapModel(
         "pride",
@@ -1368,5 +1395,15 @@ class QuestionManager {
         "incinmek",
       ),
     );
+  }
+
+  List<QuestionModel> getQuiz(String question) {
+    return quiz.where((element) => element.quizKey == question).toList();
+  }
+
+  void clear() {
+    quiz.forEach((element) {
+      element.clear();
+    });
   }
 }
