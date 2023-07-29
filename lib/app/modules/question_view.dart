@@ -12,6 +12,7 @@ class QuestionView extends StatelessWidget {
     model.clear();
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: Colors.deepPurpleAccent,
         title: Text(model.title),
       ),
       body: SafeArea(
@@ -76,6 +77,35 @@ class QuestionView extends StatelessWidget {
               children: [
                 ...model.questions.map((e) => drawQuestion(e)).toList(),
               ],
+            ),
+            Align(
+              alignment: Alignment.bottomRight,
+              child: Container(
+                margin: EdgeInsets.all(12),
+                padding: EdgeInsets.symmetric(vertical: 8, horizontal: 16),
+                decoration: BoxDecoration(
+                  color: Colors.deepPurpleAccent,
+                  borderRadius: BorderRadius.circular(15),
+                  boxShadow: [
+                    BoxShadow(
+                      color: Colors.black.withOpacity(0.3),
+                      blurRadius: 10,
+                    ),
+                    BoxShadow(
+                      color: Colors.black.withOpacity(0.3),
+                      spreadRadius: -2,
+                      blurRadius: 5,
+                    ),
+                  ],
+                ),
+                child: Text(
+                  "Devam Et",
+                  style: Theme.of(context)
+                      .textTheme
+                      .labelLarge
+                      ?.copyWith(color: Colors.white),
+                ),
+              ),
             )
           ],
         ),

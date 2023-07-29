@@ -27,20 +27,22 @@ class BooklistenPage extends GetView<BooklistenController> {
           },
           child: Scaffold(
             appBar: AppBar(
+                backgroundColor: Colors.deepPurpleAccent,
                 title: Row(
-              children: [
-                Expanded(child: Text(book.getName())),
-                IconButton(
-                  onPressed: () => Get.to(
-                    QuestionView(QuestionManager.instance.quiz.last),
-                  ),
-                  icon: Icon(Icons.question_mark_outlined),
-                ),
-              ],
-            )),
+                  children: [
+                    Expanded(child: Text(book.getName())),
+                    IconButton(
+                      onPressed: () => Get.to(
+                        QuestionView(QuestionManager.instance.quiz.last),
+                      ),
+                      icon: Icon(Icons.question_mark_outlined),
+                    ),
+                  ],
+                )),
             body: SafeArea(
               child: Padding(
-                padding: const EdgeInsets.symmetric(horizontal: 15),
+                padding:
+                    const EdgeInsets.symmetric(horizontal: 15, vertical: 12),
                 child: Stack(
                   children: [
                     Positioned.fill(

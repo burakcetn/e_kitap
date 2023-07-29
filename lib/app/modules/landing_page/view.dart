@@ -57,10 +57,17 @@ class LandingPagePage extends GetView<LandingPageController> {
                             bottomLeft: Radius.circular(15),
                             bottomRight: Radius.circular(15),
                           ),
-                          color: Colors.grey.withOpacity(0.7),
+                          color: Colors.grey.withOpacity(0.8),
                         ),
                         child: Center(
-                          child: Text(book.getName()),
+                          child: Text(
+                            book.getName(),
+                            style: Theme.of(context)
+                                .textTheme
+                                .titleLarge
+                                ?.copyWith(color: Colors.white),
+                            textAlign: TextAlign.center,
+                          ),
                         ),
                       )
                     ]),
@@ -77,6 +84,7 @@ class LandingPagePage extends GetView<LandingPageController> {
         return Scaffold(
           appBar: AppBar(
             title: Text("Dil Uygulaması"),
+            backgroundColor: Colors.deepPurpleAccent,
           ),
           body: SafeArea(
             child: _buildView(),

@@ -14,7 +14,9 @@ class LoadingbookPage extends GetView<LoadingbookController> {
     return GetBuilder<LoadingbookController>(
       builder: (_) {
         return Scaffold(
-          appBar: AppBar(title: const Text("loadingbook")),
+          appBar: AppBar(
+            backgroundColor: Colors.deepPurpleAccent,
+          ),
           body: SafeArea(
             child: Stack(
               children: [
@@ -35,6 +37,10 @@ class LoadingbookPage extends GetView<LoadingbookController> {
                         Obx(
                           () => Text(
                             "${BookService.instance.current.value}/100",
+                            style: TextStyle(
+                                fontSize: 26,
+                                fontWeight: FontWeight.bold,
+                                color: Colors.deepPurpleAccent),
                           ),
                         ),
                         SizedBox(),
