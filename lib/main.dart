@@ -43,7 +43,7 @@ Future<void> main() async {
       builder: (context, widget) {
         return GetMaterialApp(
           // todo add your app name
-          title: "Servis Hane",
+          title: "SesliBiDil: Türkçe Öğren",
           useInheritedMediaQuery: true,
           debugShowCheckedModeBanner: false,
           builder: (context, widget) {

@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:dropdown_button2/dropdown_button2.dart';
+import 'package:google_fonts/google_fonts.dart';
 import 'package:squiggly_slider/slider.dart';
 
 import '../../data/books.dart';
@@ -31,15 +32,26 @@ class BooklistenPage extends GetView<BooklistenController> {
                 backgroundColor: Colors.deepPurpleAccent,
                 title: Row(
                   children: [
-                    Expanded(child: Text(book.getName())),
-                    IconButton(
-                      onPressed: () async {
+                    Expanded(
+                      child: Text(
+                        book.getName(),
+                        style: GoogleFonts.openSans(fontSize: 16),
+                      ),
+                    ),
+                    GestureDetector(
+                      onTap: () async {
                         QuestionManager.instance.clear();
                         await Get.to(
                           QuestionView(book),
                         );
                       },
-                      icon: Icon(Icons.question_mark_outlined),
+                      child: Text(
+                        "Kendini Sına",
+                        style: GoogleFonts.openSans(
+                          fontSize: 16,
+                          fontWeight: FontWeight.bold,
+                        ),
+                      ),
                     ),
                   ],
                 )),

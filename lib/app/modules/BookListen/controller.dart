@@ -42,7 +42,7 @@ class BooklistenController extends GetxController {
     var seconds = duration.inMilliseconds;
     currentPosition.value = seconds.toDouble();
     currentPosition.update((val) {});
-    currentBook?.wordWrap(seconds);
+    currentBook?.wordWrap(seconds, audioPlayer);
     //
     //
     // wordWrap(currentPositionx);

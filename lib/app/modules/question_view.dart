@@ -1,19 +1,29 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
+import 'package:google_fonts/google_fonts.dart';
 import '../data/models/books/word_model.dart';
 import '../data/models/question/question_model.dart';
 
-class QuestionView extends StatelessWidget {
+class QuestionView extends StatefulWidget {
   const QuestionView(this.model, {Key? key}) : super(key: key);
   final BookManager model;
+
+  @override
+  State<QuestionView> createState() => _QuestionViewState();
+}
+
+class _QuestionViewState extends State<QuestionView> {
   @override
   Widget build(BuildContext context) {
     List<QuestionModel> quizList =
-        QuestionManager.instance.getQuiz(model.book.question);
+        QuestionManager.instance.getQuiz(widget.model.book.question);
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.deepPurpleAccent,
-        title: Text(model.getName()),
+        title: Text(
+          "${widget.model.getName()} Alıştırmaları",
+          style: GoogleFonts.openSans(fontSize: 16),
+        ),
       ),
       body: SafeArea(
         child: ListView.builder(
@@ -51,37 +61,67 @@ class QuestionView extends StatelessWidget {
                   child: Wrap(
                       alignment: WrapAlignment.start,
                       crossAxisAlignment: WrapCrossAlignment.start,
-                      children: model.questions
-                          .map(
-                            (e) => Padding(
-                              padding: const EdgeInsets.all(3.0),
-                              child: Draggable(
-                                data: e,
+                      children: model.questions.map(
+                        (e) {
+                          var len = e.value.length;
+                          if (len < 7) len = 7;
+                          return Draggable(
+                            data: e,
+                            child: Container(
+                              padding: EdgeInsets.all(5),
+                              child: ClipRRect(
+                                borderRadius:
+                                    BorderRadius.all(Radius.circular(12)),
                                 child: Container(
-                                  width: 120,
-                                  height: 40,
+                                  width: len * 10,
+                                  height: 30,
                                   decoration: BoxDecoration(
-                                    borderRadius: BorderRadius.circular(15),
-                                    border: Border.all(color: Colors.black),
+                                    color: e.isOkey
+                                        ? Colors.green
+                                        : Colors.grey.shade200,
                                   ),
-                                  child: Center(child: Text(e.value)),
-                                ),
-                                feedback: Material(
-                                  child: Container(
-                                    height: 80,
-                                    width: 100,
-                                    decoration: BoxDecoration(
-                                      borderRadius: BorderRadius.circular(15),
-                                      border: Border.all(color: Colors.black),
-                                      color: Colors.amber,
-                                    ),
-                                    child: Center(child: Text(e.value)),
-                                  ),
+                                  child: Center(
+                                      child: Text(e.value,
+                                          style: GoogleFonts.openSans(
+                                              color: e.isOkey
+                                                  ? Colors.white
+                                                  : Colors.black,
+                                              fontWeight: FontWeight.w500)
+                                          //textScaleFactor: 2,
+                                          )),
                                 ),
                               ),
                             ),
-                          )
-                          .toList()),
+                            feedback: Material(
+                                color: Colors.transparent,
+                                child: Container(
+                                  padding: EdgeInsets.all(5),
+                                  child: ClipRRect(
+                                    borderRadius:
+                                        BorderRadius.all(Radius.circular(12)),
+                                    child: Container(
+                                      width: len * 10,
+                                      height: 30,
+                                      decoration: BoxDecoration(
+                                        color: e.isOkey
+                                            ? Colors.green
+                                            : Colors.grey.shade200,
+                                      ),
+                                      child: Center(
+                                          child: Text(e.value,
+                                              style: GoogleFonts.openSans(
+                                                  color: e.isOkey
+                                                      ? Colors.white
+                                                      : Colors.black,
+                                                  fontWeight: FontWeight.w500)
+                                              //textScaleFactor: 2,
+                                              )),
+                                    ),
+                                  ),
+                                )),
+                          );
+                        },
+                      ).toList()),
                 ),
                 SizedBox(height: 40),
                 Column(
@@ -105,121 +145,181 @@ class QuestionView extends StatelessWidget {
       margin: EdgeInsets.only(bottom: 20),
       child: Wrap(
         children: [
-          Text(
-            "${item.order.toString()}. ",
-            style: TextStyle(
-              fontWeight: FontWeight.w900,
-            ),
-          ),
           item.type == 0
               ? Wrap(
-                  children: item.question.split(" ").map(
-                    (e) {
-                      if (e == "{answer}" || e == "{answer}.") {
-                        return DragTarget<QuestionWrapModel>(
-                          builder: (
-                            BuildContext context,
-                            List<dynamic> accepted,
-                            List<dynamic> rejected,
-                          ) {
-                            return Container(
-                              color: Colors.white,
-                              child: ClipRRect(
-                                borderRadius:
-                                    BorderRadius.all(Radius.circular(12)),
-                                child: Container(
-                                  width: 100,
-                                  color: item.isOkey ? Colors.green : null,
-                                  child: Center(
-                                      child: Text(
-                                    !item.isOkey
-                                        ? "................."
-                                        : '${item.value}',
-                                    //textScaleFactor: 2,
-                                  )),
+                  spacing: 4,
+                  children: [
+                    Container(
+                      height: 30,
+                      width: 2 * 10,
+                      alignment: Alignment.center,
+                      child: Text(
+                        "${item.order.toString()}.",
+                        style:
+                            GoogleFonts.openSans(fontWeight: FontWeight.bold),
+                        //textScaleFactor: 2,
+                      ),
+                    ),
+                    ...item.question.split(" ").map(
+                      (e) {
+                        if (e == "{answer}" || e == "{answer}.") {
+                          return DragTarget<QuestionWrapModel>(
+                            builder: (
+                              BuildContext context,
+                              List<dynamic> accepted,
+                              List<dynamic> rejected,
+                            ) {
+                              return Container(
+                                color: Colors.white,
+                                child: ClipRRect(
+                                  borderRadius:
+                                      BorderRadius.all(Radius.circular(12)),
+                                  child: Container(
+                                    width: ((!item.isOkey
+                                                    ? "---------"
+                                                    : item.value)
+                                                .trim())
+                                            .length *
+                                        10,
+                                    height: 30,
+                                    decoration: BoxDecoration(
+                                      color: item.isOkey
+                                          ? Colors.green
+                                          : Colors.grey.shade200,
+                                    ),
+                                    child: Center(
+                                        child: Text(
+                                      !item.isOkey
+                                          ? "---------"
+                                          : '${item.value}',
+                                      style: GoogleFonts.openSans(
+                                          color: item.isOkey
+                                              ? Colors.white
+                                              : Colors.black,
+                                          fontWeight: FontWeight.w500),
+                                      //textScaleFactor: 2,
+                                    )),
+                                  ),
                                 ),
-                              ),
-                            );
-                          },
-                          onAccept: (data) {
-                            debugPrint('hi $data');
-                            //Get.snackbar('Tebrikler', "");
-                            item.isOkey = true;
-                          },
-                          onWillAccept: (data) {
-                            return item.value == data?.value;
-                          },
-                          onLeave: (data) {
-                            // Get.snackbar("Tekrar dene!", "");
-                          },
-                        );
-                      } else {
-                        return Container(
-                          height: 20,
-                          child: Text(
-                            " $e ",
-                            textAlign: TextAlign.center,
-                            style: TextStyle(),
-                          ),
-                        );
-                      }
-                    },
-                  ).toList(),
+                              );
+                            },
+                            onAccept: (data) {
+                              setState(() {});
+                              item.isOkey = true;
+                            },
+                            onWillAccept: (data) {
+                              return item.value == data?.value;
+                            },
+                            onLeave: (data) {
+                              // Get.snackbar("Tekrar dene!", "");
+                            },
+                          );
+                        } else {
+                          return Container(
+                            height: 30,
+                            width: e.length * 9.50,
+                            alignment: Alignment.centerLeft,
+                            child: Text(
+                              e.trim(),
+                              style: GoogleFonts.openSans(),
+                              //textScaleFactor: 2,
+                            ),
+                          );
+                        }
+                      },
+                    ).toList()
+                  ],
                 )
               : Row(
-                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                  children: item.question.split("~~").map(
-                    (e) {
-                      if (e == "{answer}" || e == "{answer}.") {
-                        return DragTarget<QuestionWrapModel>(
-                          builder: (
-                            BuildContext context,
-                            List<dynamic> accepted,
-                            List<dynamic> rejected,
-                          ) {
-                            return Container(
+                  mainAxisAlignment: MainAxisAlignment.start,
+                  children: [
+                    Container(
+                      height: 30,
+                      width: 2 * 10,
+                      child: Text(
+                        "${item.order.toString()}.",
+                        style:
+                            GoogleFonts.openSans(fontWeight: FontWeight.bold),
+                        //textScaleFactor: 2,
+                      ),
+                    ),
+                    ...item.question.split("~~").map(
+                      (e) {
+                        if (e == "{answer}" || e == "{answer}.") {
+                          return DragTarget<QuestionWrapModel>(
+                            builder: (
+                              BuildContext context,
+                              List<dynamic> accepted,
+                              List<dynamic> rejected,
+                            ) {
+                              var len =
+                                  ((!item.isOkey ? "---------" : item.value)
+                                          .trim())
+                                      .length;
+                              if (len < 9) len = 10;
+                              return Container(
+                                color: Colors.white,
+                                child: ClipRRect(
+                                  borderRadius:
+                                      BorderRadius.all(Radius.circular(12)),
+                                  child: Container(
+                                    width: len * 9,
+                                    height: 30,
+                                    decoration: BoxDecoration(
+                                      color: item.isOkey
+                                          ? Colors.green
+                                          : Colors.grey.shade200,
+                                    ),
+                                    child: Center(
+                                        child: Text(
+                                            !item.isOkey
+                                                ? "---------"
+                                                : '${item.value}',
+                                            style: GoogleFonts.openSans(
+                                                color: item.isOkey
+                                                    ? Colors.white
+                                                    : Colors.black,
+                                                fontWeight: FontWeight.w500)
+                                            //textScaleFactor: 2,
+                                            )),
+                                  ),
+                                ),
+                              );
+                            },
+                            onAccept: (data) {
+                              debugPrint('hi $data');
+                              //Get.snackbar('Tebrikler', "");
+                              item.isOkey = true;
+                              setState(() {});
+                            },
+                            onWillAccept: (data) {
+                              return item.value == data?.value;
+                            },
+                            onLeave: (data) {
+                              // Get.snackbar("Tekrar dene!", "");
+                            },
+                          );
+                        } else {
+                          return Expanded(
+                            child: Container(
                               color: Colors.white,
                               child: ClipRRect(
-                                borderRadius:
-                                    BorderRadius.all(Radius.circular(12)),
                                 child: Container(
-                                  width: 200,
-                                  color: item.isOkey ? Colors.green : null,
-                                  child: Center(
-                                      child: Text(
-                                    !item.isOkey
-                                        ? ".............................................................."
-                                        : '${item.value}',
-                                    //textScaleFactor: 2,
-                                  )),
+                                  width: "---------".length * 10,
+                                  height: 30,
+                                  child: Text(
+                                    e.trim(),
+                                    textAlign: TextAlign.start,
+                                    style: GoogleFonts.openSans(),
+                                  ),
                                 ),
                               ),
-                            );
-                          },
-                          onAccept: (data) {
-                            debugPrint('hi $data');
-                            //Get.snackbar('Tebrikler', "");
-                            item.isOkey = true;
-                          },
-                          onWillAccept: (data) {
-                            return item.value == data?.value;
-                          },
-                          onLeave: (data) {
-                            // Get.snackbar("Tekrar dene!", "");
-                          },
-                        );
-                      } else {
-                        return Container(
-                          height: 20,
-                          child: Text(
-                            " $e ",
-                            textAlign: TextAlign.center,
-                            style: TextStyle(),
-                          ),
-                        );
-                      }
-                    },
-                  ).toList(),
+                            ),
+                          );
+                        }
+                      },
+                    ).toList()
+                  ],
                 )
         ],
       ),

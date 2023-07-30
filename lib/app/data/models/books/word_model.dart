@@ -1,5 +1,6 @@
 import 'dart:convert';
 
+import 'package:audioplayers/audioplayers.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';
@@ -28,12 +29,11 @@ class BookManager {
   Future<void> load() async {
     try {
       Logger().i(book.name);
-
       var jsonText = await rootBundle.loadString(book.bookPath);
       final jsonResult = jsonDecode(jsonText);
       current = Subtitle.fromJson(jsonResult);
       getWords();
-      wordWrap(0);
+      wordWrap(0, audioPlayer);
     } catch (e) {
       Logger().d(e);
     }
@@ -78,16 +78,19 @@ class BookManager {
     setText();
   }
 
-  void ontapWord(Word word) {
+  Future<void> ontapWord(Word word) async {
     var item = getSpell(word, nextStep: true);
     if (item != null) {
-      Get.defaultDialog(
-          title: item.spell,
-          content: Row(
-            children: [
-              Text("${item.description}"),
-            ],
-          ));
+      audioPlayer.pause();
+      await Get.defaultDialog(
+        title: item.spell,
+        content: Row(
+          children: [
+            Text("${item.description}"),
+          ],
+        ),
+      );
+      audioPlayer.resume();
     }
   }
 
@@ -198,7 +201,9 @@ class BookManager {
     return item;
   }
 
-  void wordWrap(int seconds) async {
+  late AudioPlayer audioPlayer;
+  void wordWrap(int seconds, AudioPlayer audioPlayer) async {
+    this.audioPlayer = audioPlayer;
     var currentPositionx = cleanWords
         .where((x) => seconds >= x.start && seconds <= x.end)
         .firstOrNull;
