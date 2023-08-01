@@ -9,7 +9,8 @@
             {
               "startTime": "0s",
               "endTime": "1.600s",
-              "word": "Çeç Dağı"
+              "word": "Çeç Dağı",
+              "large": "true"
             },
             {
               "startTime": "1.600s",

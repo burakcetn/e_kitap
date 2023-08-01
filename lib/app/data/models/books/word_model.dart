@@ -17,7 +17,7 @@ class WordModel {
   bool? isSpell = false;
 
   WordModel(this.wordItem, this.span, this.isHighligth);
-  WidgetSpan span;
+  InlineSpan span;
   bool isHighligth;
   Word wordItem;
 }
@@ -97,36 +97,67 @@ class BookManager {
   void setText() {
     spans.clear();
     spans.refresh();
+    bool beforeLarge = false;
     for (var e in cleanWords) {
-      spans.add(WordModel(
-          e,
-          WidgetSpan(
-            child: GestureDetector(
+      if (e.large == false && beforeLarge) {
+        spans.add(
+          WordModel(
+              Word(startTime: "-1", endTime: "-1", word: "\n", large: false),
+              TextSpan(
+                text: "\n",
+                style: GoogleFonts.openSans(
+                    color: Colors.black,
+                    fontSize: 20,
+                    fontWeight: FontWeight.bold),
+              ),
+              false),
+        );
+      }
+
+      spans.add(
+        WordModel(
+            e,
+            WidgetSpan(
+              child: GestureDetector(
+                child: Padding(
+                  padding: EdgeInsets.symmetric(horizontal: 2, vertical: 0),
+                  child: Text(e.word.trim(),
+                      style: GoogleFonts.openSans(
+                          color: Colors.black,
+                          fontSize: e.large ? 20 : 15,
+                          fontWeight:
+                              e.large ? FontWeight.bold : FontWeight.normal)),
+                ),
+                onTap: () {
+                  ontapWord(e);
+                },
+              ),
+              style: GoogleFonts.openSans(
+                  color: Colors.black,
+                  fontSize: e.large ? 20 : 15,
+                  fontWeight: e.large ? FontWeight.bold : FontWeight.normal),
+            ),
+            false),
+      );
+
+      if (e.large == false && !beforeLarge) {
+        spans.add(WordModel(
+            Word(
+                endTime: "999999999",
+                startTime: "9999999999",
+                word: " ",
+                large: false),
+            WidgetSpan(
               child: Padding(
                 padding: EdgeInsets.symmetric(horizontal: 2, vertical: 0),
-                child: Text(e.word.trim()),
+                child: Text(" "),
               ),
-              onTap: () {
-                ontapWord(e);
-              },
+              style: GoogleFonts.openSans(color: Colors.black, fontSize: 15),
             ),
-            style: GoogleFonts.openSans(
-              color: Colors.black,
-              fontSize: 15,
-            ),
-          ),
-          false));
+            false));
+      }
 
-      spans.add(WordModel(
-          Word(endTime: "999999999", startTime: "9999999999", word: " "),
-          WidgetSpan(
-            child: Padding(
-              padding: EdgeInsets.symmetric(horizontal: 2, vertical: 0),
-              child: Text(" "),
-            ),
-            style: GoogleFonts.openSans(color: Colors.black, fontSize: 15),
-          ),
-          false));
+      beforeLarge = e.large;
     }
     spans.refresh();
   }
@@ -220,11 +251,24 @@ class BookManager {
     spans.refresh();
   }
 
-  WidgetSpan createSpan(WordModel element, Color color) {
+  bool beforeLarge = false;
+
+  InlineSpan createSpan(WordModel element, Color color) {
     if (!element.ischecked) {
       element.isSpell = getSpell(element.wordItem) != null;
     }
     element.ischecked = true;
+
+    if (element.wordItem.large == false && beforeLarge) {
+      beforeLarge = element.wordItem.large;
+      return TextSpan(
+        text: "\n",
+        style: GoogleFonts.openSans(
+            color: Colors.black, fontSize: 20, fontWeight: FontWeight.bold),
+      );
+    }
+
+    beforeLarge = element.wordItem.large;
     return WidgetSpan(
       child: GestureDetector(
         onTap: () {
@@ -233,9 +277,17 @@ class BookManager {
         child: Container(
           color: color,
           child: Padding(
-            padding: const EdgeInsets.symmetric(horizontal: 2, vertical: 2),
+            padding: EdgeInsets.symmetric(
+                horizontal: 2, vertical: element.wordItem.large ? 10 : 2),
             child: Text(
               element.wordItem.word.trim(),
+              style: GoogleFonts.openSans(
+                color: Colors.black,
+                fontSize: element.wordItem.large ? 20 : 15,
+                fontWeight: element.wordItem.large
+                    ? FontWeight.bold
+                    : FontWeight.normal,
+              ),
             ),
           ),
         ),

@@ -4,6 +4,8 @@ import 'package:getx_skeleton/app/modules/landing_page/index.dart';
 import 'package:googleapis/dfareporting/v4.dart';
 
 import '../../drawer.dart';
+import '../modules/Contact/bindings.dart';
+import '../modules/Contact/view.dart';
 import '../modules/LoadingBook/bindings.dart';
 import '../modules/LoadingBook/view.dart';
 import '../modules/home/bindings/home_binding.dart';
@@ -36,6 +38,11 @@ class AppPages {
       name: _Paths.LANDING,
       page: () => LandingPagePage(),
       binding: LandingPageBinding(),
+    ),
+    GetPage(
+      name: _Paths.CONTACT,
+      page: () => ContactPage(),
+      binding: ContactBinding(),
     ),
   ];
 }

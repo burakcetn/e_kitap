@@ -9,7 +9,8 @@
             {
               "startTime": "0s",
               "endTime": "1.700s",
-              "word": "Kıztaşı"
+              "word": "Kıztaşı",
+              "large": "true"
             },
             {
               "startTime": "1.700s",

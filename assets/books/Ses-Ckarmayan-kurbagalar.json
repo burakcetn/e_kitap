@@ -9,17 +9,20 @@
             {
               "startTime": "0s",
               "endTime": "1.400s",
-              "word": "ses"
+              "word": "ses",
+              "large": "true"
             },
             {
               "startTime": "1.400s",
               "endTime": "2.100s",
-              "word": "çıkarmayan"
+              "word": "çıkarmayan",
+              "large": "true"
             },
             {
               "startTime": "2.100s",
               "endTime": "2.900s",
-              "word": "Kurbağalar"
+              "word": "Kurbağalar",
+              "large": "true"
             },
             {
               "startTime": "2.900s",

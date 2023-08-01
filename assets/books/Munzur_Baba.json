@@ -9,12 +9,14 @@
             {
               "startTime": "0s",
               "endTime": "1.700s",
-              "word": "Munzur"
+              "word": "Munzur",
+              "large": "true"
             },
             {
               "startTime": "1.700s",
               "endTime": "1.800s",
-              "word": "Baba"
+              "word": "Baba",
+              "large": "true"
             },
             {
               "startTime": "1.800s",

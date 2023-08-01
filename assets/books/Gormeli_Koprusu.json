@@ -9,12 +9,14 @@
             {
               "startTime": "0s",
               "endTime": "1.800s",
-              "word": "Görmeli"
+              "word": "Görmeli",
+              "large": "true"
             },
             {
               "startTime": "1.800s",
               "endTime": "2.300s",
-              "word": "Köprüsü"
+              "word": "Köprüsü",
+              "large": "true"
             },
             {
               "startTime": "2.300s",

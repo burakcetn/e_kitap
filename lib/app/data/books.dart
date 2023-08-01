@@ -33,6 +33,7 @@ const _booksAll = [
   },
   {
     "name": "Aynalı Mağara Efsanesi",
+    "nameUp": "Aynalı Mağara Efsanesi",
     "bookPath": "assets/books/aynal_Magara.json",
     "audioPath": "audios/aynali_magara.m4a",
     "imagePath": "assets/images/aynalı_magara.jpg",

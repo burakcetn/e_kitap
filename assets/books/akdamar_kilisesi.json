@@ -10,12 +10,14 @@
               "startTime": "0s",
               "endTime": "1.700s",
               "word": "Akdamar",
-              "fiil": "Ada"
+              "fiil": "Ada",
+              "large": "true"
             },
             {
               "startTime": "1.700s",
               "endTime": "2.300s",
-              "word": "adası"
+              "word": "adası",
+              "large": "true"
             },
             {
               "startTime": "2.300s",

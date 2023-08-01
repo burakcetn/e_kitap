@@ -9,12 +9,14 @@
             {
               "startTime": "0s",
               "endTime": "2.200s",
-              "word": "Pamukkale"
+              "word": "Pamukkale",
+              "large": "true"
             },
             {
               "startTime": "2.200s",
               "endTime": "2.500s",
-              "word": "Efsanesi"
+              "word": "Efsanesi",
+              "large": "true"
             },
             {
               "startTime": "2.500s",
@@ -49,12 +51,12 @@
             {
               "startTime": "7.500s",
               "endTime": "8.300s",
-              "word": "anlatırmış"
+              "word": "anlatırmış."
             },
             {
               "startTime": "8.300s",
               "endTime": "9.200s",
-              "word": "ben"
+              "word": "Ben"
             },
             {
               "startTime": "9.200s",
@@ -69,12 +71,12 @@
             {
               "startTime": "9.800s",
               "endTime": "10.500s",
-              "word": "bozmayayım"
+              "word": "bozmayayım."
             },
             {
               "startTime": "10.500s",
               "endTime": "11.500s",
-              "word": "çok"
+              "word": "Çok"
             },
             {
               "startTime": "11.500s",
@@ -104,7 +106,7 @@
             {
               "startTime": "14.500s",
               "endTime": "14.600s",
-              "word": "yaşayan"
+              "word": "yaşayan,"
             },
             {
               "startTime": "14.600s",
@@ -129,7 +131,7 @@
             {
               "startTime": "16.900s",
               "endTime": "17.200s",
-              "word": "varmış"
+              "word": "varmış."
             },
             {
               "startTime": "17.200s",
@@ -179,7 +181,7 @@
             {
               "startTime": "21.800s",
               "endTime": "22.100s",
-              "word": "Anneleri"
+              "word": "anneleri"
             },
             {
               "startTime": "22.100s",
@@ -199,12 +201,12 @@
             {
               "startTime": "23.900s",
               "endTime": "24.800s",
-              "word": "değiştiriyormuş"
+              "word": "değiştiriyormuş."
             },
             {
               "startTime": "24.800s",
               "endTime": "26.400s",
-              "word": "fakirliği"
+              "word": "Fakirliği,"
             },
             {
               "startTime": "26.400s",
@@ -254,12 +256,12 @@
             {
               "startTime": "31.200s",
               "endTime": "31.600s",
-              "word": "etmiş"
+              "word": "etmiş."
             },
             {
               "startTime": "31.600s",
               "endTime": "33.100s",
-              "word": "çökelez"
+              "word": "Çökelez"
             },
             {
               "startTime": "33.100s",
@@ -284,7 +286,7 @@
             {
               "startTime": "35.500s",
               "endTime": "35.900s",
-              "word": "bırakmış"
+              "word": "bırakmış."
             },
             {
               "startTime": "35.900s",
@@ -319,12 +321,12 @@
             {
               "startTime": "39.400s",
               "endTime": "39.900s",
-              "word": "düşmüş"
+              "word": "düşmüş."
             },
             {
               "startTime": "39.900s",
               "endTime": "41.200s",
-              "word": "burada"
+              "word": "Burada"
             },
             {
               "startTime": "41.200s",
@@ -354,12 +356,12 @@
             {
               "startTime": "43.700s",
               "endTime": "44.200s",
-              "word": "kalmış"
+              "word": "kalmış."
             },
             {
               "startTime": "44.200s",
               "endTime": "45s",
-              "word": "o"
+              "word": "O"
             },
             {
               "startTime": "45s",
@@ -399,12 +401,12 @@
             {
               "startTime": "47.800s",
               "endTime": "48.500s",
-              "word": "boğmuş"
+              "word": "boğmuş."
             },
             {
               "startTime": "48.500s",
               "endTime": "49.700s",
-              "word": "oradan"
+              "word": "Oradan"
             },
             {
               "startTime": "49.700s",
@@ -424,12 +426,12 @@
             {
               "startTime": "51.100s",
               "endTime": "51.500s",
-              "word": "beyinin"
+              "word": "Beyinin"
             },
             {
               "startTime": "51.500s",
               "endTime": "51.700s",
-              "word": "oğlu"
+              "word": "oğlu,"
             },
             {
               "startTime": "51.700s",
@@ -454,12 +456,12 @@
             {
               "startTime": "53.900s",
               "endTime": "54.300s",
-              "word": "görmüş"
+              "word": "görmüş."
             },
             {
               "startTime": "54.300s",
               "endTime": "55.500s",
-              "word": "atına"
+              "word": "Atına"
             },
             {
               "startTime": "55.500s",
@@ -484,12 +486,12 @@
             {
               "startTime": "57.400s",
               "endTime": "58s",
-              "word": "götürmüş"
+              "word": "götürmüş."
             },
             {
               "startTime": "58s",
               "endTime": "58.900s",
-              "word": "kız"
+              "word": "Kız"
             },
             {
               "startTime": "58.900s",
@@ -516,7 +518,7 @@
             {
               "startTime": "60s",
               "endTime": "60.800s",
-              "word": "evlenmişler"
+              "word": "evlenmişler."
             },
             {
               "startTime": "60.800s",
@@ -571,7 +573,7 @@
             {
               "startTime": "66.400s",
               "endTime": "66.900s",
-              "word": "başlamış"
+              "word": "başlamış."
             },
             {
               "startTime": "66.900s",
@@ -606,7 +608,7 @@
             {
               "startTime": "70.400s",
               "endTime": "71s",
-              "word": "kadınlar"
+              "word": "kadınlar,"
             },
             {
               "startTime": "71s",
@@ -631,7 +633,7 @@
             {
               "startTime": "73.200s",
               "endTime": "74s",
-              "word": "atarlarmış"
+              "word": "atarlarmış."
             }
           ]
         }

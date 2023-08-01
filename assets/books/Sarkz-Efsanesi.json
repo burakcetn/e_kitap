@@ -9,12 +9,14 @@
             {
               "startTime": "0s",
               "endTime": "1.800s",
-              "word": "sarıkız"
+              "word": "sarıkız",
+              "large": "true"
             },
             {
               "startTime": "1.800s",
               "endTime": "2.100s",
-              "word": "efsanesi"
+              "word": "efsanesi",
+              "large": "true"
             },
             {
               "startTime": "2.100s",

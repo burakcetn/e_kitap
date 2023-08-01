@@ -9,27 +9,32 @@
             {
               "startTime": "0s",
               "endTime": "1.800s",
-              "word": "Balıklı"
+              "word": "Balıklı",
+              "large": "true"
             },
             {
               "startTime": "1.800s",
               "endTime": "2.100s",
-              "word": "Göl"
+              "word": "Göl",
+              "large": "true"
             },
             {
               "startTime": "2.100s",
               "endTime": "2.300s",
-              "word": "ve"
+              "word": "ve",
+              "large": "true"
             },
             {
               "startTime": "2.300s",
               "endTime": "2.800s",
-              "word": "İğde"
+              "word": "İğde",
+              "large": "true"
             },
             {
               "startTime": "2.800s",
               "endTime": "3.200s",
-              "word": "Ağacı"
+              "word": "Ağacı",
+              "large": "true"
             },
             {
               "startTime": "3.200s",

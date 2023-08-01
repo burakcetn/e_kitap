@@ -45,13 +45,13 @@ class QuestionManager {
     quiz.add(model);
     model.add(
       QuestionWrapModel(
-        "Ülkedeki kömür {answer} yöre halkı çalışmaktadır",
+        "Ülkedeki kömür {answer} yöre halkı çalışmaktadır.",
         "havzasında",
       ),
     );
     model.add(
       QuestionWrapModel(
-        "Yağmurla birlikte sanki sel değil de {answer} oldu. Yer yerinden oynadı",
+        "Yağmurla birlikte sanki sel değil de {answer} oldu. Yer yerinden oynadı.",
         "tufan",
       ),
     );
@@ -153,7 +153,7 @@ class QuestionManager {
     );
     model.add(
       QuestionWrapModel(
-        "Gençler birbirine sevdalanınca {answer} da aile büyüklerinden kızı istemiş",
+        "Gençler birbirine sevdalanınca {answer} da aile büyüklerinden kızı istemiş.",
         "köy muhtarı",
       ),
     );
@@ -285,7 +285,7 @@ class QuestionManager {
     );
     model.add(
       QuestionWrapModel(
-          "Çocuk hayvan belgeselini seyrettikten sonra kuşunu doğaya {answer} gerektiğini anladı",
+          "Çocuk hayvan belgeselini seyrettikten sonra kuşunu doğaya {answer} gerektiğini anladı.",
           "salıverilmesi"),
     );
     model.add(
@@ -352,7 +352,7 @@ class QuestionManager {
     );
     model.add(
       QuestionWrapModel(
-          "Yapılan arkeolojik {answer} sonucunda yeni bir antik köy gün yüzüne çıkarıldı",
+          "Yapılan arkeolojik {answer} sonucunda yeni bir antik köy gün yüzüne çıkarıldı.",
           "kazılar"),
     );
     model.add(
@@ -425,7 +425,7 @@ class QuestionManager {
     );
     model.add(
       QuestionWrapModel(
-          "Her şeyi bilsen bile bir bilene {answer} , demişler.", "akıl danış"),
+          "Her şeyi bilsen bile bir bilene {answer}, demişler.", "akıl danış"),
     );
     model.add(
       QuestionWrapModel(
@@ -566,7 +566,7 @@ class QuestionManager {
     );
     model.add(
       QuestionWrapModel(
-          "Hırsız polisi görünce kaçmaya {answer} ancak başarılı olamadı",
+          "Hırsız polisi görünce kaçmaya {answer} ancak başarılı olamadı.",
           "yeltendi"),
     );
     model.add(
@@ -643,7 +643,7 @@ class QuestionManager {
     );
     model.add(
       QuestionWrapModel(
-          "Binanın {answer} teyzeler oturmuş sohbet ediyorlardı", "girişine"),
+          "Binanın {answer} teyzeler oturmuş sohbet ediyorlardı.", "girişine"),
     );
     model.add(
       QuestionWrapModel(
@@ -701,7 +701,7 @@ class QuestionManager {
     );
     model.add(
       QuestionWrapModel(
-          "Yıllarca anne ve babanın {answer} çocuklar büyüdükleri zaman karar vermekte zorluk yaşarlar",
+          "Yıllarca anne ve babanın {answer} çocuklar büyüdükleri zaman karar vermekte zorluk yaşarlar.",
           "tesiri altında kalan"),
     );
     model.add(
@@ -1212,7 +1212,7 @@ class QuestionManager {
     );
     model.add(
       QuestionWrapModel(
-          "Tüm çobanlar hayvanlarını {answer} için dağ bayır dolanırlar",
+          "Tüm çobanlar hayvanlarını {answer} için dağ bayır dolanırlar.",
           "otlatmak"),
     );
     model.add(

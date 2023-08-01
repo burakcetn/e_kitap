@@ -9,12 +9,14 @@
             {
               "startTime": "0s",
               "endTime": "1.800s",
-              "word": "Arap"
+              "word": "Arap",
+              "large": "true"
             },
             {
               "startTime": "1.800s",
               "endTime": "2.100s",
-              "word": "Baba"
+              "word": "Baba",
+              "large": "true"
             },
             {
               "startTime": "2.100s",

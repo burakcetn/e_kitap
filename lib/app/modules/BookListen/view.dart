@@ -63,6 +63,7 @@ class BooklistenPage extends GetView<BooklistenController> {
                   children: [
                     Positioned.fill(
                       child: ListView(
+                        physics: BouncingScrollPhysics(),
                         children: [
                           Obx(
                             () => RichText(

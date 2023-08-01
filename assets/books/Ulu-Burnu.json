@@ -9,12 +9,14 @@
             {
               "startTime": "0s",
               "endTime": "1.700s",
-              "word": "Ulu"
+              "word": "Ulu",
+              "large": "true"
             },
             {
               "startTime": "1.700s",
               "endTime": "2s",
-              "word": "burnu"
+              "word": "burnu",
+              "large": "true"
             },
             {
               "startTime": "2s",

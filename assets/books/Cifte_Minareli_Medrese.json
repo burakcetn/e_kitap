@@ -9,17 +9,20 @@
             {
               "startTime": "0s",
               "endTime": "1.500s",
-              "word": "Çifte"
+              "word": "Çifte",
+              "large": "true"
             },
             {
               "startTime": "1.500s",
               "endTime": "2s",
-              "word": "Minareli"
+              "word": "Minareli",
+              "large": "true"
             },
             {
               "startTime": "2s",
               "endTime": "2.100s",
-              "word": "Medrese"
+              "word": "Medrese",
+              "large": "true"
             },
             {
               "startTime": "2.100s",

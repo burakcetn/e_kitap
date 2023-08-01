@@ -9,17 +9,20 @@
             {
               "startTime": "0s",
               "endTime": "1.900s",
-              "word": "Cumalıkızık"
+              "word": "Cumalıkızık",
+              "large": "true"
             },
             {
               "startTime": "1.900s",
               "endTime": "2.600s",
-              "word": "cin"
+              "word": "cin",
+              "large": "true"
             },
             {
               "startTime": "2.600s",
               "endTime": "3.100s",
-              "word": "aralığı"
+              "word": "aralığı",
+              "large": "true"
             },
             {
               "startTime": "3.100s",

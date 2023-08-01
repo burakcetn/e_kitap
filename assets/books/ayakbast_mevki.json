@@ -9,12 +9,14 @@
             {
               "startTime": "0s",
               "endTime": "1.900s",
-              "word": "ayakbastı"
+              "word": "ayakbastı",
+              "large": "true"
             },
             {
               "startTime": "1.900s",
               "endTime": "2.700s",
-              "word": "mevkii"
+              "word": "mevkii",
+              "large": "true"
             },
             {
               "startTime": "2.700s",

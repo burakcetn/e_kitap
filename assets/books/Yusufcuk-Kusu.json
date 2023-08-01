@@ -9,12 +9,14 @@
             {
               "startTime": "0s",
               "endTime": "1.400s",
-              "word": "yusufçuk"
+              "word": "yusufçuk",
+              "large": "true"
             },
             {
               "startTime": "1.400s",
               "endTime": "1.700s",
-              "word": "kuşu"
+              "word": "kuşu",
+              "large": "true"
             },
             {
               "startTime": "1.700s",

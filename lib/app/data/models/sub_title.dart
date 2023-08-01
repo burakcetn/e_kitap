@@ -81,16 +81,19 @@ class Word {
   int start = 0;
   bool isOk = false;
   int end = 0;
+  bool large = false;
   Word({
     required this.startTime,
     required this.endTime,
     required this.word,
+    required this.large,
   });
 
   factory Word.fromJson(Map<String, dynamic> json) => Word(
         startTime: json["startTime"],
         endTime: json["endTime"],
         word: json["word"],
+        large: bool.tryParse(json["large"] ?? "false") ?? false,
       );
 
   Map<String, dynamic> toJson() => {
