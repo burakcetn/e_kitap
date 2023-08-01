@@ -15,13 +15,13 @@
             {
               "startTime": "1.700s",
               "endTime": "2s",
-              "word": "burnu",
+              "word": "Burnu",
               "large": "true"
             },
             {
               "startTime": "2s",
               "endTime": "4.500s",
-              "word": "Yeşilgiresun'umuzun"
+              "word": "Yeşil Giresun'umuzun"
             },
             {
               "startTime": "4.500s",
@@ -46,7 +46,7 @@
             {
               "startTime": "6.800s",
               "endTime": "7.500s",
-              "word": "arasında"
+              "word": "arasında,"
             },
             {
               "startTime": "7.500s",
@@ -81,7 +81,7 @@
             {
               "startTime": "11.600s",
               "endTime": "11.900s",
-              "word": "yer vardır."
+              "word": "yer vardır;"
             },
             {
               "startTime": "11.900s",
@@ -91,7 +91,7 @@
             {
               "startTime": "13.100s",
               "endTime": "13.500s",
-              "word": "burnu"
+              "word": "Burnu"
             },
             {
               "startTime": "13.500s",
@@ -131,7 +131,7 @@
             {
               "startTime": "19.800s",
               "endTime": "20.600s",
-              "word": "gülburnu"
+              "word": "Gülburnu"
             },
             {
               "startTime": "20.600s",
@@ -141,7 +141,7 @@
             {
               "startTime": "20.900s",
               "endTime": "21.600s",
-              "word": "arasında"
+              "word": "arasında,"
             },
             {
               "startTime": "21.600s",
@@ -156,7 +156,7 @@
             {
               "startTime": "23.300s",
               "endTime": "23.900s",
-              "word": "kayalarını"
+              "word": "kayalarını,"
             },
             {
               "startTime": "23.900s",
@@ -196,12 +196,12 @@
             {
               "startTime": "27.900s",
               "endTime": "28.800s",
-              "word": "mümkündür"
+              "word": "mümkündür."
             },
             {
               "startTime": "28.800s",
               "endTime": "30.200s",
-              "word": "doğu"
+              "word": "Doğu"
             },
             {
               "startTime": "30.200s",
@@ -251,7 +251,7 @@
             {
               "startTime": "35.200s",
               "endTime": "35.800s",
-              "word": "Selam verdiren"
+              "word": "selam verdiren"
             },
             {
               "startTime": "35.800s",
@@ -281,17 +281,12 @@
             {
               "startTime": "38.800s",
               "endTime": "39.300s",
-              "word": "vardır"
+              "word": "vardır:"
             },
             {
               "startTime": "39.300s",
-              "endTime": "40.400s",
-              "word": "vakti"
-            },
-            {
-              "startTime": "40.400s",
-              "endTime": "40.600s",
-              "word": "ile"
+              "endTime": "40.600",
+              "word": "Vaktiyle"
             },
             {
               "startTime": "40.600s",
@@ -301,7 +296,7 @@
             {
               "startTime": "41.100s",
               "endTime": "41.400s",
-              "word": "biri"
+              "word": "biri,"
             },
             {
               "startTime": "41.400s",
@@ -341,22 +336,22 @@
             {
               "startTime": "45.800s",
               "endTime": "46.300s",
-              "word": "tutulur"
+              "word": "tutulur."
             },
             {
               "startTime": "46.300s",
               "endTime": "47.500s",
-              "word": "sonunda kaptan"
+              "word": "Sonunda kaptan"
             },
             {
               "startTime": "47.500s",
               "endTime": "49s",
-              "word": "gülburnu"
+              "word": "Gülburnu"
             },
             {
               "startTime": "49s",
               "endTime": "49.500s",
-              "word": "koyuna"
+              "word": "köyüne"
             },
             {
               "startTime": "49.500s",
@@ -371,12 +366,12 @@
             {
               "startTime": "50.400s",
               "endTime": "50.800s",
-              "word": "verir"
+              "word": "verir."
             },
             {
               "startTime": "50.800s",
               "endTime": "51.900s",
-              "word": "bugün"
+              "word": "Bugün"
             },
             {
               "startTime": "51.900s",
@@ -386,7 +381,7 @@
             {
               "startTime": "52.500s",
               "endTime": "52.900s",
-              "word": "burnu"
+              "word": "Burnu"
             },
             {
               "startTime": "52.900s",
@@ -416,7 +411,7 @@
             {
               "startTime": "55.900s",
               "endTime": "56.500s",
-              "word": "yorulurlar"
+              "word": "yorulurlar,"
             },
             {
               "startTime": "56.500s",
@@ -436,7 +431,7 @@
             {
               "startTime": "59.400s",
               "endTime": "59.900s",
-              "word": "asılırlar"
+              "word": "asılırlar."
             }
           ]
         }
@@ -453,7 +448,7 @@
             {
               "startTime": "60.100s",
               "endTime": "60.700s",
-              "word": "bir"
+              "word": "Bir"
             },
             {
               "startTime": "60.700s",
@@ -568,7 +563,7 @@
             {
               "startTime": "73.600s",
               "endTime": "74.100s",
-              "word": "kopar"
+              "word": "kopar."
             },
             {
               "startTime": "74.100s",
@@ -588,12 +583,12 @@
             {
               "startTime": "76.500s",
               "endTime": "76.800s",
-              "word": "kalır"
+              "word": "kalır."
             },
             {
               "startTime": "76.800s",
               "endTime": "77.800s",
-              "word": "tekne"
+              "word": "Tekne"
             },
             {
               "startTime": "77.800s",
@@ -613,12 +608,12 @@
             {
               "startTime": "79.700s",
               "endTime": "80.400s",
-              "word": "sürüklenmektedir"
+              "word": "sürüklenmektedir."
             },
             {
               "startTime": "80.400s",
               "endTime": "81.800s",
-              "word": "tam"
+              "word": "Tam"
             },
             {
               "startTime": "81.800s",
@@ -663,12 +658,12 @@
             {
               "startTime": "86s",
               "endTime": "86.700s",
-              "word": "yanar"
+              "word": "yanar."
             },
             {
               "startTime": "86.700s",
               "endTime": "87.500s",
-              "word": "bu"
+              "word": "Bu"
             },
             {
               "startTime": "87.500s",
@@ -678,7 +673,7 @@
             {
               "startTime": "88.300s",
               "endTime": "89s",
-              "word": "Hadise"
+              "word": "hadise"
             },
             {
               "startTime": "89s",
@@ -693,12 +688,12 @@
             {
               "startTime": "90.900s",
               "endTime": "91.400s",
-              "word": "çevirir"
+              "word": "çevirir."
             },
             {
               "startTime": "91.400s",
               "endTime": "92.800s",
-              "word": "söylendiğine"
+              "word": "Söylendiğine"
             },
             {
               "startTime": "92.800s",
@@ -718,7 +713,7 @@
             {
               "startTime": "94.100s",
               "endTime": "94.400s",
-              "word": "Ulu"
+              "word": "ulu"
             },
             {
               "startTime": "94.400s",
@@ -733,12 +728,12 @@
             {
               "startTime": "95.500s",
               "endTime": "95.900s",
-              "word": "varmış"
+              "word": "varmış."
             },
             {
               "startTime": "95.900s",
               "endTime": "97.500s",
-              "word": "gemicilerin"
+              "word": "Gemicilerin"
             },
             {
               "startTime": "97.500s",
@@ -793,7 +788,7 @@
             {
               "startTime": "102.800s",
               "endTime": "103.100s",
-              "word": "olmuş"
+              "word": "olmuş."
             },
             {
               "startTime": "103.100s",
@@ -803,7 +798,7 @@
             {
               "startTime": "103.800s",
               "endTime": "104.900s",
-              "word": "Tekneyi"
+              "word": "tekneyi"
             },
             {
               "startTime": "104.900s",
@@ -833,7 +828,7 @@
             {
               "startTime": "108s",
               "endTime": "109.900s",
-              "word": "sonunda"
+              "word": "Sonunda"
             },
             {
               "startTime": "109.900s",
@@ -858,7 +853,7 @@
             {
               "startTime": "112s",
               "endTime": "113.300s",
-              "word": "Bu burun O"
+              "word": "Bu burun o"
             },
             {
               "startTime": "113.300s",
@@ -873,7 +868,7 @@
             {
               "startTime": "114.100s",
               "endTime": "115.400s",
-              "word": "Gemiciler"
+              "word": "gemiciler"
             },
             {
               "startTime": "115.400s",
@@ -950,7 +945,7 @@
             {
               "startTime": "122.200s",
               "endTime": "123.400s",
-              "word": "selamlanır"
+              "word": "selamlanır."
             }
           ]
         }
