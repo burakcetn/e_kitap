@@ -77,7 +77,7 @@
             {
               "startTime": "8.700s",
               "endTime": "9.100s",
-              "word": "için"
+              "word": "için,"
             },
             {
               "startTime": "9.100s",
@@ -122,7 +122,7 @@
             {
               "startTime": "13.900s",
               "endTime": "14.400s",
-              "word": "sultanı"
+              "word": "Sultanı"
             },
             {
               "startTime": "14.400s",
@@ -172,7 +172,7 @@
             {
               "startTime": "20.200s",
               "endTime": "21.100s",
-              "word": "padişah"
+              "word": "Padişah"
             },
             {
               "startTime": "21.100s",
@@ -207,12 +207,12 @@
             {
               "startTime": "24.600s",
               "endTime": "25.800s",
-              "word": "hatuniye"
+              "word": "'Hatuniye"
             },
             {
               "startTime": "25.800s",
               "endTime": "26.100s",
-              "word": "Medresesi"
+              "word": "Medresesi'"
             },
             {
               "startTime": "26.100s",
@@ -277,7 +277,7 @@
             {
               "startTime": "34.600s",
               "endTime": "35.700s",
-              "word": "2"
+              "word": "İki"
             },
             {
               "startTime": "35.700s",
@@ -297,17 +297,17 @@
             {
               "startTime": "37.200s",
               "endTime": "38.100s",
-              "word": "çifte"
+              "word": "Çifte"
             },
             {
               "startTime": "38.100s",
               "endTime": "38.700s",
-              "word": "minareli"
+              "word": "Minareli"
             },
             {
               "startTime": "38.700s",
               "endTime": "39.300s",
-              "word": "medreseyi"
+              "word": "Medrese'yi"
             },
             {
               "startTime": "39.300s",
@@ -317,12 +317,12 @@
             {
               "startTime": "40.400s",
               "endTime": "40.900s",
-              "word": "sultanı"
+              "word": "Sultanı"
             },
             {
               "startTime": "40.900s",
               "endTime": "41s",
-              "word": "Alaaddin"
+              "word": "Alâeddin"
             },
             {
               "startTime": "41s",
@@ -392,12 +392,12 @@
             {
               "startTime": "47.800s",
               "endTime": "48.500s",
-              "word": "Sultan"
+              "word": "sultan"
             },
             {
               "startTime": "48.500s",
               "endTime": "48.900s",
-              "word": "Şehit"
+              "word": "şehit"
             },
             {
               "startTime": "48.900s",
@@ -427,7 +427,7 @@
             {
               "startTime": "51.800s",
               "endTime": "52.900s",
-              "word": "aynı"
+              "word": "Aynı"
             },
             {
               "startTime": "52.900s",
@@ -472,7 +472,7 @@
             {
               "startTime": "56.600s",
               "endTime": "57.300s",
-              "word": "şehadete"
+              "word": "şehadeti"
             },
             {
               "startTime": "57.300s",
@@ -503,13 +503,18 @@
           "words": [
             {
               "startTime": "59.900s",
-              "endTime": "61.200s",
-              "word": "mimarlar"
+              "endTime": "60.200s",
+              "word": "çalışan"
+            },
+            {
+              "startTime": "60.200s",
+              "endTime": "60.500s",
+              "word": "mimarlar,"
             },
             {
               "startTime": "61.200s",
               "endTime": "61.800s",
-              "word": "Ustalar"
+              "word": "ustalar"
             },
             {
               "startTime": "61.800s",
@@ -604,7 +609,7 @@
             {
               "startTime": "75s",
               "endTime": "76.200s",
-              "word": "medresenin"
+              "word": "Medresenin"
             },
             {
               "startTime": "76.200s",
@@ -639,7 +644,7 @@
             {
               "startTime": "78.400s",
               "endTime": "78.800s",
-              "word": "Çırağı"
+              "word": "çırağı"
             },
             {
               "startTime": "78.800s",
@@ -689,7 +694,7 @@
             {
               "startTime": "84.500s",
               "endTime": "85s",
-              "word": "Usta"
+              "word": "usta"
             },
             {
               "startTime": "85s",
@@ -704,7 +709,7 @@
             {
               "startTime": "85.900s",
               "endTime": "86.300s",
-              "word": "Çırağı"
+              "word": "çırağı"
             },
             {
               "startTime": "86.300s",
@@ -859,7 +864,7 @@
             {
               "startTime": "103.100s",
               "endTime": "104.800s",
-              "word": "sadelikle"
+              "word": "Sadelikle"
             },
             {
               "startTime": "104.800s",
@@ -959,7 +964,7 @@
             {
               "startTime": "115.900s",
               "endTime": "117.500s",
-              "word": "nihayetinde"
+              "word": "Nihayetinde"
             },
             {
               "startTime": "117.500s",
@@ -1321,7 +1326,7 @@
             {
               "startTime": "153.800s",
               "endTime": "155.500s",
-              "word": "Usta idim"
+              "word": "'Usta idim"
             },
             {
               "startTime": "155.500s",
@@ -1351,7 +1356,7 @@
             {
               "startTime": "158.800s",
               "endTime": "159.300s",
-              "word": "seğirt."
+              "word": "seğirt.'"
             },
             {
               "startTime": "159.300s",
@@ -1361,7 +1366,7 @@
             {
               "startTime": "159.700s",
               "endTime": "160.600s",
-              "word": "seslenerek"
+              "word": "eseflenerek"
             },
             {
               "startTime": "160.600s",
@@ -1371,7 +1376,7 @@
             {
               "startTime": "161.700s",
               "endTime": "162.300s",
-              "word": "Minareden"
+              "word": "minareden"
             },
             {
               "startTime": "162.300s",
@@ -1451,7 +1456,7 @@
             {
               "startTime": "169.200s",
               "endTime": "170.200s",
-              "word": "Ustam"
+              "word": "'Ustam"
             },
             {
               "startTime": "170.200s",
@@ -1461,7 +1466,7 @@
             {
               "startTime": "170.700s",
               "endTime": "171.200s",
-              "word": "Ben"
+              "word": "ben"
             },
             {
               "startTime": "171.200s",
@@ -1788,7 +1793,7 @@
             {
               "startTime": "203.900s",
               "endTime": "205s",
-              "word": "sağ"
+              "word": "Sağ"
             },
             {
               "startTime": "205s",
