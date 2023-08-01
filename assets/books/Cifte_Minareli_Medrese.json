@@ -112,7 +112,7 @@
             {
               "startTime": "11.700s",
               "endTime": "12.700s",
-              "word": "bulunmamaktadır"
+              "word": "bulunmamaktadır."
             },
             {
               "startTime": "12.700s",
@@ -272,7 +272,7 @@
             {
               "startTime": "33.700s",
               "endTime": "34.600s",
-              "word": "bulunmaktadır"
+              "word": "bulunmaktadır."
             },
             {
               "startTime": "34.600s",
@@ -292,7 +292,7 @@
             {
               "startTime": "37.100s",
               "endTime": "37.200s",
-              "word": "göre"
+              "word": "göre:"
             },
             {
               "startTime": "37.200s",
@@ -347,7 +347,7 @@
             {
               "startTime": "43.700s",
               "endTime": "44.400s",
-              "word": "başlamış"
+              "word": "başlamış,"
             },
             {
               "startTime": "44.400s",
@@ -422,7 +422,7 @@
             {
               "startTime": "51.100s",
               "endTime": "51.800s",
-              "word": "kalmıştır"
+              "word": "kalmıştır."
             },
             {
               "startTime": "51.800s",
@@ -498,13 +498,13 @@
     {
       "alternatives": [
         {
-          "transcript": " memurlar Ustalar ve kalfaların emeklerinin karşılığını alamayınca işlerini bırakarak ayrıldıkları yönündedir Böylece Medrese\u0027nin inşası da yarım 2 saniye göre ise Medrese\u0027nin inşasında görev alan bir usta ile Çırağı arasında geçen bir olay anlatılmaktadır meşhur Çifte Minare biri Usta bizi de Çırağı tarafından yapılmaktadır ve çırağının işi zamanla ustasından daha gösterişli bir şekil almıştır gerçekten de Usta\u0027nın yaptı sağ minareyi göre son Minare daha sade ve daha kolay işçilikle bir halde yükselmektedir sadelikle çalışan usta Bunun farkına varmış Gerçi çırağını da biraz kıskanmış Ama bu hususta fazlaca konuşmamış belki konuşmayı gururunun getirememiş nihayetinde yaptığı işini farkında olan çırak da",
+          "transcript": " mimarlar, Ustalar ve kalfaların emeklerinin karşılığını alamayınca işlerini bırakarak ayrıldıkları yönündedir Böylece Medrese\u0027nin inşası da yarım 2 saniye göre ise Medrese\u0027nin inşasında görev alan bir usta ile Çırağı arasında geçen bir olay anlatılmaktadır meşhur Çifte Minare biri Usta bizi de Çırağı tarafından yapılmaktadır ve çırağının işi zamanla ustasından daha gösterişli bir şekil almıştır gerçekten de Usta\u0027nın yaptı sağ minareyi göre son Minare daha sade ve daha kolay işçilikle bir halde yükselmektedir sadelikle çalışan usta Bunun farkına varmış Gerçi çırağını da biraz kıskanmış Ama bu hususta fazlaca konuşmamış belki konuşmayı gururunun getirememiş nihayetinde yaptığı işini farkında olan çırak da",
           "confidence": 0.9214159,
           "words": [
             {
               "startTime": "59.900s",
               "endTime": "61.200s",
-              "word": "memurlar"
+              "word": "mimarlar"
             },
             {
               "startTime": "61.200s",
@@ -554,7 +554,7 @@
             {
               "startTime": "67.900s",
               "endTime": "68.300s",
-              "word": "yönündedir"
+              "word": "yönündedir."
             },
             {
               "startTime": "68.300s",
@@ -584,7 +584,7 @@
             {
               "startTime": "71.800s",
               "endTime": "73.500s",
-              "word": "kalmıştır"
+              "word": "kalmıştır."
             },
             {
               "startTime": "73.500s",
@@ -599,7 +599,7 @@
             {
               "startTime": "74.600s",
               "endTime": "75s",
-              "word": "ise"
+              "word": "ise:"
             },
             {
               "startTime": "75s",
@@ -664,7 +664,7 @@
             {
               "startTime": "80.600s",
               "endTime": "81.200s",
-              "word": "anlatılmaktadır"
+              "word": "anlatılmaktadır."
             },
             {
               "startTime": "81.200s",
@@ -764,7 +764,7 @@
             {
               "startTime": "92.700s",
               "endTime": "93.200s",
-              "word": "almıştır"
+              "word": "almıştır."
             },
             {
               "startTime": "93.200s",
@@ -809,7 +809,7 @@
             {
               "startTime": "97.700s",
               "endTime": "98.300s",
-              "word": "Minare"
+              "word": "Minare,"
             },
             {
               "startTime": "98.300s",
@@ -854,7 +854,7 @@
             {
               "startTime": "102.300s",
               "endTime": "103.100s",
-              "word": "yükselmektedir"
+              "word": "yükselmektedir."
             },
             {
               "startTime": "103.100s",
@@ -884,7 +884,7 @@
             {
               "startTime": "107s",
               "endTime": "107.600s",
-              "word": "varmış"
+              "word": "varmış,"
             },
             {
               "startTime": "107.600s",
@@ -954,7 +954,7 @@
             {
               "startTime": "115.300s",
               "endTime": "115.900s",
-              "word": "yedirememiş"
+              "word": "yedirememiş."
             },
             {
               "startTime": "115.900s",
@@ -1076,7 +1076,7 @@
             {
               "startTime": "126.800s",
               "endTime": "127.400s",
-              "word": "başlamış"
+              "word": "başlamış."
             },
             {
               "startTime": "127.400s",
@@ -1126,7 +1126,7 @@
             {
               "startTime": "132.600s",
               "endTime": "133.400s",
-              "word": "seyredermiş"
+              "word": "seyredermiş."
             },
             {
               "startTime": "133.400s",
@@ -1206,7 +1206,7 @@
             {
               "startTime": "140.600s",
               "endTime": "141s",
-              "word": "çırak"
+              "word": "çırak,"
             },
             {
               "startTime": "141s",
@@ -1246,7 +1246,7 @@
             {
               "startTime": "145.200s",
               "endTime": "145.500s",
-              "word": "olmuş"
+              "word": "olmuş."
             },
             {
               "startTime": "145.500s",
@@ -1291,7 +1291,7 @@
             {
               "startTime": "150s",
               "endTime": "150.400s",
-              "word": "Usta"
+              "word": "Usta;"
             },
             {
               "startTime": "150.400s",
@@ -1316,7 +1316,7 @@
             {
               "startTime": "153.700s",
               "endTime": "153.800s",
-              "word": "şekilde"
+              "word": "şekilde:"
             },
             {
               "startTime": "153.800s",
@@ -1331,7 +1331,7 @@
             {
               "startTime": "156.500s",
               "endTime": "157.100s",
-              "word": "seğirt"
+              "word": "seğirt,"
             },
             {
               "startTime": "157.100s",
@@ -1351,7 +1351,7 @@
             {
               "startTime": "158.800s",
               "endTime": "159.300s",
-              "word": "seğirt"
+              "word": "seğirt."
             },
             {
               "startTime": "159.300s",
@@ -1381,7 +1381,7 @@
             {
               "startTime": "162.500s",
               "endTime": "163.400s",
-              "word": "atmış"
+              "word": "atmış."
             },
             {
               "startTime": "163.400s",
@@ -1416,7 +1416,7 @@
             {
               "startTime": "166.600s",
               "endTime": "166.900s",
-              "word": "edip"
+              "word": "edip,"
             },
             {
               "startTime": "166.900s",
@@ -1471,7 +1471,7 @@
             {
               "startTime": "171.400s",
               "endTime": "172s",
-              "word": "dururum"
+              "word": "dururum?"
             },
             {
               "startTime": "172s",
@@ -1521,7 +1521,7 @@
             {
               "startTime": "175.800s",
               "endTime": "176.500s",
-              "word": "atmış"
+              "word": "atmış."
             },
             {
               "startTime": "176.500s",
@@ -1588,7 +1588,7 @@
             {
               "startTime": "181.700s",
               "endTime": "182.600s",
-              "word": "gitmişler"
+              "word": "gitmişler."
             },
             {
               "startTime": "182.600s",
@@ -1618,7 +1618,7 @@
             {
               "startTime": "185.700s",
               "endTime": "186.200s",
-              "word": "kalmış"
+              "word": "kalmış."
             },
             {
               "startTime": "186.200s",
@@ -1638,7 +1638,7 @@
             {
               "startTime": "187.700s",
               "endTime": "189.400s",
-              "word": "tamamlanmamıştır"
+              "word": "tamamlanmamıştır."
             },
             {
               "startTime": "189.400s",
@@ -1723,7 +1723,7 @@
             {
               "startTime": "196.800s",
               "endTime": "197.500s",
-              "word": "çarpmaktadır"
+              "word": "çarpmaktadır."
             },
             {
               "startTime": "197.500s",
@@ -1753,7 +1753,7 @@
             {
               "startTime": "200.600s",
               "endTime": "201s",
-              "word": "çırak"
+              "word": "çırak,"
             },
             {
               "startTime": "201s",
@@ -1783,7 +1783,7 @@
             {
               "startTime": "203.100s",
               "endTime": "203.900s",
-              "word": "yapılmıştır"
+              "word": "yapılmıştır."
             },
             {
               "startTime": "203.900s",
@@ -1798,7 +1798,7 @@
             {
               "startTime": "205.700s",
               "endTime": "206.400s",
-              "word": "sütunlar"
+              "word": "sütunlar,"
             },
             {
               "startTime": "206.400s",
@@ -1848,7 +1848,7 @@
             {
               "startTime": "211s",
               "endTime": "211.600s",
-              "word": "iken"
+              "word": "iken,"
             },
             {
               "startTime": "211.600s",
@@ -1863,7 +1863,7 @@
             {
               "startTime": "212.700s",
               "endTime": "213.700s",
-              "word": "sadedir"
+              "word": "sadedir."
             },
             {
               "startTime": "213.700s",
@@ -1918,7 +1918,7 @@
             {
               "startTime": "219.500s",
               "endTime": "220.300s",
-              "word": "manidardır"
+              "word": "manidardır."
             },
             {
               "startTime": "220.300s",
@@ -1933,7 +1933,7 @@
             {
               "startTime": "221.800s",
               "endTime": "222.600s",
-              "word": "termim"
+              "word": "termim/"
             },
             {
               "startTime": "222.600s",
@@ -2008,7 +2008,7 @@
             {
               "startTime": "234.200s",
               "endTime": "235.300s",
-              "word": "Dünya"
+              "word": "dünya"
             },
             {
               "startTime": "235.300s",
@@ -2043,7 +2043,7 @@
             {
               "startTime": "239.200s",
               "endTime": "239.700s",
-              "word": "olur"
+              "word": "olur,"
             }
           ]
         }
